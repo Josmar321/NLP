@@ -1,0 +1,775 @@
+{
+  "python": "3.14.3",
+  "fit_split": "train_parallel.csv",
+  "fit_rows": 420,
+  "grammar": "S O [L] [nu] V -> S [no] V O [en L]",
+  "lexicon_sizes": {
+    "subject": 10,
+    "object": 12,
+    "location": 6,
+    "verb": 30
+  },
+  "training_evidence": {
+    "rejected_train_ids": [],
+    "negation_disagreement_ids": []
+  },
+  "hints_audit": {
+    "rows": {
+      "conversation": 18,
+      "phase5": 40,
+      "hints": 21
+    },
+    "hint_checks": [
+      {
+        "naviri": "naku",
+        "espanol": "el niño",
+        "categoria": "sujeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 38
+      },
+      {
+        "naviri": "mika",
+        "espanol": "la niña",
+        "categoria": "sujeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 37
+      },
+      {
+        "naviri": "telu",
+        "espanol": "el maestro",
+        "categoria": "sujeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 44
+      },
+      {
+        "naviri": "kemi",
+        "espanol": "la investigadora",
+        "categoria": "sujeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 34
+      },
+      {
+        "naviri": "vonu",
+        "espanol": "el viajero",
+        "categoria": "sujeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 44
+      },
+      {
+        "naviri": "pira",
+        "espanol": "el agua",
+        "categoria": "objeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 32
+      },
+      {
+        "naviri": "suni",
+        "espanol": "el libro",
+        "categoria": "objeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 35
+      },
+      {
+        "naviri": "moru",
+        "espanol": "el mapa",
+        "categoria": "objeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 41
+      },
+      {
+        "naviri": "dali",
+        "espanol": "la fruta",
+        "categoria": "objeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 42
+      },
+      {
+        "naviri": "nelo",
+        "espanol": "el mensaje",
+        "categoria": "objeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 33
+      },
+      {
+        "naviri": "zura",
+        "espanol": "la llave",
+        "categoria": "objeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 30
+      },
+      {
+        "naviri": "sema",
+        "espanol": "observa",
+        "categoria": "verbo (presente)",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 26
+      },
+      {
+        "naviri": "lomu",
+        "espanol": "busca",
+        "categoria": "verbo (presente)",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 26
+      },
+      {
+        "naviri": "dema",
+        "espanol": "lleva",
+        "categoria": "verbo (presente)",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 30
+      },
+      {
+        "naviri": "nemi",
+        "espanol": "recuerda",
+        "categoria": "verbo (presente)",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 18
+      },
+      {
+        "naviri": "hala",
+        "espanol": "en la casa",
+        "categoria": "lugar",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 45
+      },
+      {
+        "naviri": "miri",
+        "espanol": "en el bosque",
+        "categoria": "lugar",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 45
+      },
+      {
+        "naviri": "pavo",
+        "espanol": "en el laboratorio",
+        "categoria": "lugar",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 55
+      },
+      {
+        "naviri": "nu",
+        "espanol": "no",
+        "categoria": "negación",
+        "observacion": "Se coloca antes del verbo",
+        "consistent_with_train": true,
+        "train_support": 85
+      },
+      {
+        "naviri": "-ta",
+        "espanol": "pasado",
+        "categoria": "sufijo verbal",
+        "observacion": "Ejemplo: nemita = recordó",
+        "consistent_with_train": true,
+        "train_support": 73
+      },
+      {
+        "naviri": "-ri",
+        "espanol": "futuro",
+        "categoria": "sufijo verbal",
+        "observacion": "Ejemplo: nemiri = recordará",
+        "consistent_with_train": true,
+        "train_support": 87
+      }
+    ],
+    "hints_consistent": 21,
+    "phase5_source_overlaps": {
+      "train": 0,
+      "validation": 0,
+      "monolingual": 0,
+      "public": 0
+    },
+    "phase5_oov_types": [],
+    "phase5_parsed": 40,
+    "phase5_phenomena": {
+      "negative": 16,
+      "past": 13,
+      "future": 13,
+      "location": 20
+    },
+    "conversation_new_types": [
+      "areni",
+      "lumi",
+      "mali",
+      "mira",
+      "navira",
+      "naya",
+      "neri",
+      "noku",
+      "nori",
+      "pali",
+      "salia",
+      "selu",
+      "seni",
+      "vala",
+      "vali"
+    ],
+    "conversation_categories": {
+      "saludo": 4,
+      "despedida": 2,
+      "cortesía": 5,
+      "respuesta": 2,
+      "conversación": 2,
+      "petición": 3
+    },
+    "conversation_conflicting_phrases": {},
+    "training_evidence": {
+      "rejected_train_ids": [],
+      "negation_disagreement_ids": []
+    }
+  },
+  "hints_used_to_fit": false,
+  "conversation_used_to_fit_rules": false,
+  "monolingual_used_to_fit_rules": false,
+  "lm_used_to_rerank": false,
+  "metric_preprocessing": "EM y chrF sobre NFC, minúsculas, espacios normalizados y sin puntuación final; puntuación interna conservada.",
+  "chrf_scale": "0..100; CHRF char_order=6, word_order=0, beta=2; espacios excluidos",
+  "validation_results": {
+    "jaccard": {
+      "abstention_ids": [],
+      "groups": {
+        "all": {
+          "n": 120,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 64.63447298055692,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "negation": {
+          "n": 17,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 62.73841804887552,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "past": {
+          "n": 16,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 61.96980033749712,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "future": {
+          "n": 22,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 61.25550064555942,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "present": {
+          "n": 82,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 66.07768376145742,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "location": {
+          "n": 85,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 65.59672296604222,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "without_location": {
+          "n": 35,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 61.30779028485357,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "novel_triple": {
+          "n": 87,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 63.80230461283104,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "seen_triple": {
+          "n": 33,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 66.91970752012068,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "unparsed": {
+          "n": 0,
+          "correct": 0,
+          "exact_match": null,
+          "chrf": null
+        }
+      }
+    },
+    "compositional": {
+      "abstention_ids": [],
+      "groups": {
+        "all": {
+          "n": 120,
+          "correct": 120,
+          "exact_match": 1.0,
+          "chrf": 100.0,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "negation": {
+          "n": 17,
+          "correct": 17,
+          "exact_match": 1.0,
+          "chrf": 100.0,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "past": {
+          "n": 16,
+          "correct": 16,
+          "exact_match": 1.0,
+          "chrf": 100.0,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "future": {
+          "n": 22,
+          "correct": 22,
+          "exact_match": 1.0,
+          "chrf": 100.0,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "present": {
+          "n": 82,
+          "correct": 82,
+          "exact_match": 1.0,
+          "chrf": 100.0,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "location": {
+          "n": 85,
+          "correct": 85,
+          "exact_match": 1.0,
+          "chrf": 100.0,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "without_location": {
+          "n": 35,
+          "correct": 35,
+          "exact_match": 1.0,
+          "chrf": 100.0,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "novel_triple": {
+          "n": 87,
+          "correct": 87,
+          "exact_match": 1.0,
+          "chrf": 100.0,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "seen_triple": {
+          "n": 33,
+          "correct": 33,
+          "exact_match": 1.0,
+          "chrf": 100.0,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "unparsed": {
+          "n": 0,
+          "correct": 0,
+          "exact_match": null,
+          "chrf": null
+        }
+      }
+    },
+    "without_tense": {
+      "abstention_ids": [],
+      "groups": {
+        "all": {
+          "n": 120,
+          "correct": 82,
+          "exact_match": 0.6833333333333333,
+          "chrf": 94.28485884978195,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "negation": {
+          "n": 17,
+          "correct": 10,
+          "exact_match": 0.5882352941176471,
+          "chrf": 92.56992751954212,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "past": {
+          "n": 16,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 83.08588835573143,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "future": {
+          "n": 22,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 80.9714446366243,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "present": {
+          "n": 82,
+          "correct": 82,
+          "exact_match": 1.0,
+          "chrf": 100.0,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "location": {
+          "n": 85,
+          "correct": 63,
+          "exact_match": 0.7411764705882353,
+          "chrf": 95.9566569915909,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "without_location": {
+          "n": 35,
+          "correct": 19,
+          "exact_match": 0.5428571428571428,
+          "chrf": 88.22458924981703,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "novel_triple": {
+          "n": 87,
+          "correct": 61,
+          "exact_match": 0.7011494252873564,
+          "chrf": 94.67199789494605,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "seen_triple": {
+          "n": 33,
+          "correct": 21,
+          "exact_match": 0.6363636363636364,
+          "chrf": 93.2361399323121,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "unparsed": {
+          "n": 0,
+          "correct": 0,
+          "exact_match": null,
+          "chrf": null
+        }
+      }
+    },
+    "without_negation": {
+      "abstention_ids": [],
+      "groups": {
+        "all": {
+          "n": 120,
+          "correct": 103,
+          "exact_match": 0.8583333333333333,
+          "chrf": 98.09024355426705,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "negation": {
+          "n": 17,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 87.31896491493602,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "past": {
+          "n": 16,
+          "correct": 14,
+          "exact_match": 0.875,
+          "chrf": 98.16750865632345,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "future": {
+          "n": 22,
+          "correct": 17,
+          "exact_match": 0.7727272727272727,
+          "chrf": 97.10541631678241,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "present": {
+          "n": 82,
+          "correct": 72,
+          "exact_match": 0.8780487804878049,
+          "chrf": 98.34048390783778,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "location": {
+          "n": 85,
+          "correct": 73,
+          "exact_match": 0.8588235294117647,
+          "chrf": 98.27403717058458,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "without_location": {
+          "n": 35,
+          "correct": 30,
+          "exact_match": 0.8571428571428571,
+          "chrf": 97.42370023501894,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "novel_triple": {
+          "n": 87,
+          "correct": 77,
+          "exact_match": 0.8850574712643678,
+          "chrf": 98.48110334561144,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "seen_triple": {
+          "n": 33,
+          "correct": 26,
+          "exact_match": 0.7878787878787878,
+          "chrf": 97.02921768810664,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "unparsed": {
+          "n": 0,
+          "correct": 0,
+          "exact_match": null,
+          "chrf": null
+        }
+      }
+    },
+    "without_reordering": {
+      "abstention_ids": [],
+      "groups": {
+        "all": {
+          "n": 120,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 84.07770223439334,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "negation": {
+          "n": 17,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 84.41620268953388,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "past": {
+          "n": 16,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 83.25036255343248,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "future": {
+          "n": 22,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 83.92923229171868,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "present": {
+          "n": 82,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 84.27788448471115,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "location": {
+          "n": 85,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 85.75370047275514,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "without_location": {
+          "n": 35,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 77.9706829422922,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "novel_triple": {
+          "n": 87,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 84.30344431594425,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "seen_triple": {
+          "n": 33,
+          "correct": 0,
+          "exact_match": 0.0,
+          "chrf": 83.46567352712827,
+          "chrf_signature": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+          "sacrebleu": "2.6.0"
+        },
+        "unparsed": {
+          "n": 0,
+          "correct": 0,
+          "exact_match": null,
+          "chrf": null
+        }
+      }
+    }
+  },
+  "exports": {
+    "public": {
+      "rows": 40,
+      "filename": "predicciones.csv",
+      "reference_available": false
+    },
+    "phase5": {
+      "rows": 40,
+      "filename": "predicciones_fase5.csv",
+      "reference_available": false
+    }
+  },
+  "conversation_known_phrases": [
+    {
+      "naviri": "salia",
+      "prediction": "Hola",
+      "route": "official_phrase_memory"
+    },
+    {
+      "naviri": "salia neri",
+      "prediction": "Buenos días",
+      "route": "official_phrase_memory"
+    },
+    {
+      "naviri": "salia lumi",
+      "prediction": "Buenas tardes",
+      "route": "official_phrase_memory"
+    },
+    {
+      "naviri": "salia nori",
+      "prediction": "Buenas noches",
+      "route": "official_phrase_memory"
+    },
+    {
+      "naviri": "navira",
+      "prediction": "Adiós",
+      "route": "official_phrase_memory"
+    },
+    {
+      "naviri": "navira seni",
+      "prediction": "Hasta pronto",
+      "route": "official_phrase_memory"
+    },
+    {
+      "naviri": "mali",
+      "prediction": "Por favor",
+      "route": "official_phrase_memory"
+    },
+    {
+      "naviri": "areni",
+      "prediction": "Gracias",
+      "route": "official_phrase_memory"
+    },
+    {
+      "naviri": "areni vali",
+      "prediction": "Muchas gracias",
+      "route": "official_phrase_memory"
+    },
+    {
+      "naviri": "selu",
+      "prediction": "De nada",
+      "route": "official_phrase_memory"
+    },
+    {
+      "naviri": "naya",
+      "prediction": "Sí",
+      "route": "official_phrase_memory"
+    },
+    {
+      "naviri": "noku",
+      "prediction": "No",
+      "route": "official_phrase_memory"
+    },
+    {
+      "naviri": "seni?",
+      "prediction": "¿Cómo estás?",
+      "route": "official_phrase_memory"
+    },
+    {
+      "naviri": "seni vala",
+      "prediction": "Estoy bien",
+      "route": "official_phrase_memory"
+    },
+    {
+      "naviri": "pali",
+      "prediction": "Disculpa / Perdón",
+      "route": "official_phrase_memory"
+    },
+    {
+      "naviri": "mira?",
+      "prediction": "¿Puedes ayudarme?",
+      "route": "official_phrase_memory"
+    },
+    {
+      "naviri": "mira mali",
+      "prediction": "Ayúdame, por favor",
+      "route": "official_phrase_memory"
+    },
+    {
+      "naviri": "nelo mali",
+      "prediction": "Un mensaje, por favor",
+      "route": "official_phrase_memory"
+    }
+  ],
+  "data_sha256": {
+    "datos\\corpus_monolingual.csv": "7ef44d6934322e58b42b287487af2de67769fe3dae58fe95badc8622bf412ab5",
+    "datos\\evento_fase_5\\LEXICON_X_Comunicacion_Inicial_Noelia.csv": "0975b4780f37fab599ea504580c91bf034dd306dbfc2ffa5b803eaadff6e3ab2",
+    "datos\\evento_fase_5\\LEXICON_X_Fase5_Nuevos_Mensajes.csv": "e7eefabdab852601c0e5eab4c826be24e8e656d34d6d8f6868d5578ff1ac8a8c",
+    "datos\\evento_fase_5\\LEXICON_X_Pistas_Lexicas_Estudiantes.csv": "bc55d82ef635aadc445ddb32ccdf78aa253965bbf3a5191b515c6fe887ff52a2",
+    "datos\\test_public_unlabeled.csv": "afc1ff1888efe556a69029efe405d3ac450d1930787309df86be250ca4c4d79a",
+    "datos\\train_parallel.csv": "0d2d36b373eaf528c7049260d8985c28b5668fb9adfc5219f21507f48e038bad",
+    "datos\\validation_parallel.csv": "5a9fb1b459c1567b7897a70a000933ce781b1ade74605723fd568f6ca6bf17ca"
+  },
+  "policy": "Gramática explícita respaldada por train; léxico inducido. Sin correcciones de validación ni selección por test oculto. Cada ablación cambia un único componente de generación."
+}

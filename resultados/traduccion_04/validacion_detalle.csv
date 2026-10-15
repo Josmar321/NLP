@@ -1,0 +1,601 @@
+system,id,naviri,reference,prediction,correct
+jaccard,NX-0001,telu tavi nemi.,el maestro recuerda el alimento.,el maestro recuerda la carta.,False
+jaccard,NX-0002,vonu suni rilo kori.,el viajero guarda el libro en el río.,el viajero elige el libro en el río.,False
+jaccard,NX-0003,naku kava kuna nu vasi.,el niño no comparte la carta en el mercado.,el niño comparte el mapa en el mercado.,False
+jaccard,NX-0004,raku dali korita.,el pescador guardó la fruta.,el pescador eligió la fruta en el mercado.,False
+jaccard,NX-0005,raku beko kuna nu korita.,el pescador no guardó el dibujo en el mercado.,el pescador no observa el dibujo en el bosque.,False
+jaccard,NX-0006,raku feni miri sema.,el pescador observa la piedra en el bosque.,el pescador observa la piedra.,False
+jaccard,NX-0007,lina rima kori.,la artista guarda la flor.,el viajero guarda la flor.,False
+jaccard,NX-0008,mika nelo pavo faro.,la niña examina el mensaje en el laboratorio.,la niña examina el mensaje.,False
+jaccard,NX-0009,telu rima taku.,el maestro describe la flor.,el maestro busca la flor en el laboratorio.,False
+jaccard,NX-0010,vonu pira vasi.,el viajero comparte el agua.,el viajero comparte el mapa.,False
+jaccard,NX-0011,telu nelo rilo nemi.,el maestro recuerda el mensaje en el río.,el viajero recuerda el mensaje en el río.,False
+jaccard,NX-0012,yami tavi pavo nemi.,la estudiante recuerda el alimento en el laboratorio.,la estudiante describirá el alimento.,False
+jaccard,NX-0013,sari rima sova kori.,la médica guarda la flor en la escuela.,la médica guarda la flor.,False
+jaccard,NX-0014,naku zura kuna faro.,el niño examina la llave en el mercado.,el pescador examina la llave en el mercado.,False
+jaccard,NX-0015,penu pira pavo koriri.,el guardián guardará el agua en el laboratorio.,el viajero guardará el agua.,False
+jaccard,NX-0016,sari pira lomuri.,la médica buscará el agua.,la médica observó el agua en el mercado.,False
+jaccard,NX-0017,naku tavi rilo kori.,el niño guarda el alimento en el río.,el niño busca el alimento en el río.,False
+jaccard,NX-0018,yami suni miri nu vasiri.,la estudiante no compartirá el libro en el bosque.,la estudiante no lleva el libro.,False
+jaccard,NX-0019,kemi rima hala nemi.,la investigadora recuerda la flor en la casa.,la investigadora recuerda la flor.,False
+jaccard,NX-0020,vonu kava miri nemi.,el viajero recuerda la carta en el bosque.,el viajero recuerda la carta.,False
+jaccard,NX-0021,sari beko vasiri.,la médica compartirá el dibujo.,la médica elegirá el dibujo en la escuela.,False
+jaccard,NX-0022,sari kava rilo taku.,la médica describe la carta en el río.,la médica elige la carta en el río.,False
+jaccard,NX-0023,vonu tora sova sema.,el viajero observa la leche en la escuela.,el viajero observa el mensaje en la escuela.,False
+jaccard,NX-0024,vonu tora kuna yelo.,el viajero elige la leche en el mercado.,el viajero elige el dibujo en el mercado.,False
+jaccard,NX-0025,sari feni sova paki.,la médica encuentra la piedra en la escuela.,la estudiante encuentra la piedra.,False
+jaccard,NX-0026,vonu rima nu pakiri.,el viajero no encontrará la flor.,el viajero guarda la flor.,False
+jaccard,NX-0027,naku tavi kuna koriri.,el niño guardará el alimento en el mercado.,el niño busca el alimento en el río.,False
+jaccard,NX-0028,penu tavi kuna vasi.,el guardián comparte el alimento en el mercado.,el guardián lleva el mapa en el mercado.,False
+jaccard,NX-0029,yami moru sova taku.,la estudiante describe el mapa en la escuela.,la estudiante describe el alimento.,False
+jaccard,NX-0030,raku moru miri taku.,el pescador describe el mapa en el bosque.,la niña no describe el mapa en el bosque.,False
+jaccard,NX-0031,naku suni hala taku.,el niño describe el libro en la casa.,el niño describe el libro.,False
+jaccard,NX-0032,kemi rima sova sema.,la investigadora observa la flor en la escuela.,la investigadora observa el dibujo en la escuela.,False
+jaccard,NX-0033,raku tavi miri yelota.,el pescador eligió el alimento en el bosque.,el pescador elegirá el alimento.,False
+jaccard,NX-0034,telu tora pavo dema.,el maestro lleva la leche en el laboratorio.,la investigadora lleva la leche en el laboratorio.,False
+jaccard,NX-0035,yami moru rilo yelo.,la estudiante elige el mapa en el río.,la estudiante encuentra el mapa en el río.,False
+jaccard,NX-0036,lina beko sova vasi.,la artista comparte el dibujo en la escuela.,la estudiante comparte el dibujo.,False
+jaccard,NX-0037,sari feni pavo faro.,la médica examina la piedra en el laboratorio.,la estudiante examina la piedra en el laboratorio.,False
+jaccard,NX-0038,vonu kava faro.,el viajero examina la carta.,el viajero examina la leche.,False
+jaccard,NX-0039,raku rima rilo yelo.,el pescador elige la flor en el río.,el pescador recordará la flor en el río.,False
+jaccard,NX-0040,naku feni pavo kori.,el niño guarda la piedra en el laboratorio.,la estudiante guarda la piedra en el laboratorio.,False
+jaccard,NX-0041,mika kava hala pakiri.,la niña encontrará la carta en la casa.,la niña encontrará el agua en la casa.,False
+jaccard,NX-0042,raku pira yelo.,el pescador elige el agua.,el pescador elige el mapa.,False
+jaccard,NX-0043,lina feni sova kori.,la artista guarda la piedra en la escuela.,el guardián guarda la piedra en la escuela.,False
+jaccard,NX-0044,kemi zura yelori.,la investigadora elegirá la llave.,la investigadora observó la llave.,False
+jaccard,NX-0045,lina nelo hala nu nemita.,la artista no recordó el mensaje en la casa.,la artista no recuerda el mensaje.,False
+jaccard,NX-0046,penu zura kuna vasita.,el guardián compartió la llave en el mercado.,el guardián encuentra la llave en el mercado.,False
+jaccard,NX-0047,yami dali nemita.,la estudiante recordó la fruta.,la estudiante encuentra la fruta.,False
+jaccard,NX-0048,mika zura sova faro.,la niña examina la llave en la escuela.,la niña examina el mensaje.,False
+jaccard,NX-0049,mika moru vasi.,la niña comparte el mapa.,la niña comparte el mapa en la escuela.,False
+jaccard,NX-0050,yami kava hala yelo.,la estudiante elige la carta en la casa.,la estudiante elige el alimento en la casa.,False
+jaccard,NX-0051,mika nelo sova yelori.,la niña elegirá el mensaje en la escuela.,la niña elige el mensaje en la escuela.,False
+jaccard,NX-0052,vonu kava kuna taku.,el viajero describe la carta en el mercado.,el viajero buscó la carta en el mercado.,False
+jaccard,NX-0053,raku dali pavo yelo.,el pescador elige la fruta en el laboratorio.,el pescador elige el mapa.,False
+jaccard,NX-0054,telu moru kuna sema.,el maestro observa el mapa en el mercado.,el maestro observa el alimento en el mercado.,False
+jaccard,NX-0055,penu feni pavo nu sema.,el guardián no observa la piedra en el laboratorio.,el guardián elegirá la piedra en el laboratorio.,False
+jaccard,NX-0056,raku kava nu dema.,el pescador no lleva la carta.,el pescador no lleva la fruta.,False
+jaccard,NX-0057,raku pira pavo sema.,el pescador observa el agua en el laboratorio.,el pescador observa la piedra.,False
+jaccard,NX-0058,raku moru pavo nu dema.,el pescador no lleva el mapa en el laboratorio.,el pescador no lleva la fruta.,False
+jaccard,NX-0059,naku rima nemita.,el niño recordó la flor.,el niño describió la flor.,False
+jaccard,NX-0060,telu tora hala dema.,el maestro lleva la leche en la casa.,el maestro encontrará la leche en la casa.,False
+jaccard,NX-0061,telu kava sova yelo.,el maestro elige la carta en la escuela.,el pescador elige la carta en la escuela.,False
+jaccard,NX-0062,lina tora rilo taku.,la artista describe la leche en el río.,la artista recordará la leche en el río.,False
+jaccard,NX-0063,naku tora nu pakiri.,el niño no encontrará la leche.,el niño llevará la leche.,False
+jaccard,NX-0064,mika zura vasi.,la niña comparte la llave.,la niña llevó la llave.,False
+jaccard,NX-0065,yami nelo sova dema.,la estudiante lleva el mensaje en la escuela.,la estudiante lleva el dibujo en la escuela.,False
+jaccard,NX-0066,naku suni sova yelo.,el niño elige el libro en la escuela.,el niño buscó el libro en la escuela.,False
+jaccard,NX-0067,telu dali hala takuri.,el maestro describirá la fruta en la casa.,el maestro describirá el mensaje.,False
+jaccard,NX-0068,telu moru pakiri.,el maestro encontrará el mapa.,el maestro encontrará la leche en la casa.,False
+jaccard,NX-0069,raku pira rilo nemi.,el pescador recuerda el agua en el río.,la investigadora recuerda el agua.,False
+jaccard,NX-0070,naku kava miri nu paki.,el niño no encuentra la carta en el bosque.,el niño encuentra la carta en la casa.,False
+jaccard,NX-0071,kemi zura sova dema.,la investigadora lleva la llave en la escuela.,la investigadora observó la llave.,False
+jaccard,NX-0072,telu feni lomu.,el maestro busca la piedra.,el maestro busca la carta en la escuela.,False
+jaccard,NX-0073,mika nelo rilo nemiri.,la niña recordará el mensaje en el río.,la niña encuentra el mensaje en el río.,False
+jaccard,NX-0074,kemi suni sova nemita.,la investigadora recordó el libro en la escuela.,la investigadora examina el libro en el bosque.,False
+jaccard,NX-0075,yami feni sova nemi.,la estudiante recuerda la piedra en la escuela.,la estudiante comparte la piedra en la escuela.,False
+jaccard,NX-0076,raku moru rilo nemi.,el pescador recuerda el mapa en el río.,el pescador recuerda el mapa.,False
+jaccard,NX-0077,naku tavi vasi.,el niño comparte el alimento.,el niño busca el alimento en el río.,False
+jaccard,NX-0078,mika zura rilo nemi.,la niña recuerda la llave en el río.,la niña recuerda la carta en el río.,False
+jaccard,NX-0079,naku moru miri taku.,el niño describe el mapa en el bosque.,la niña no describe el mapa en el bosque.,False
+jaccard,NX-0080,mika suni pavo semata.,la niña observó el libro en el laboratorio.,la niña observó la flor en la escuela.,False
+jaccard,NX-0081,raku tora takuta.,el pescador describió la leche.,el pescador examina la leche.,False
+jaccard,NX-0082,lina tavi pavo lomuta.,la artista buscó el alimento en el laboratorio.,la artista elige el alimento en el laboratorio.,False
+jaccard,NX-0083,raku pira miri dema.,el pescador lleva el agua en el bosque.,el guardián lleva el agua en el bosque.,False
+jaccard,NX-0084,lina zura kuna nu dema.,la artista no lleva la llave en el mercado.,la artista no observa la llave.,False
+jaccard,NX-0085,mika feni sova paki.,la niña encuentra la piedra en la escuela.,la niña eligió la piedra.,False
+jaccard,NX-0086,sari zura hala demata.,la médica llevó la llave en la casa.,la médica examina la llave en la casa.,False
+jaccard,NX-0087,vonu moru miri vasiri.,el viajero compartirá el mapa en el bosque.,el viajero recordó el mapa en el bosque.,False
+jaccard,NX-0088,penu tora vasiri.,el guardián compartirá la leche.,el guardián guarda la leche en el río.,False
+jaccard,NX-0089,yami rima taku.,la estudiante describe la flor.,la estudiante describe el alimento.,False
+jaccard,NX-0090,telu rima kuna vasi.,el maestro comparte la flor en el mercado.,el maestro guarda la flor en el mercado.,False
+jaccard,NX-0091,telu pira miri lomu.,el maestro busca el agua en el bosque.,el maestro busca el agua en el mercado.,False
+jaccard,NX-0092,sari zura nemi.,la médica recuerda la llave.,la médica observó la llave.,False
+jaccard,NX-0093,vonu kava pavo nu faro.,el viajero no examina la carta en el laboratorio.,el pescador no examina la carta en el laboratorio.,False
+jaccard,NX-0094,penu feni hala nu taku.,el guardián no describe la piedra en la casa.,el guardián no describe la carta.,False
+jaccard,NX-0095,raku zura nu taku.,el pescador no describe la llave.,el pescador describe la leche.,False
+jaccard,NX-0096,kemi dali vasi.,la investigadora comparte la fruta.,la investigadora busca la fruta en la casa.,False
+jaccard,NX-0097,lina feni miri taku.,la artista describe la piedra en el bosque.,la artista describe la llave.,False
+jaccard,NX-0098,mika feni vasi.,la niña comparte la piedra.,la niña eligió la piedra.,False
+jaccard,NX-0099,naku nelo sova lomuri.,el niño buscará el mensaje en la escuela.,el niño guardó el mensaje en la escuela.,False
+jaccard,NX-0100,yami nelo kuna paki.,la estudiante encuentra el mensaje en el mercado.,la estudiante examina el mensaje en el mercado.,False
+jaccard,NX-0101,kemi feni demari.,la investigadora llevará la piedra.,la investigadora guardó la piedra en el bosque.,False
+jaccard,NX-0102,lina zura miri nemi.,la artista recuerda la llave en el bosque.,la artista recuerda la llave.,False
+jaccard,NX-0103,telu beko yelo.,el maestro elige el dibujo.,el maestro elige el agua.,False
+jaccard,NX-0104,telu feni rilo paki.,el maestro encuentra la piedra en el río.,la estudiante encuentra la piedra.,False
+jaccard,NX-0105,penu moru pavo vasi.,el guardián comparte el mapa en el laboratorio.,el guardián comparte el libro en el laboratorio.,False
+jaccard,NX-0106,penu suni kuna yelo.,el guardián elige el libro en el mercado.,el guardián lleva el mapa en el mercado.,False
+jaccard,NX-0107,sari beko sova farori.,la médica examinará el dibujo en la escuela.,la médica elegirá el dibujo en la escuela.,False
+jaccard,NX-0108,naku rima yelo.,el niño elige la flor.,el niño describió la flor.,False
+jaccard,NX-0109,lina pira nu vasi.,la artista no comparte el agua.,la estudiante no comparte el agua.,False
+jaccard,NX-0110,kemi dali koriri.,la investigadora guardará la fruta.,la investigadora busca la fruta en la casa.,False
+jaccard,NX-0111,kemi feni nemita.,la investigadora recordó la piedra.,la investigadora guardó la piedra en el bosque.,False
+jaccard,NX-0112,yami nelo rilo lomu.,la estudiante busca el mensaje en el río.,la médica no busca el mensaje en el río.,False
+jaccard,NX-0113,telu tora sova semari.,el maestro observará la leche en la escuela.,el maestro encontró la leche en la escuela.,False
+jaccard,NX-0114,sari beko takuta.,la médica describió el dibujo.,la médica elegirá el dibujo en la escuela.,False
+jaccard,NX-0115,yami zura sova yelo.,la estudiante elige la llave en la escuela.,el pescador elige la carta en la escuela.,False
+jaccard,NX-0116,kemi tora pavo pakita.,la investigadora encontró la leche en el laboratorio.,la investigadora lleva la leche en el laboratorio.,False
+jaccard,NX-0117,sari tora lomuta.,la médica buscó la leche.,la médica buscó la carta.,False
+jaccard,NX-0118,penu tavi pavo nu demari.,el guardián no llevará el alimento en el laboratorio.,el pescador llevará el alimento en el laboratorio.,False
+jaccard,NX-0119,naku tora hala dema.,el niño lleva la leche en la casa.,el niño encuentra la leche en la casa.,False
+jaccard,NX-0120,naku zura rilo nu lomuri.,el niño no buscará la llave en el río.,el niño no buscará la piedra en el río.,False
+compositional,NX-0001,telu tavi nemi.,el maestro recuerda el alimento.,el maestro recuerda el alimento.,True
+compositional,NX-0002,vonu suni rilo kori.,el viajero guarda el libro en el río.,el viajero guarda el libro en el río.,True
+compositional,NX-0003,naku kava kuna nu vasi.,el niño no comparte la carta en el mercado.,el niño no comparte la carta en el mercado.,True
+compositional,NX-0004,raku dali korita.,el pescador guardó la fruta.,el pescador guardó la fruta.,True
+compositional,NX-0005,raku beko kuna nu korita.,el pescador no guardó el dibujo en el mercado.,el pescador no guardó el dibujo en el mercado.,True
+compositional,NX-0006,raku feni miri sema.,el pescador observa la piedra en el bosque.,el pescador observa la piedra en el bosque.,True
+compositional,NX-0007,lina rima kori.,la artista guarda la flor.,la artista guarda la flor.,True
+compositional,NX-0008,mika nelo pavo faro.,la niña examina el mensaje en el laboratorio.,la niña examina el mensaje en el laboratorio.,True
+compositional,NX-0009,telu rima taku.,el maestro describe la flor.,el maestro describe la flor.,True
+compositional,NX-0010,vonu pira vasi.,el viajero comparte el agua.,el viajero comparte el agua.,True
+compositional,NX-0011,telu nelo rilo nemi.,el maestro recuerda el mensaje en el río.,el maestro recuerda el mensaje en el río.,True
+compositional,NX-0012,yami tavi pavo nemi.,la estudiante recuerda el alimento en el laboratorio.,la estudiante recuerda el alimento en el laboratorio.,True
+compositional,NX-0013,sari rima sova kori.,la médica guarda la flor en la escuela.,la médica guarda la flor en la escuela.,True
+compositional,NX-0014,naku zura kuna faro.,el niño examina la llave en el mercado.,el niño examina la llave en el mercado.,True
+compositional,NX-0015,penu pira pavo koriri.,el guardián guardará el agua en el laboratorio.,el guardián guardará el agua en el laboratorio.,True
+compositional,NX-0016,sari pira lomuri.,la médica buscará el agua.,la médica buscará el agua.,True
+compositional,NX-0017,naku tavi rilo kori.,el niño guarda el alimento en el río.,el niño guarda el alimento en el río.,True
+compositional,NX-0018,yami suni miri nu vasiri.,la estudiante no compartirá el libro en el bosque.,la estudiante no compartirá el libro en el bosque.,True
+compositional,NX-0019,kemi rima hala nemi.,la investigadora recuerda la flor en la casa.,la investigadora recuerda la flor en la casa.,True
+compositional,NX-0020,vonu kava miri nemi.,el viajero recuerda la carta en el bosque.,el viajero recuerda la carta en el bosque.,True
+compositional,NX-0021,sari beko vasiri.,la médica compartirá el dibujo.,la médica compartirá el dibujo.,True
+compositional,NX-0022,sari kava rilo taku.,la médica describe la carta en el río.,la médica describe la carta en el río.,True
+compositional,NX-0023,vonu tora sova sema.,el viajero observa la leche en la escuela.,el viajero observa la leche en la escuela.,True
+compositional,NX-0024,vonu tora kuna yelo.,el viajero elige la leche en el mercado.,el viajero elige la leche en el mercado.,True
+compositional,NX-0025,sari feni sova paki.,la médica encuentra la piedra en la escuela.,la médica encuentra la piedra en la escuela.,True
+compositional,NX-0026,vonu rima nu pakiri.,el viajero no encontrará la flor.,el viajero no encontrará la flor.,True
+compositional,NX-0027,naku tavi kuna koriri.,el niño guardará el alimento en el mercado.,el niño guardará el alimento en el mercado.,True
+compositional,NX-0028,penu tavi kuna vasi.,el guardián comparte el alimento en el mercado.,el guardián comparte el alimento en el mercado.,True
+compositional,NX-0029,yami moru sova taku.,la estudiante describe el mapa en la escuela.,la estudiante describe el mapa en la escuela.,True
+compositional,NX-0030,raku moru miri taku.,el pescador describe el mapa en el bosque.,el pescador describe el mapa en el bosque.,True
+compositional,NX-0031,naku suni hala taku.,el niño describe el libro en la casa.,el niño describe el libro en la casa.,True
+compositional,NX-0032,kemi rima sova sema.,la investigadora observa la flor en la escuela.,la investigadora observa la flor en la escuela.,True
+compositional,NX-0033,raku tavi miri yelota.,el pescador eligió el alimento en el bosque.,el pescador eligió el alimento en el bosque.,True
+compositional,NX-0034,telu tora pavo dema.,el maestro lleva la leche en el laboratorio.,el maestro lleva la leche en el laboratorio.,True
+compositional,NX-0035,yami moru rilo yelo.,la estudiante elige el mapa en el río.,la estudiante elige el mapa en el río.,True
+compositional,NX-0036,lina beko sova vasi.,la artista comparte el dibujo en la escuela.,la artista comparte el dibujo en la escuela.,True
+compositional,NX-0037,sari feni pavo faro.,la médica examina la piedra en el laboratorio.,la médica examina la piedra en el laboratorio.,True
+compositional,NX-0038,vonu kava faro.,el viajero examina la carta.,el viajero examina la carta.,True
+compositional,NX-0039,raku rima rilo yelo.,el pescador elige la flor en el río.,el pescador elige la flor en el río.,True
+compositional,NX-0040,naku feni pavo kori.,el niño guarda la piedra en el laboratorio.,el niño guarda la piedra en el laboratorio.,True
+compositional,NX-0041,mika kava hala pakiri.,la niña encontrará la carta en la casa.,la niña encontrará la carta en la casa.,True
+compositional,NX-0042,raku pira yelo.,el pescador elige el agua.,el pescador elige el agua.,True
+compositional,NX-0043,lina feni sova kori.,la artista guarda la piedra en la escuela.,la artista guarda la piedra en la escuela.,True
+compositional,NX-0044,kemi zura yelori.,la investigadora elegirá la llave.,la investigadora elegirá la llave.,True
+compositional,NX-0045,lina nelo hala nu nemita.,la artista no recordó el mensaje en la casa.,la artista no recordó el mensaje en la casa.,True
+compositional,NX-0046,penu zura kuna vasita.,el guardián compartió la llave en el mercado.,el guardián compartió la llave en el mercado.,True
+compositional,NX-0047,yami dali nemita.,la estudiante recordó la fruta.,la estudiante recordó la fruta.,True
+compositional,NX-0048,mika zura sova faro.,la niña examina la llave en la escuela.,la niña examina la llave en la escuela.,True
+compositional,NX-0049,mika moru vasi.,la niña comparte el mapa.,la niña comparte el mapa.,True
+compositional,NX-0050,yami kava hala yelo.,la estudiante elige la carta en la casa.,la estudiante elige la carta en la casa.,True
+compositional,NX-0051,mika nelo sova yelori.,la niña elegirá el mensaje en la escuela.,la niña elegirá el mensaje en la escuela.,True
+compositional,NX-0052,vonu kava kuna taku.,el viajero describe la carta en el mercado.,el viajero describe la carta en el mercado.,True
+compositional,NX-0053,raku dali pavo yelo.,el pescador elige la fruta en el laboratorio.,el pescador elige la fruta en el laboratorio.,True
+compositional,NX-0054,telu moru kuna sema.,el maestro observa el mapa en el mercado.,el maestro observa el mapa en el mercado.,True
+compositional,NX-0055,penu feni pavo nu sema.,el guardián no observa la piedra en el laboratorio.,el guardián no observa la piedra en el laboratorio.,True
+compositional,NX-0056,raku kava nu dema.,el pescador no lleva la carta.,el pescador no lleva la carta.,True
+compositional,NX-0057,raku pira pavo sema.,el pescador observa el agua en el laboratorio.,el pescador observa el agua en el laboratorio.,True
+compositional,NX-0058,raku moru pavo nu dema.,el pescador no lleva el mapa en el laboratorio.,el pescador no lleva el mapa en el laboratorio.,True
+compositional,NX-0059,naku rima nemita.,el niño recordó la flor.,el niño recordó la flor.,True
+compositional,NX-0060,telu tora hala dema.,el maestro lleva la leche en la casa.,el maestro lleva la leche en la casa.,True
+compositional,NX-0061,telu kava sova yelo.,el maestro elige la carta en la escuela.,el maestro elige la carta en la escuela.,True
+compositional,NX-0062,lina tora rilo taku.,la artista describe la leche en el río.,la artista describe la leche en el río.,True
+compositional,NX-0063,naku tora nu pakiri.,el niño no encontrará la leche.,el niño no encontrará la leche.,True
+compositional,NX-0064,mika zura vasi.,la niña comparte la llave.,la niña comparte la llave.,True
+compositional,NX-0065,yami nelo sova dema.,la estudiante lleva el mensaje en la escuela.,la estudiante lleva el mensaje en la escuela.,True
+compositional,NX-0066,naku suni sova yelo.,el niño elige el libro en la escuela.,el niño elige el libro en la escuela.,True
+compositional,NX-0067,telu dali hala takuri.,el maestro describirá la fruta en la casa.,el maestro describirá la fruta en la casa.,True
+compositional,NX-0068,telu moru pakiri.,el maestro encontrará el mapa.,el maestro encontrará el mapa.,True
+compositional,NX-0069,raku pira rilo nemi.,el pescador recuerda el agua en el río.,el pescador recuerda el agua en el río.,True
+compositional,NX-0070,naku kava miri nu paki.,el niño no encuentra la carta en el bosque.,el niño no encuentra la carta en el bosque.,True
+compositional,NX-0071,kemi zura sova dema.,la investigadora lleva la llave en la escuela.,la investigadora lleva la llave en la escuela.,True
+compositional,NX-0072,telu feni lomu.,el maestro busca la piedra.,el maestro busca la piedra.,True
+compositional,NX-0073,mika nelo rilo nemiri.,la niña recordará el mensaje en el río.,la niña recordará el mensaje en el río.,True
+compositional,NX-0074,kemi suni sova nemita.,la investigadora recordó el libro en la escuela.,la investigadora recordó el libro en la escuela.,True
+compositional,NX-0075,yami feni sova nemi.,la estudiante recuerda la piedra en la escuela.,la estudiante recuerda la piedra en la escuela.,True
+compositional,NX-0076,raku moru rilo nemi.,el pescador recuerda el mapa en el río.,el pescador recuerda el mapa en el río.,True
+compositional,NX-0077,naku tavi vasi.,el niño comparte el alimento.,el niño comparte el alimento.,True
+compositional,NX-0078,mika zura rilo nemi.,la niña recuerda la llave en el río.,la niña recuerda la llave en el río.,True
+compositional,NX-0079,naku moru miri taku.,el niño describe el mapa en el bosque.,el niño describe el mapa en el bosque.,True
+compositional,NX-0080,mika suni pavo semata.,la niña observó el libro en el laboratorio.,la niña observó el libro en el laboratorio.,True
+compositional,NX-0081,raku tora takuta.,el pescador describió la leche.,el pescador describió la leche.,True
+compositional,NX-0082,lina tavi pavo lomuta.,la artista buscó el alimento en el laboratorio.,la artista buscó el alimento en el laboratorio.,True
+compositional,NX-0083,raku pira miri dema.,el pescador lleva el agua en el bosque.,el pescador lleva el agua en el bosque.,True
+compositional,NX-0084,lina zura kuna nu dema.,la artista no lleva la llave en el mercado.,la artista no lleva la llave en el mercado.,True
+compositional,NX-0085,mika feni sova paki.,la niña encuentra la piedra en la escuela.,la niña encuentra la piedra en la escuela.,True
+compositional,NX-0086,sari zura hala demata.,la médica llevó la llave en la casa.,la médica llevó la llave en la casa.,True
+compositional,NX-0087,vonu moru miri vasiri.,el viajero compartirá el mapa en el bosque.,el viajero compartirá el mapa en el bosque.,True
+compositional,NX-0088,penu tora vasiri.,el guardián compartirá la leche.,el guardián compartirá la leche.,True
+compositional,NX-0089,yami rima taku.,la estudiante describe la flor.,la estudiante describe la flor.,True
+compositional,NX-0090,telu rima kuna vasi.,el maestro comparte la flor en el mercado.,el maestro comparte la flor en el mercado.,True
+compositional,NX-0091,telu pira miri lomu.,el maestro busca el agua en el bosque.,el maestro busca el agua en el bosque.,True
+compositional,NX-0092,sari zura nemi.,la médica recuerda la llave.,la médica recuerda la llave.,True
+compositional,NX-0093,vonu kava pavo nu faro.,el viajero no examina la carta en el laboratorio.,el viajero no examina la carta en el laboratorio.,True
+compositional,NX-0094,penu feni hala nu taku.,el guardián no describe la piedra en la casa.,el guardián no describe la piedra en la casa.,True
+compositional,NX-0095,raku zura nu taku.,el pescador no describe la llave.,el pescador no describe la llave.,True
+compositional,NX-0096,kemi dali vasi.,la investigadora comparte la fruta.,la investigadora comparte la fruta.,True
+compositional,NX-0097,lina feni miri taku.,la artista describe la piedra en el bosque.,la artista describe la piedra en el bosque.,True
+compositional,NX-0098,mika feni vasi.,la niña comparte la piedra.,la niña comparte la piedra.,True
+compositional,NX-0099,naku nelo sova lomuri.,el niño buscará el mensaje en la escuela.,el niño buscará el mensaje en la escuela.,True
+compositional,NX-0100,yami nelo kuna paki.,la estudiante encuentra el mensaje en el mercado.,la estudiante encuentra el mensaje en el mercado.,True
+compositional,NX-0101,kemi feni demari.,la investigadora llevará la piedra.,la investigadora llevará la piedra.,True
+compositional,NX-0102,lina zura miri nemi.,la artista recuerda la llave en el bosque.,la artista recuerda la llave en el bosque.,True
+compositional,NX-0103,telu beko yelo.,el maestro elige el dibujo.,el maestro elige el dibujo.,True
+compositional,NX-0104,telu feni rilo paki.,el maestro encuentra la piedra en el río.,el maestro encuentra la piedra en el río.,True
+compositional,NX-0105,penu moru pavo vasi.,el guardián comparte el mapa en el laboratorio.,el guardián comparte el mapa en el laboratorio.,True
+compositional,NX-0106,penu suni kuna yelo.,el guardián elige el libro en el mercado.,el guardián elige el libro en el mercado.,True
+compositional,NX-0107,sari beko sova farori.,la médica examinará el dibujo en la escuela.,la médica examinará el dibujo en la escuela.,True
+compositional,NX-0108,naku rima yelo.,el niño elige la flor.,el niño elige la flor.,True
+compositional,NX-0109,lina pira nu vasi.,la artista no comparte el agua.,la artista no comparte el agua.,True
+compositional,NX-0110,kemi dali koriri.,la investigadora guardará la fruta.,la investigadora guardará la fruta.,True
+compositional,NX-0111,kemi feni nemita.,la investigadora recordó la piedra.,la investigadora recordó la piedra.,True
+compositional,NX-0112,yami nelo rilo lomu.,la estudiante busca el mensaje en el río.,la estudiante busca el mensaje en el río.,True
+compositional,NX-0113,telu tora sova semari.,el maestro observará la leche en la escuela.,el maestro observará la leche en la escuela.,True
+compositional,NX-0114,sari beko takuta.,la médica describió el dibujo.,la médica describió el dibujo.,True
+compositional,NX-0115,yami zura sova yelo.,la estudiante elige la llave en la escuela.,la estudiante elige la llave en la escuela.,True
+compositional,NX-0116,kemi tora pavo pakita.,la investigadora encontró la leche en el laboratorio.,la investigadora encontró la leche en el laboratorio.,True
+compositional,NX-0117,sari tora lomuta.,la médica buscó la leche.,la médica buscó la leche.,True
+compositional,NX-0118,penu tavi pavo nu demari.,el guardián no llevará el alimento en el laboratorio.,el guardián no llevará el alimento en el laboratorio.,True
+compositional,NX-0119,naku tora hala dema.,el niño lleva la leche en la casa.,el niño lleva la leche en la casa.,True
+compositional,NX-0120,naku zura rilo nu lomuri.,el niño no buscará la llave en el río.,el niño no buscará la llave en el río.,True
+without_tense,NX-0001,telu tavi nemi.,el maestro recuerda el alimento.,el maestro recuerda el alimento.,True
+without_tense,NX-0002,vonu suni rilo kori.,el viajero guarda el libro en el río.,el viajero guarda el libro en el río.,True
+without_tense,NX-0003,naku kava kuna nu vasi.,el niño no comparte la carta en el mercado.,el niño no comparte la carta en el mercado.,True
+without_tense,NX-0004,raku dali korita.,el pescador guardó la fruta.,el pescador guarda la fruta.,False
+without_tense,NX-0005,raku beko kuna nu korita.,el pescador no guardó el dibujo en el mercado.,el pescador no guarda el dibujo en el mercado.,False
+without_tense,NX-0006,raku feni miri sema.,el pescador observa la piedra en el bosque.,el pescador observa la piedra en el bosque.,True
+without_tense,NX-0007,lina rima kori.,la artista guarda la flor.,la artista guarda la flor.,True
+without_tense,NX-0008,mika nelo pavo faro.,la niña examina el mensaje en el laboratorio.,la niña examina el mensaje en el laboratorio.,True
+without_tense,NX-0009,telu rima taku.,el maestro describe la flor.,el maestro describe la flor.,True
+without_tense,NX-0010,vonu pira vasi.,el viajero comparte el agua.,el viajero comparte el agua.,True
+without_tense,NX-0011,telu nelo rilo nemi.,el maestro recuerda el mensaje en el río.,el maestro recuerda el mensaje en el río.,True
+without_tense,NX-0012,yami tavi pavo nemi.,la estudiante recuerda el alimento en el laboratorio.,la estudiante recuerda el alimento en el laboratorio.,True
+without_tense,NX-0013,sari rima sova kori.,la médica guarda la flor en la escuela.,la médica guarda la flor en la escuela.,True
+without_tense,NX-0014,naku zura kuna faro.,el niño examina la llave en el mercado.,el niño examina la llave en el mercado.,True
+without_tense,NX-0015,penu pira pavo koriri.,el guardián guardará el agua en el laboratorio.,el guardián guarda el agua en el laboratorio.,False
+without_tense,NX-0016,sari pira lomuri.,la médica buscará el agua.,la médica busca el agua.,False
+without_tense,NX-0017,naku tavi rilo kori.,el niño guarda el alimento en el río.,el niño guarda el alimento en el río.,True
+without_tense,NX-0018,yami suni miri nu vasiri.,la estudiante no compartirá el libro en el bosque.,la estudiante no comparte el libro en el bosque.,False
+without_tense,NX-0019,kemi rima hala nemi.,la investigadora recuerda la flor en la casa.,la investigadora recuerda la flor en la casa.,True
+without_tense,NX-0020,vonu kava miri nemi.,el viajero recuerda la carta en el bosque.,el viajero recuerda la carta en el bosque.,True
+without_tense,NX-0021,sari beko vasiri.,la médica compartirá el dibujo.,la médica comparte el dibujo.,False
+without_tense,NX-0022,sari kava rilo taku.,la médica describe la carta en el río.,la médica describe la carta en el río.,True
+without_tense,NX-0023,vonu tora sova sema.,el viajero observa la leche en la escuela.,el viajero observa la leche en la escuela.,True
+without_tense,NX-0024,vonu tora kuna yelo.,el viajero elige la leche en el mercado.,el viajero elige la leche en el mercado.,True
+without_tense,NX-0025,sari feni sova paki.,la médica encuentra la piedra en la escuela.,la médica encuentra la piedra en la escuela.,True
+without_tense,NX-0026,vonu rima nu pakiri.,el viajero no encontrará la flor.,el viajero no encuentra la flor.,False
+without_tense,NX-0027,naku tavi kuna koriri.,el niño guardará el alimento en el mercado.,el niño guarda el alimento en el mercado.,False
+without_tense,NX-0028,penu tavi kuna vasi.,el guardián comparte el alimento en el mercado.,el guardián comparte el alimento en el mercado.,True
+without_tense,NX-0029,yami moru sova taku.,la estudiante describe el mapa en la escuela.,la estudiante describe el mapa en la escuela.,True
+without_tense,NX-0030,raku moru miri taku.,el pescador describe el mapa en el bosque.,el pescador describe el mapa en el bosque.,True
+without_tense,NX-0031,naku suni hala taku.,el niño describe el libro en la casa.,el niño describe el libro en la casa.,True
+without_tense,NX-0032,kemi rima sova sema.,la investigadora observa la flor en la escuela.,la investigadora observa la flor en la escuela.,True
+without_tense,NX-0033,raku tavi miri yelota.,el pescador eligió el alimento en el bosque.,el pescador elige el alimento en el bosque.,False
+without_tense,NX-0034,telu tora pavo dema.,el maestro lleva la leche en el laboratorio.,el maestro lleva la leche en el laboratorio.,True
+without_tense,NX-0035,yami moru rilo yelo.,la estudiante elige el mapa en el río.,la estudiante elige el mapa en el río.,True
+without_tense,NX-0036,lina beko sova vasi.,la artista comparte el dibujo en la escuela.,la artista comparte el dibujo en la escuela.,True
+without_tense,NX-0037,sari feni pavo faro.,la médica examina la piedra en el laboratorio.,la médica examina la piedra en el laboratorio.,True
+without_tense,NX-0038,vonu kava faro.,el viajero examina la carta.,el viajero examina la carta.,True
+without_tense,NX-0039,raku rima rilo yelo.,el pescador elige la flor en el río.,el pescador elige la flor en el río.,True
+without_tense,NX-0040,naku feni pavo kori.,el niño guarda la piedra en el laboratorio.,el niño guarda la piedra en el laboratorio.,True
+without_tense,NX-0041,mika kava hala pakiri.,la niña encontrará la carta en la casa.,la niña encuentra la carta en la casa.,False
+without_tense,NX-0042,raku pira yelo.,el pescador elige el agua.,el pescador elige el agua.,True
+without_tense,NX-0043,lina feni sova kori.,la artista guarda la piedra en la escuela.,la artista guarda la piedra en la escuela.,True
+without_tense,NX-0044,kemi zura yelori.,la investigadora elegirá la llave.,la investigadora elige la llave.,False
+without_tense,NX-0045,lina nelo hala nu nemita.,la artista no recordó el mensaje en la casa.,la artista no recuerda el mensaje en la casa.,False
+without_tense,NX-0046,penu zura kuna vasita.,el guardián compartió la llave en el mercado.,el guardián comparte la llave en el mercado.,False
+without_tense,NX-0047,yami dali nemita.,la estudiante recordó la fruta.,la estudiante recuerda la fruta.,False
+without_tense,NX-0048,mika zura sova faro.,la niña examina la llave en la escuela.,la niña examina la llave en la escuela.,True
+without_tense,NX-0049,mika moru vasi.,la niña comparte el mapa.,la niña comparte el mapa.,True
+without_tense,NX-0050,yami kava hala yelo.,la estudiante elige la carta en la casa.,la estudiante elige la carta en la casa.,True
+without_tense,NX-0051,mika nelo sova yelori.,la niña elegirá el mensaje en la escuela.,la niña elige el mensaje en la escuela.,False
+without_tense,NX-0052,vonu kava kuna taku.,el viajero describe la carta en el mercado.,el viajero describe la carta en el mercado.,True
+without_tense,NX-0053,raku dali pavo yelo.,el pescador elige la fruta en el laboratorio.,el pescador elige la fruta en el laboratorio.,True
+without_tense,NX-0054,telu moru kuna sema.,el maestro observa el mapa en el mercado.,el maestro observa el mapa en el mercado.,True
+without_tense,NX-0055,penu feni pavo nu sema.,el guardián no observa la piedra en el laboratorio.,el guardián no observa la piedra en el laboratorio.,True
+without_tense,NX-0056,raku kava nu dema.,el pescador no lleva la carta.,el pescador no lleva la carta.,True
+without_tense,NX-0057,raku pira pavo sema.,el pescador observa el agua en el laboratorio.,el pescador observa el agua en el laboratorio.,True
+without_tense,NX-0058,raku moru pavo nu dema.,el pescador no lleva el mapa en el laboratorio.,el pescador no lleva el mapa en el laboratorio.,True
+without_tense,NX-0059,naku rima nemita.,el niño recordó la flor.,el niño recuerda la flor.,False
+without_tense,NX-0060,telu tora hala dema.,el maestro lleva la leche en la casa.,el maestro lleva la leche en la casa.,True
+without_tense,NX-0061,telu kava sova yelo.,el maestro elige la carta en la escuela.,el maestro elige la carta en la escuela.,True
+without_tense,NX-0062,lina tora rilo taku.,la artista describe la leche en el río.,la artista describe la leche en el río.,True
+without_tense,NX-0063,naku tora nu pakiri.,el niño no encontrará la leche.,el niño no encuentra la leche.,False
+without_tense,NX-0064,mika zura vasi.,la niña comparte la llave.,la niña comparte la llave.,True
+without_tense,NX-0065,yami nelo sova dema.,la estudiante lleva el mensaje en la escuela.,la estudiante lleva el mensaje en la escuela.,True
+without_tense,NX-0066,naku suni sova yelo.,el niño elige el libro en la escuela.,el niño elige el libro en la escuela.,True
+without_tense,NX-0067,telu dali hala takuri.,el maestro describirá la fruta en la casa.,el maestro describe la fruta en la casa.,False
+without_tense,NX-0068,telu moru pakiri.,el maestro encontrará el mapa.,el maestro encuentra el mapa.,False
+without_tense,NX-0069,raku pira rilo nemi.,el pescador recuerda el agua en el río.,el pescador recuerda el agua en el río.,True
+without_tense,NX-0070,naku kava miri nu paki.,el niño no encuentra la carta en el bosque.,el niño no encuentra la carta en el bosque.,True
+without_tense,NX-0071,kemi zura sova dema.,la investigadora lleva la llave en la escuela.,la investigadora lleva la llave en la escuela.,True
+without_tense,NX-0072,telu feni lomu.,el maestro busca la piedra.,el maestro busca la piedra.,True
+without_tense,NX-0073,mika nelo rilo nemiri.,la niña recordará el mensaje en el río.,la niña recuerda el mensaje en el río.,False
+without_tense,NX-0074,kemi suni sova nemita.,la investigadora recordó el libro en la escuela.,la investigadora recuerda el libro en la escuela.,False
+without_tense,NX-0075,yami feni sova nemi.,la estudiante recuerda la piedra en la escuela.,la estudiante recuerda la piedra en la escuela.,True
+without_tense,NX-0076,raku moru rilo nemi.,el pescador recuerda el mapa en el río.,el pescador recuerda el mapa en el río.,True
+without_tense,NX-0077,naku tavi vasi.,el niño comparte el alimento.,el niño comparte el alimento.,True
+without_tense,NX-0078,mika zura rilo nemi.,la niña recuerda la llave en el río.,la niña recuerda la llave en el río.,True
+without_tense,NX-0079,naku moru miri taku.,el niño describe el mapa en el bosque.,el niño describe el mapa en el bosque.,True
+without_tense,NX-0080,mika suni pavo semata.,la niña observó el libro en el laboratorio.,la niña observa el libro en el laboratorio.,False
+without_tense,NX-0081,raku tora takuta.,el pescador describió la leche.,el pescador describe la leche.,False
+without_tense,NX-0082,lina tavi pavo lomuta.,la artista buscó el alimento en el laboratorio.,la artista busca el alimento en el laboratorio.,False
+without_tense,NX-0083,raku pira miri dema.,el pescador lleva el agua en el bosque.,el pescador lleva el agua en el bosque.,True
+without_tense,NX-0084,lina zura kuna nu dema.,la artista no lleva la llave en el mercado.,la artista no lleva la llave en el mercado.,True
+without_tense,NX-0085,mika feni sova paki.,la niña encuentra la piedra en la escuela.,la niña encuentra la piedra en la escuela.,True
+without_tense,NX-0086,sari zura hala demata.,la médica llevó la llave en la casa.,la médica lleva la llave en la casa.,False
+without_tense,NX-0087,vonu moru miri vasiri.,el viajero compartirá el mapa en el bosque.,el viajero comparte el mapa en el bosque.,False
+without_tense,NX-0088,penu tora vasiri.,el guardián compartirá la leche.,el guardián comparte la leche.,False
+without_tense,NX-0089,yami rima taku.,la estudiante describe la flor.,la estudiante describe la flor.,True
+without_tense,NX-0090,telu rima kuna vasi.,el maestro comparte la flor en el mercado.,el maestro comparte la flor en el mercado.,True
+without_tense,NX-0091,telu pira miri lomu.,el maestro busca el agua en el bosque.,el maestro busca el agua en el bosque.,True
+without_tense,NX-0092,sari zura nemi.,la médica recuerda la llave.,la médica recuerda la llave.,True
+without_tense,NX-0093,vonu kava pavo nu faro.,el viajero no examina la carta en el laboratorio.,el viajero no examina la carta en el laboratorio.,True
+without_tense,NX-0094,penu feni hala nu taku.,el guardián no describe la piedra en la casa.,el guardián no describe la piedra en la casa.,True
+without_tense,NX-0095,raku zura nu taku.,el pescador no describe la llave.,el pescador no describe la llave.,True
+without_tense,NX-0096,kemi dali vasi.,la investigadora comparte la fruta.,la investigadora comparte la fruta.,True
+without_tense,NX-0097,lina feni miri taku.,la artista describe la piedra en el bosque.,la artista describe la piedra en el bosque.,True
+without_tense,NX-0098,mika feni vasi.,la niña comparte la piedra.,la niña comparte la piedra.,True
+without_tense,NX-0099,naku nelo sova lomuri.,el niño buscará el mensaje en la escuela.,el niño busca el mensaje en la escuela.,False
+without_tense,NX-0100,yami nelo kuna paki.,la estudiante encuentra el mensaje en el mercado.,la estudiante encuentra el mensaje en el mercado.,True
+without_tense,NX-0101,kemi feni demari.,la investigadora llevará la piedra.,la investigadora lleva la piedra.,False
+without_tense,NX-0102,lina zura miri nemi.,la artista recuerda la llave en el bosque.,la artista recuerda la llave en el bosque.,True
+without_tense,NX-0103,telu beko yelo.,el maestro elige el dibujo.,el maestro elige el dibujo.,True
+without_tense,NX-0104,telu feni rilo paki.,el maestro encuentra la piedra en el río.,el maestro encuentra la piedra en el río.,True
+without_tense,NX-0105,penu moru pavo vasi.,el guardián comparte el mapa en el laboratorio.,el guardián comparte el mapa en el laboratorio.,True
+without_tense,NX-0106,penu suni kuna yelo.,el guardián elige el libro en el mercado.,el guardián elige el libro en el mercado.,True
+without_tense,NX-0107,sari beko sova farori.,la médica examinará el dibujo en la escuela.,la médica examina el dibujo en la escuela.,False
+without_tense,NX-0108,naku rima yelo.,el niño elige la flor.,el niño elige la flor.,True
+without_tense,NX-0109,lina pira nu vasi.,la artista no comparte el agua.,la artista no comparte el agua.,True
+without_tense,NX-0110,kemi dali koriri.,la investigadora guardará la fruta.,la investigadora guarda la fruta.,False
+without_tense,NX-0111,kemi feni nemita.,la investigadora recordó la piedra.,la investigadora recuerda la piedra.,False
+without_tense,NX-0112,yami nelo rilo lomu.,la estudiante busca el mensaje en el río.,la estudiante busca el mensaje en el río.,True
+without_tense,NX-0113,telu tora sova semari.,el maestro observará la leche en la escuela.,el maestro observa la leche en la escuela.,False
+without_tense,NX-0114,sari beko takuta.,la médica describió el dibujo.,la médica describe el dibujo.,False
+without_tense,NX-0115,yami zura sova yelo.,la estudiante elige la llave en la escuela.,la estudiante elige la llave en la escuela.,True
+without_tense,NX-0116,kemi tora pavo pakita.,la investigadora encontró la leche en el laboratorio.,la investigadora encuentra la leche en el laboratorio.,False
+without_tense,NX-0117,sari tora lomuta.,la médica buscó la leche.,la médica busca la leche.,False
+without_tense,NX-0118,penu tavi pavo nu demari.,el guardián no llevará el alimento en el laboratorio.,el guardián no lleva el alimento en el laboratorio.,False
+without_tense,NX-0119,naku tora hala dema.,el niño lleva la leche en la casa.,el niño lleva la leche en la casa.,True
+without_tense,NX-0120,naku zura rilo nu lomuri.,el niño no buscará la llave en el río.,el niño no busca la llave en el río.,False
+without_negation,NX-0001,telu tavi nemi.,el maestro recuerda el alimento.,el maestro recuerda el alimento.,True
+without_negation,NX-0002,vonu suni rilo kori.,el viajero guarda el libro en el río.,el viajero guarda el libro en el río.,True
+without_negation,NX-0003,naku kava kuna nu vasi.,el niño no comparte la carta en el mercado.,el niño comparte la carta en el mercado.,False
+without_negation,NX-0004,raku dali korita.,el pescador guardó la fruta.,el pescador guardó la fruta.,True
+without_negation,NX-0005,raku beko kuna nu korita.,el pescador no guardó el dibujo en el mercado.,el pescador guardó el dibujo en el mercado.,False
+without_negation,NX-0006,raku feni miri sema.,el pescador observa la piedra en el bosque.,el pescador observa la piedra en el bosque.,True
+without_negation,NX-0007,lina rima kori.,la artista guarda la flor.,la artista guarda la flor.,True
+without_negation,NX-0008,mika nelo pavo faro.,la niña examina el mensaje en el laboratorio.,la niña examina el mensaje en el laboratorio.,True
+without_negation,NX-0009,telu rima taku.,el maestro describe la flor.,el maestro describe la flor.,True
+without_negation,NX-0010,vonu pira vasi.,el viajero comparte el agua.,el viajero comparte el agua.,True
+without_negation,NX-0011,telu nelo rilo nemi.,el maestro recuerda el mensaje en el río.,el maestro recuerda el mensaje en el río.,True
+without_negation,NX-0012,yami tavi pavo nemi.,la estudiante recuerda el alimento en el laboratorio.,la estudiante recuerda el alimento en el laboratorio.,True
+without_negation,NX-0013,sari rima sova kori.,la médica guarda la flor en la escuela.,la médica guarda la flor en la escuela.,True
+without_negation,NX-0014,naku zura kuna faro.,el niño examina la llave en el mercado.,el niño examina la llave en el mercado.,True
+without_negation,NX-0015,penu pira pavo koriri.,el guardián guardará el agua en el laboratorio.,el guardián guardará el agua en el laboratorio.,True
+without_negation,NX-0016,sari pira lomuri.,la médica buscará el agua.,la médica buscará el agua.,True
+without_negation,NX-0017,naku tavi rilo kori.,el niño guarda el alimento en el río.,el niño guarda el alimento en el río.,True
+without_negation,NX-0018,yami suni miri nu vasiri.,la estudiante no compartirá el libro en el bosque.,la estudiante compartirá el libro en el bosque.,False
+without_negation,NX-0019,kemi rima hala nemi.,la investigadora recuerda la flor en la casa.,la investigadora recuerda la flor en la casa.,True
+without_negation,NX-0020,vonu kava miri nemi.,el viajero recuerda la carta en el bosque.,el viajero recuerda la carta en el bosque.,True
+without_negation,NX-0021,sari beko vasiri.,la médica compartirá el dibujo.,la médica compartirá el dibujo.,True
+without_negation,NX-0022,sari kava rilo taku.,la médica describe la carta en el río.,la médica describe la carta en el río.,True
+without_negation,NX-0023,vonu tora sova sema.,el viajero observa la leche en la escuela.,el viajero observa la leche en la escuela.,True
+without_negation,NX-0024,vonu tora kuna yelo.,el viajero elige la leche en el mercado.,el viajero elige la leche en el mercado.,True
+without_negation,NX-0025,sari feni sova paki.,la médica encuentra la piedra en la escuela.,la médica encuentra la piedra en la escuela.,True
+without_negation,NX-0026,vonu rima nu pakiri.,el viajero no encontrará la flor.,el viajero encontrará la flor.,False
+without_negation,NX-0027,naku tavi kuna koriri.,el niño guardará el alimento en el mercado.,el niño guardará el alimento en el mercado.,True
+without_negation,NX-0028,penu tavi kuna vasi.,el guardián comparte el alimento en el mercado.,el guardián comparte el alimento en el mercado.,True
+without_negation,NX-0029,yami moru sova taku.,la estudiante describe el mapa en la escuela.,la estudiante describe el mapa en la escuela.,True
+without_negation,NX-0030,raku moru miri taku.,el pescador describe el mapa en el bosque.,el pescador describe el mapa en el bosque.,True
+without_negation,NX-0031,naku suni hala taku.,el niño describe el libro en la casa.,el niño describe el libro en la casa.,True
+without_negation,NX-0032,kemi rima sova sema.,la investigadora observa la flor en la escuela.,la investigadora observa la flor en la escuela.,True
+without_negation,NX-0033,raku tavi miri yelota.,el pescador eligió el alimento en el bosque.,el pescador eligió el alimento en el bosque.,True
+without_negation,NX-0034,telu tora pavo dema.,el maestro lleva la leche en el laboratorio.,el maestro lleva la leche en el laboratorio.,True
+without_negation,NX-0035,yami moru rilo yelo.,la estudiante elige el mapa en el río.,la estudiante elige el mapa en el río.,True
+without_negation,NX-0036,lina beko sova vasi.,la artista comparte el dibujo en la escuela.,la artista comparte el dibujo en la escuela.,True
+without_negation,NX-0037,sari feni pavo faro.,la médica examina la piedra en el laboratorio.,la médica examina la piedra en el laboratorio.,True
+without_negation,NX-0038,vonu kava faro.,el viajero examina la carta.,el viajero examina la carta.,True
+without_negation,NX-0039,raku rima rilo yelo.,el pescador elige la flor en el río.,el pescador elige la flor en el río.,True
+without_negation,NX-0040,naku feni pavo kori.,el niño guarda la piedra en el laboratorio.,el niño guarda la piedra en el laboratorio.,True
+without_negation,NX-0041,mika kava hala pakiri.,la niña encontrará la carta en la casa.,la niña encontrará la carta en la casa.,True
+without_negation,NX-0042,raku pira yelo.,el pescador elige el agua.,el pescador elige el agua.,True
+without_negation,NX-0043,lina feni sova kori.,la artista guarda la piedra en la escuela.,la artista guarda la piedra en la escuela.,True
+without_negation,NX-0044,kemi zura yelori.,la investigadora elegirá la llave.,la investigadora elegirá la llave.,True
+without_negation,NX-0045,lina nelo hala nu nemita.,la artista no recordó el mensaje en la casa.,la artista recordó el mensaje en la casa.,False
+without_negation,NX-0046,penu zura kuna vasita.,el guardián compartió la llave en el mercado.,el guardián compartió la llave en el mercado.,True
+without_negation,NX-0047,yami dali nemita.,la estudiante recordó la fruta.,la estudiante recordó la fruta.,True
+without_negation,NX-0048,mika zura sova faro.,la niña examina la llave en la escuela.,la niña examina la llave en la escuela.,True
+without_negation,NX-0049,mika moru vasi.,la niña comparte el mapa.,la niña comparte el mapa.,True
+without_negation,NX-0050,yami kava hala yelo.,la estudiante elige la carta en la casa.,la estudiante elige la carta en la casa.,True
+without_negation,NX-0051,mika nelo sova yelori.,la niña elegirá el mensaje en la escuela.,la niña elegirá el mensaje en la escuela.,True
+without_negation,NX-0052,vonu kava kuna taku.,el viajero describe la carta en el mercado.,el viajero describe la carta en el mercado.,True
+without_negation,NX-0053,raku dali pavo yelo.,el pescador elige la fruta en el laboratorio.,el pescador elige la fruta en el laboratorio.,True
+without_negation,NX-0054,telu moru kuna sema.,el maestro observa el mapa en el mercado.,el maestro observa el mapa en el mercado.,True
+without_negation,NX-0055,penu feni pavo nu sema.,el guardián no observa la piedra en el laboratorio.,el guardián observa la piedra en el laboratorio.,False
+without_negation,NX-0056,raku kava nu dema.,el pescador no lleva la carta.,el pescador lleva la carta.,False
+without_negation,NX-0057,raku pira pavo sema.,el pescador observa el agua en el laboratorio.,el pescador observa el agua en el laboratorio.,True
+without_negation,NX-0058,raku moru pavo nu dema.,el pescador no lleva el mapa en el laboratorio.,el pescador lleva el mapa en el laboratorio.,False
+without_negation,NX-0059,naku rima nemita.,el niño recordó la flor.,el niño recordó la flor.,True
+without_negation,NX-0060,telu tora hala dema.,el maestro lleva la leche en la casa.,el maestro lleva la leche en la casa.,True
+without_negation,NX-0061,telu kava sova yelo.,el maestro elige la carta en la escuela.,el maestro elige la carta en la escuela.,True
+without_negation,NX-0062,lina tora rilo taku.,la artista describe la leche en el río.,la artista describe la leche en el río.,True
+without_negation,NX-0063,naku tora nu pakiri.,el niño no encontrará la leche.,el niño encontrará la leche.,False
+without_negation,NX-0064,mika zura vasi.,la niña comparte la llave.,la niña comparte la llave.,True
+without_negation,NX-0065,yami nelo sova dema.,la estudiante lleva el mensaje en la escuela.,la estudiante lleva el mensaje en la escuela.,True
+without_negation,NX-0066,naku suni sova yelo.,el niño elige el libro en la escuela.,el niño elige el libro en la escuela.,True
+without_negation,NX-0067,telu dali hala takuri.,el maestro describirá la fruta en la casa.,el maestro describirá la fruta en la casa.,True
+without_negation,NX-0068,telu moru pakiri.,el maestro encontrará el mapa.,el maestro encontrará el mapa.,True
+without_negation,NX-0069,raku pira rilo nemi.,el pescador recuerda el agua en el río.,el pescador recuerda el agua en el río.,True
+without_negation,NX-0070,naku kava miri nu paki.,el niño no encuentra la carta en el bosque.,el niño encuentra la carta en el bosque.,False
+without_negation,NX-0071,kemi zura sova dema.,la investigadora lleva la llave en la escuela.,la investigadora lleva la llave en la escuela.,True
+without_negation,NX-0072,telu feni lomu.,el maestro busca la piedra.,el maestro busca la piedra.,True
+without_negation,NX-0073,mika nelo rilo nemiri.,la niña recordará el mensaje en el río.,la niña recordará el mensaje en el río.,True
+without_negation,NX-0074,kemi suni sova nemita.,la investigadora recordó el libro en la escuela.,la investigadora recordó el libro en la escuela.,True
+without_negation,NX-0075,yami feni sova nemi.,la estudiante recuerda la piedra en la escuela.,la estudiante recuerda la piedra en la escuela.,True
+without_negation,NX-0076,raku moru rilo nemi.,el pescador recuerda el mapa en el río.,el pescador recuerda el mapa en el río.,True
+without_negation,NX-0077,naku tavi vasi.,el niño comparte el alimento.,el niño comparte el alimento.,True
+without_negation,NX-0078,mika zura rilo nemi.,la niña recuerda la llave en el río.,la niña recuerda la llave en el río.,True
+without_negation,NX-0079,naku moru miri taku.,el niño describe el mapa en el bosque.,el niño describe el mapa en el bosque.,True
+without_negation,NX-0080,mika suni pavo semata.,la niña observó el libro en el laboratorio.,la niña observó el libro en el laboratorio.,True
+without_negation,NX-0081,raku tora takuta.,el pescador describió la leche.,el pescador describió la leche.,True
+without_negation,NX-0082,lina tavi pavo lomuta.,la artista buscó el alimento en el laboratorio.,la artista buscó el alimento en el laboratorio.,True
+without_negation,NX-0083,raku pira miri dema.,el pescador lleva el agua en el bosque.,el pescador lleva el agua en el bosque.,True
+without_negation,NX-0084,lina zura kuna nu dema.,la artista no lleva la llave en el mercado.,la artista lleva la llave en el mercado.,False
+without_negation,NX-0085,mika feni sova paki.,la niña encuentra la piedra en la escuela.,la niña encuentra la piedra en la escuela.,True
+without_negation,NX-0086,sari zura hala demata.,la médica llevó la llave en la casa.,la médica llevó la llave en la casa.,True
+without_negation,NX-0087,vonu moru miri vasiri.,el viajero compartirá el mapa en el bosque.,el viajero compartirá el mapa en el bosque.,True
+without_negation,NX-0088,penu tora vasiri.,el guardián compartirá la leche.,el guardián compartirá la leche.,True
+without_negation,NX-0089,yami rima taku.,la estudiante describe la flor.,la estudiante describe la flor.,True
+without_negation,NX-0090,telu rima kuna vasi.,el maestro comparte la flor en el mercado.,el maestro comparte la flor en el mercado.,True
+without_negation,NX-0091,telu pira miri lomu.,el maestro busca el agua en el bosque.,el maestro busca el agua en el bosque.,True
+without_negation,NX-0092,sari zura nemi.,la médica recuerda la llave.,la médica recuerda la llave.,True
+without_negation,NX-0093,vonu kava pavo nu faro.,el viajero no examina la carta en el laboratorio.,el viajero examina la carta en el laboratorio.,False
+without_negation,NX-0094,penu feni hala nu taku.,el guardián no describe la piedra en la casa.,el guardián describe la piedra en la casa.,False
+without_negation,NX-0095,raku zura nu taku.,el pescador no describe la llave.,el pescador describe la llave.,False
+without_negation,NX-0096,kemi dali vasi.,la investigadora comparte la fruta.,la investigadora comparte la fruta.,True
+without_negation,NX-0097,lina feni miri taku.,la artista describe la piedra en el bosque.,la artista describe la piedra en el bosque.,True
+without_negation,NX-0098,mika feni vasi.,la niña comparte la piedra.,la niña comparte la piedra.,True
+without_negation,NX-0099,naku nelo sova lomuri.,el niño buscará el mensaje en la escuela.,el niño buscará el mensaje en la escuela.,True
+without_negation,NX-0100,yami nelo kuna paki.,la estudiante encuentra el mensaje en el mercado.,la estudiante encuentra el mensaje en el mercado.,True
+without_negation,NX-0101,kemi feni demari.,la investigadora llevará la piedra.,la investigadora llevará la piedra.,True
+without_negation,NX-0102,lina zura miri nemi.,la artista recuerda la llave en el bosque.,la artista recuerda la llave en el bosque.,True
+without_negation,NX-0103,telu beko yelo.,el maestro elige el dibujo.,el maestro elige el dibujo.,True
+without_negation,NX-0104,telu feni rilo paki.,el maestro encuentra la piedra en el río.,el maestro encuentra la piedra en el río.,True
+without_negation,NX-0105,penu moru pavo vasi.,el guardián comparte el mapa en el laboratorio.,el guardián comparte el mapa en el laboratorio.,True
+without_negation,NX-0106,penu suni kuna yelo.,el guardián elige el libro en el mercado.,el guardián elige el libro en el mercado.,True
+without_negation,NX-0107,sari beko sova farori.,la médica examinará el dibujo en la escuela.,la médica examinará el dibujo en la escuela.,True
+without_negation,NX-0108,naku rima yelo.,el niño elige la flor.,el niño elige la flor.,True
+without_negation,NX-0109,lina pira nu vasi.,la artista no comparte el agua.,la artista comparte el agua.,False
+without_negation,NX-0110,kemi dali koriri.,la investigadora guardará la fruta.,la investigadora guardará la fruta.,True
+without_negation,NX-0111,kemi feni nemita.,la investigadora recordó la piedra.,la investigadora recordó la piedra.,True
+without_negation,NX-0112,yami nelo rilo lomu.,la estudiante busca el mensaje en el río.,la estudiante busca el mensaje en el río.,True
+without_negation,NX-0113,telu tora sova semari.,el maestro observará la leche en la escuela.,el maestro observará la leche en la escuela.,True
+without_negation,NX-0114,sari beko takuta.,la médica describió el dibujo.,la médica describió el dibujo.,True
+without_negation,NX-0115,yami zura sova yelo.,la estudiante elige la llave en la escuela.,la estudiante elige la llave en la escuela.,True
+without_negation,NX-0116,kemi tora pavo pakita.,la investigadora encontró la leche en el laboratorio.,la investigadora encontró la leche en el laboratorio.,True
+without_negation,NX-0117,sari tora lomuta.,la médica buscó la leche.,la médica buscó la leche.,True
+without_negation,NX-0118,penu tavi pavo nu demari.,el guardián no llevará el alimento en el laboratorio.,el guardián llevará el alimento en el laboratorio.,False
+without_negation,NX-0119,naku tora hala dema.,el niño lleva la leche en la casa.,el niño lleva la leche en la casa.,True
+without_negation,NX-0120,naku zura rilo nu lomuri.,el niño no buscará la llave en el río.,el niño buscará la llave en el río.,False
+without_reordering,NX-0001,telu tavi nemi.,el maestro recuerda el alimento.,el maestro el alimento recuerda.,False
+without_reordering,NX-0002,vonu suni rilo kori.,el viajero guarda el libro en el río.,el viajero el libro en el río guarda.,False
+without_reordering,NX-0003,naku kava kuna nu vasi.,el niño no comparte la carta en el mercado.,el niño la carta en el mercado no comparte.,False
+without_reordering,NX-0004,raku dali korita.,el pescador guardó la fruta.,el pescador la fruta guardó.,False
+without_reordering,NX-0005,raku beko kuna nu korita.,el pescador no guardó el dibujo en el mercado.,el pescador el dibujo en el mercado no guardó.,False
+without_reordering,NX-0006,raku feni miri sema.,el pescador observa la piedra en el bosque.,el pescador la piedra en el bosque observa.,False
+without_reordering,NX-0007,lina rima kori.,la artista guarda la flor.,la artista la flor guarda.,False
+without_reordering,NX-0008,mika nelo pavo faro.,la niña examina el mensaje en el laboratorio.,la niña el mensaje en el laboratorio examina.,False
+without_reordering,NX-0009,telu rima taku.,el maestro describe la flor.,el maestro la flor describe.,False
+without_reordering,NX-0010,vonu pira vasi.,el viajero comparte el agua.,el viajero el agua comparte.,False
+without_reordering,NX-0011,telu nelo rilo nemi.,el maestro recuerda el mensaje en el río.,el maestro el mensaje en el río recuerda.,False
+without_reordering,NX-0012,yami tavi pavo nemi.,la estudiante recuerda el alimento en el laboratorio.,la estudiante el alimento en el laboratorio recuerda.,False
+without_reordering,NX-0013,sari rima sova kori.,la médica guarda la flor en la escuela.,la médica la flor en la escuela guarda.,False
+without_reordering,NX-0014,naku zura kuna faro.,el niño examina la llave en el mercado.,el niño la llave en el mercado examina.,False
+without_reordering,NX-0015,penu pira pavo koriri.,el guardián guardará el agua en el laboratorio.,el guardián el agua en el laboratorio guardará.,False
+without_reordering,NX-0016,sari pira lomuri.,la médica buscará el agua.,la médica el agua buscará.,False
+without_reordering,NX-0017,naku tavi rilo kori.,el niño guarda el alimento en el río.,el niño el alimento en el río guarda.,False
+without_reordering,NX-0018,yami suni miri nu vasiri.,la estudiante no compartirá el libro en el bosque.,la estudiante el libro en el bosque no compartirá.,False
+without_reordering,NX-0019,kemi rima hala nemi.,la investigadora recuerda la flor en la casa.,la investigadora la flor en la casa recuerda.,False
+without_reordering,NX-0020,vonu kava miri nemi.,el viajero recuerda la carta en el bosque.,el viajero la carta en el bosque recuerda.,False
+without_reordering,NX-0021,sari beko vasiri.,la médica compartirá el dibujo.,la médica el dibujo compartirá.,False
+without_reordering,NX-0022,sari kava rilo taku.,la médica describe la carta en el río.,la médica la carta en el río describe.,False
+without_reordering,NX-0023,vonu tora sova sema.,el viajero observa la leche en la escuela.,el viajero la leche en la escuela observa.,False
+without_reordering,NX-0024,vonu tora kuna yelo.,el viajero elige la leche en el mercado.,el viajero la leche en el mercado elige.,False
+without_reordering,NX-0025,sari feni sova paki.,la médica encuentra la piedra en la escuela.,la médica la piedra en la escuela encuentra.,False
+without_reordering,NX-0026,vonu rima nu pakiri.,el viajero no encontrará la flor.,el viajero la flor no encontrará.,False
+without_reordering,NX-0027,naku tavi kuna koriri.,el niño guardará el alimento en el mercado.,el niño el alimento en el mercado guardará.,False
+without_reordering,NX-0028,penu tavi kuna vasi.,el guardián comparte el alimento en el mercado.,el guardián el alimento en el mercado comparte.,False
+without_reordering,NX-0029,yami moru sova taku.,la estudiante describe el mapa en la escuela.,la estudiante el mapa en la escuela describe.,False
+without_reordering,NX-0030,raku moru miri taku.,el pescador describe el mapa en el bosque.,el pescador el mapa en el bosque describe.,False
+without_reordering,NX-0031,naku suni hala taku.,el niño describe el libro en la casa.,el niño el libro en la casa describe.,False
+without_reordering,NX-0032,kemi rima sova sema.,la investigadora observa la flor en la escuela.,la investigadora la flor en la escuela observa.,False
+without_reordering,NX-0033,raku tavi miri yelota.,el pescador eligió el alimento en el bosque.,el pescador el alimento en el bosque eligió.,False
+without_reordering,NX-0034,telu tora pavo dema.,el maestro lleva la leche en el laboratorio.,el maestro la leche en el laboratorio lleva.,False
+without_reordering,NX-0035,yami moru rilo yelo.,la estudiante elige el mapa en el río.,la estudiante el mapa en el río elige.,False
+without_reordering,NX-0036,lina beko sova vasi.,la artista comparte el dibujo en la escuela.,la artista el dibujo en la escuela comparte.,False
+without_reordering,NX-0037,sari feni pavo faro.,la médica examina la piedra en el laboratorio.,la médica la piedra en el laboratorio examina.,False
+without_reordering,NX-0038,vonu kava faro.,el viajero examina la carta.,el viajero la carta examina.,False
+without_reordering,NX-0039,raku rima rilo yelo.,el pescador elige la flor en el río.,el pescador la flor en el río elige.,False
+without_reordering,NX-0040,naku feni pavo kori.,el niño guarda la piedra en el laboratorio.,el niño la piedra en el laboratorio guarda.,False
+without_reordering,NX-0041,mika kava hala pakiri.,la niña encontrará la carta en la casa.,la niña la carta en la casa encontrará.,False
+without_reordering,NX-0042,raku pira yelo.,el pescador elige el agua.,el pescador el agua elige.,False
+without_reordering,NX-0043,lina feni sova kori.,la artista guarda la piedra en la escuela.,la artista la piedra en la escuela guarda.,False
+without_reordering,NX-0044,kemi zura yelori.,la investigadora elegirá la llave.,la investigadora la llave elegirá.,False
+without_reordering,NX-0045,lina nelo hala nu nemita.,la artista no recordó el mensaje en la casa.,la artista el mensaje en la casa no recordó.,False
+without_reordering,NX-0046,penu zura kuna vasita.,el guardián compartió la llave en el mercado.,el guardián la llave en el mercado compartió.,False
+without_reordering,NX-0047,yami dali nemita.,la estudiante recordó la fruta.,la estudiante la fruta recordó.,False
+without_reordering,NX-0048,mika zura sova faro.,la niña examina la llave en la escuela.,la niña la llave en la escuela examina.,False
+without_reordering,NX-0049,mika moru vasi.,la niña comparte el mapa.,la niña el mapa comparte.,False
+without_reordering,NX-0050,yami kava hala yelo.,la estudiante elige la carta en la casa.,la estudiante la carta en la casa elige.,False
+without_reordering,NX-0051,mika nelo sova yelori.,la niña elegirá el mensaje en la escuela.,la niña el mensaje en la escuela elegirá.,False
+without_reordering,NX-0052,vonu kava kuna taku.,el viajero describe la carta en el mercado.,el viajero la carta en el mercado describe.,False
+without_reordering,NX-0053,raku dali pavo yelo.,el pescador elige la fruta en el laboratorio.,el pescador la fruta en el laboratorio elige.,False
+without_reordering,NX-0054,telu moru kuna sema.,el maestro observa el mapa en el mercado.,el maestro el mapa en el mercado observa.,False
+without_reordering,NX-0055,penu feni pavo nu sema.,el guardián no observa la piedra en el laboratorio.,el guardián la piedra en el laboratorio no observa.,False
+without_reordering,NX-0056,raku kava nu dema.,el pescador no lleva la carta.,el pescador la carta no lleva.,False
+without_reordering,NX-0057,raku pira pavo sema.,el pescador observa el agua en el laboratorio.,el pescador el agua en el laboratorio observa.,False
+without_reordering,NX-0058,raku moru pavo nu dema.,el pescador no lleva el mapa en el laboratorio.,el pescador el mapa en el laboratorio no lleva.,False
+without_reordering,NX-0059,naku rima nemita.,el niño recordó la flor.,el niño la flor recordó.,False
+without_reordering,NX-0060,telu tora hala dema.,el maestro lleva la leche en la casa.,el maestro la leche en la casa lleva.,False
+without_reordering,NX-0061,telu kava sova yelo.,el maestro elige la carta en la escuela.,el maestro la carta en la escuela elige.,False
+without_reordering,NX-0062,lina tora rilo taku.,la artista describe la leche en el río.,la artista la leche en el río describe.,False
+without_reordering,NX-0063,naku tora nu pakiri.,el niño no encontrará la leche.,el niño la leche no encontrará.,False
+without_reordering,NX-0064,mika zura vasi.,la niña comparte la llave.,la niña la llave comparte.,False
+without_reordering,NX-0065,yami nelo sova dema.,la estudiante lleva el mensaje en la escuela.,la estudiante el mensaje en la escuela lleva.,False
+without_reordering,NX-0066,naku suni sova yelo.,el niño elige el libro en la escuela.,el niño el libro en la escuela elige.,False
+without_reordering,NX-0067,telu dali hala takuri.,el maestro describirá la fruta en la casa.,el maestro la fruta en la casa describirá.,False
+without_reordering,NX-0068,telu moru pakiri.,el maestro encontrará el mapa.,el maestro el mapa encontrará.,False
+without_reordering,NX-0069,raku pira rilo nemi.,el pescador recuerda el agua en el río.,el pescador el agua en el río recuerda.,False
+without_reordering,NX-0070,naku kava miri nu paki.,el niño no encuentra la carta en el bosque.,el niño la carta en el bosque no encuentra.,False
+without_reordering,NX-0071,kemi zura sova dema.,la investigadora lleva la llave en la escuela.,la investigadora la llave en la escuela lleva.,False
+without_reordering,NX-0072,telu feni lomu.,el maestro busca la piedra.,el maestro la piedra busca.,False
+without_reordering,NX-0073,mika nelo rilo nemiri.,la niña recordará el mensaje en el río.,la niña el mensaje en el río recordará.,False
+without_reordering,NX-0074,kemi suni sova nemita.,la investigadora recordó el libro en la escuela.,la investigadora el libro en la escuela recordó.,False
+without_reordering,NX-0075,yami feni sova nemi.,la estudiante recuerda la piedra en la escuela.,la estudiante la piedra en la escuela recuerda.,False
+without_reordering,NX-0076,raku moru rilo nemi.,el pescador recuerda el mapa en el río.,el pescador el mapa en el río recuerda.,False
+without_reordering,NX-0077,naku tavi vasi.,el niño comparte el alimento.,el niño el alimento comparte.,False
+without_reordering,NX-0078,mika zura rilo nemi.,la niña recuerda la llave en el río.,la niña la llave en el río recuerda.,False
+without_reordering,NX-0079,naku moru miri taku.,el niño describe el mapa en el bosque.,el niño el mapa en el bosque describe.,False
+without_reordering,NX-0080,mika suni pavo semata.,la niña observó el libro en el laboratorio.,la niña el libro en el laboratorio observó.,False
+without_reordering,NX-0081,raku tora takuta.,el pescador describió la leche.,el pescador la leche describió.,False
+without_reordering,NX-0082,lina tavi pavo lomuta.,la artista buscó el alimento en el laboratorio.,la artista el alimento en el laboratorio buscó.,False
+without_reordering,NX-0083,raku pira miri dema.,el pescador lleva el agua en el bosque.,el pescador el agua en el bosque lleva.,False
+without_reordering,NX-0084,lina zura kuna nu dema.,la artista no lleva la llave en el mercado.,la artista la llave en el mercado no lleva.,False
+without_reordering,NX-0085,mika feni sova paki.,la niña encuentra la piedra en la escuela.,la niña la piedra en la escuela encuentra.,False
+without_reordering,NX-0086,sari zura hala demata.,la médica llevó la llave en la casa.,la médica la llave en la casa llevó.,False
+without_reordering,NX-0087,vonu moru miri vasiri.,el viajero compartirá el mapa en el bosque.,el viajero el mapa en el bosque compartirá.,False
+without_reordering,NX-0088,penu tora vasiri.,el guardián compartirá la leche.,el guardián la leche compartirá.,False
+without_reordering,NX-0089,yami rima taku.,la estudiante describe la flor.,la estudiante la flor describe.,False
+without_reordering,NX-0090,telu rima kuna vasi.,el maestro comparte la flor en el mercado.,el maestro la flor en el mercado comparte.,False
+without_reordering,NX-0091,telu pira miri lomu.,el maestro busca el agua en el bosque.,el maestro el agua en el bosque busca.,False
+without_reordering,NX-0092,sari zura nemi.,la médica recuerda la llave.,la médica la llave recuerda.,False
+without_reordering,NX-0093,vonu kava pavo nu faro.,el viajero no examina la carta en el laboratorio.,el viajero la carta en el laboratorio no examina.,False
+without_reordering,NX-0094,penu feni hala nu taku.,el guardián no describe la piedra en la casa.,el guardián la piedra en la casa no describe.,False
+without_reordering,NX-0095,raku zura nu taku.,el pescador no describe la llave.,el pescador la llave no describe.,False
+without_reordering,NX-0096,kemi dali vasi.,la investigadora comparte la fruta.,la investigadora la fruta comparte.,False
+without_reordering,NX-0097,lina feni miri taku.,la artista describe la piedra en el bosque.,la artista la piedra en el bosque describe.,False
+without_reordering,NX-0098,mika feni vasi.,la niña comparte la piedra.,la niña la piedra comparte.,False
+without_reordering,NX-0099,naku nelo sova lomuri.,el niño buscará el mensaje en la escuela.,el niño el mensaje en la escuela buscará.,False
+without_reordering,NX-0100,yami nelo kuna paki.,la estudiante encuentra el mensaje en el mercado.,la estudiante el mensaje en el mercado encuentra.,False
+without_reordering,NX-0101,kemi feni demari.,la investigadora llevará la piedra.,la investigadora la piedra llevará.,False
+without_reordering,NX-0102,lina zura miri nemi.,la artista recuerda la llave en el bosque.,la artista la llave en el bosque recuerda.,False
+without_reordering,NX-0103,telu beko yelo.,el maestro elige el dibujo.,el maestro el dibujo elige.,False
+without_reordering,NX-0104,telu feni rilo paki.,el maestro encuentra la piedra en el río.,el maestro la piedra en el río encuentra.,False
+without_reordering,NX-0105,penu moru pavo vasi.,el guardián comparte el mapa en el laboratorio.,el guardián el mapa en el laboratorio comparte.,False
+without_reordering,NX-0106,penu suni kuna yelo.,el guardián elige el libro en el mercado.,el guardián el libro en el mercado elige.,False
+without_reordering,NX-0107,sari beko sova farori.,la médica examinará el dibujo en la escuela.,la médica el dibujo en la escuela examinará.,False
+without_reordering,NX-0108,naku rima yelo.,el niño elige la flor.,el niño la flor elige.,False
+without_reordering,NX-0109,lina pira nu vasi.,la artista no comparte el agua.,la artista el agua no comparte.,False
+without_reordering,NX-0110,kemi dali koriri.,la investigadora guardará la fruta.,la investigadora la fruta guardará.,False
+without_reordering,NX-0111,kemi feni nemita.,la investigadora recordó la piedra.,la investigadora la piedra recordó.,False
+without_reordering,NX-0112,yami nelo rilo lomu.,la estudiante busca el mensaje en el río.,la estudiante el mensaje en el río busca.,False
+without_reordering,NX-0113,telu tora sova semari.,el maestro observará la leche en la escuela.,el maestro la leche en la escuela observará.,False
+without_reordering,NX-0114,sari beko takuta.,la médica describió el dibujo.,la médica el dibujo describió.,False
+without_reordering,NX-0115,yami zura sova yelo.,la estudiante elige la llave en la escuela.,la estudiante la llave en la escuela elige.,False
+without_reordering,NX-0116,kemi tora pavo pakita.,la investigadora encontró la leche en el laboratorio.,la investigadora la leche en el laboratorio encontró.,False
+without_reordering,NX-0117,sari tora lomuta.,la médica buscó la leche.,la médica la leche buscó.,False
+without_reordering,NX-0118,penu tavi pavo nu demari.,el guardián no llevará el alimento en el laboratorio.,el guardián el alimento en el laboratorio no llevará.,False
+without_reordering,NX-0119,naku tora hala dema.,el niño lleva la leche en la casa.,el niño la leche en la casa lleva.,False
+without_reordering,NX-0120,naku zura rilo nu lomuri.,el niño no buscará la llave en el río.,el niño la llave en el río no buscará.,False

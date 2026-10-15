@@ -1,0 +1,857 @@
+{
+  "seed": 20261014,
+  "python": "3.14.3",
+  "event_audit": {
+    "rows": {
+      "conversation": 18,
+      "phase5": 40,
+      "hints": 21
+    },
+    "hint_checks": [
+      {
+        "naviri": "naku",
+        "espanol": "el niño",
+        "categoria": "sujeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 38
+      },
+      {
+        "naviri": "mika",
+        "espanol": "la niña",
+        "categoria": "sujeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 37
+      },
+      {
+        "naviri": "telu",
+        "espanol": "el maestro",
+        "categoria": "sujeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 44
+      },
+      {
+        "naviri": "kemi",
+        "espanol": "la investigadora",
+        "categoria": "sujeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 34
+      },
+      {
+        "naviri": "vonu",
+        "espanol": "el viajero",
+        "categoria": "sujeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 44
+      },
+      {
+        "naviri": "pira",
+        "espanol": "el agua",
+        "categoria": "objeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 32
+      },
+      {
+        "naviri": "suni",
+        "espanol": "el libro",
+        "categoria": "objeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 35
+      },
+      {
+        "naviri": "moru",
+        "espanol": "el mapa",
+        "categoria": "objeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 41
+      },
+      {
+        "naviri": "dali",
+        "espanol": "la fruta",
+        "categoria": "objeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 42
+      },
+      {
+        "naviri": "nelo",
+        "espanol": "el mensaje",
+        "categoria": "objeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 33
+      },
+      {
+        "naviri": "zura",
+        "espanol": "la llave",
+        "categoria": "objeto",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 30
+      },
+      {
+        "naviri": "sema",
+        "espanol": "observa",
+        "categoria": "verbo (presente)",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 26
+      },
+      {
+        "naviri": "lomu",
+        "espanol": "busca",
+        "categoria": "verbo (presente)",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 26
+      },
+      {
+        "naviri": "dema",
+        "espanol": "lleva",
+        "categoria": "verbo (presente)",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 30
+      },
+      {
+        "naviri": "nemi",
+        "espanol": "recuerda",
+        "categoria": "verbo (presente)",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 18
+      },
+      {
+        "naviri": "hala",
+        "espanol": "en la casa",
+        "categoria": "lugar",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 45
+      },
+      {
+        "naviri": "miri",
+        "espanol": "en el bosque",
+        "categoria": "lugar",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 45
+      },
+      {
+        "naviri": "pavo",
+        "espanol": "en el laboratorio",
+        "categoria": "lugar",
+        "observacion": "Correspondencia léxica observada",
+        "consistent_with_train": true,
+        "train_support": 55
+      },
+      {
+        "naviri": "nu",
+        "espanol": "no",
+        "categoria": "negación",
+        "observacion": "Se coloca antes del verbo",
+        "consistent_with_train": true,
+        "train_support": 85
+      },
+      {
+        "naviri": "-ta",
+        "espanol": "pasado",
+        "categoria": "sufijo verbal",
+        "observacion": "Ejemplo: nemita = recordó",
+        "consistent_with_train": true,
+        "train_support": 73
+      },
+      {
+        "naviri": "-ri",
+        "espanol": "futuro",
+        "categoria": "sufijo verbal",
+        "observacion": "Ejemplo: nemiri = recordará",
+        "consistent_with_train": true,
+        "train_support": 87
+      }
+    ],
+    "hints_consistent": 21,
+    "phase5_source_overlaps": {
+      "train": 0,
+      "validation": 0,
+      "monolingual": 0,
+      "public": 0
+    },
+    "phase5_oov_types": [],
+    "phase5_parsed": 40,
+    "phase5_phenomena": {
+      "negative": 16,
+      "past": 13,
+      "future": 13,
+      "location": 20
+    },
+    "conversation_new_types": [
+      "areni",
+      "lumi",
+      "mali",
+      "mira",
+      "navira",
+      "naya",
+      "neri",
+      "noku",
+      "nori",
+      "pali",
+      "salia",
+      "selu",
+      "seni",
+      "vala",
+      "vali"
+    ],
+    "conversation_categories": {
+      "saludo": 4,
+      "despedida": 2,
+      "cortesía": 5,
+      "respuesta": 2,
+      "conversación": 2,
+      "petición": 3
+    },
+    "conversation_conflicting_phrases": {},
+    "training_evidence": {
+      "rejected_train_ids": [],
+      "negation_disagreement_ids": []
+    }
+  },
+  "lm_split_sizes": {
+    "train": 2377,
+    "dev": 297,
+    "test": 298
+  },
+  "excluded_target_sources": 28,
+  "vocabulary_fit": "mono_clean/train",
+  "lexical_vocabulary_size": 59,
+  "prediction_vocabulary_size": 61,
+  "vocabulary": [
+    "beko",
+    "dali",
+    "dema",
+    "demari",
+    "demata",
+    "faro",
+    "farori",
+    "farota",
+    "feni",
+    "hala",
+    "kava",
+    "kemi",
+    "kori",
+    "koriri",
+    "korita",
+    "kuna",
+    "lina",
+    "lomu",
+    "lomuri",
+    "lomuta",
+    "mika",
+    "miri",
+    "moru",
+    "naku",
+    "nelo",
+    "nemi",
+    "nemiri",
+    "nemita",
+    "nu",
+    "paki",
+    "pakiri",
+    "pakita",
+    "pavo",
+    "penu",
+    "pira",
+    "raku",
+    "rilo",
+    "rima",
+    "sari",
+    "sema",
+    "semari",
+    "semata",
+    "sova",
+    "suni",
+    "taku",
+    "takuri",
+    "takuta",
+    "tavi",
+    "telu",
+    "tora",
+    "vasi",
+    "vasiri",
+    "vasita",
+    "vonu",
+    "yami",
+    "yelo",
+    "yelori",
+    "yelota",
+    "zura"
+  ],
+  "eos_scored": true,
+  "bos_scored": false,
+  "unk_policy": "Vocabulario solo de train del LM; OOV se mapea a <unk>; add-alpha reserva masa incluso sin OOV en train.",
+  "candidate_count": 150,
+  "selected": [
+    {
+      "condition": "train_420",
+      "family": "unigram",
+      "order": 1,
+      "alpha": 0.01,
+      "weights": null,
+      "train_sentences": 420,
+      "dev_perplexity": 36.32420910127461,
+      "dev_cross_entropy_bits": 5.182859480822813,
+      "model_key": "train_420__unigram",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 3.616915529025978,
+        "cross_entropy_bits": 5.21810609704006,
+        "perplexity": 37.2225786094771
+      }
+    },
+    {
+      "condition": "train_420",
+      "family": "bigram",
+      "order": 2,
+      "alpha": 0.1,
+      "weights": null,
+      "train_sentences": 420,
+      "dev_perplexity": 11.863240314183106,
+      "dev_cross_entropy_bits": 3.5684262149493193,
+      "model_key": "train_420__bigram",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 2.4999799311649338,
+        "cross_entropy_bits": 3.6067086490135822,
+        "perplexity": 12.182249474694764
+      }
+    },
+    {
+      "condition": "train_420",
+      "family": "trigram",
+      "order": 3,
+      "alpha": 0.1,
+      "weights": null,
+      "train_sentences": 420,
+      "dev_perplexity": 22.44544690059633,
+      "dev_cross_entropy_bits": 4.488350916240196,
+      "model_key": "train_420__trigram",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 3.1184769382683144,
+        "cross_entropy_bits": 4.499011213966296,
+        "perplexity": 22.611914062245873
+      }
+    },
+    {
+      "condition": "train_420",
+      "family": "interpolated",
+      "order": 3,
+      "alpha": 0.01,
+      "weights": [
+        0.1,
+        0.6,
+        0.3
+      ],
+      "train_sentences": 420,
+      "dev_perplexity": 12.60020142259415,
+      "dev_cross_entropy_bits": 3.65537489123597,
+      "model_key": "train_420__interpolated",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 2.565535323611503,
+        "cross_entropy_bits": 3.7012850885997777,
+        "perplexity": 13.007619792201687
+      }
+    },
+    {
+      "condition": "mono_clean",
+      "family": "unigram",
+      "order": 1,
+      "alpha": 0.01,
+      "weights": null,
+      "train_sentences": 2377,
+      "dev_perplexity": 35.947932877659234,
+      "dev_cross_entropy_bits": 5.167836908308761,
+      "model_key": "mono_clean__unigram",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 3.6040524138069654,
+        "cross_entropy_bits": 5.199548544503207,
+        "perplexity": 36.74684654974704
+      }
+    },
+    {
+      "condition": "mono_clean",
+      "family": "bigram",
+      "order": 2,
+      "alpha": 0.01,
+      "weights": null,
+      "train_sentences": 2377,
+      "dev_perplexity": 8.456748899149371,
+      "dev_cross_entropy_bits": 3.0801031422418688,
+      "model_key": "mono_clean__bigram",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 2.2064139829010867,
+        "cross_entropy_bits": 3.183182511279464,
+        "perplexity": 9.083085820050146
+      }
+    },
+    {
+      "condition": "mono_clean",
+      "family": "trigram",
+      "order": 3,
+      "alpha": 0.05,
+      "weights": null,
+      "train_sentences": 2377,
+      "dev_perplexity": 12.143570276708,
+      "dev_cross_entropy_bits": 3.6021207391532952,
+      "model_key": "mono_clean__trigram",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 2.6222786410367185,
+        "cross_entropy_bits": 3.783148391252724,
+        "perplexity": 13.767058054954452
+      }
+    },
+    {
+      "condition": "mono_clean",
+      "family": "interpolated",
+      "order": 3,
+      "alpha": 0.01,
+      "weights": [
+        0.1,
+        0.6,
+        0.3
+      ],
+      "train_sentences": 2377,
+      "dev_perplexity": 9.385763725582398,
+      "dev_cross_entropy_bits": 3.230474142848487,
+      "model_key": "mono_clean__interpolated",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 2.3031144267575074,
+        "cross_entropy_bits": 3.3226917620828837,
+        "perplexity": 10.00529473885301
+      }
+    },
+    {
+      "condition": "train_plus_mono",
+      "family": "unigram",
+      "order": 1,
+      "alpha": 0.01,
+      "weights": null,
+      "train_sentences": 2797,
+      "dev_perplexity": 35.95087671918086,
+      "dev_cross_entropy_bits": 5.167955048388982,
+      "model_key": "train_plus_mono__unigram",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 3.604461255305278,
+        "cross_entropy_bits": 5.200138378105333,
+        "perplexity": 36.76187325711016
+      }
+    },
+    {
+      "condition": "train_plus_mono",
+      "family": "bigram",
+      "order": 2,
+      "alpha": 0.01,
+      "weights": null,
+      "train_sentences": 2797,
+      "dev_perplexity": 8.464984831776938,
+      "dev_cross_entropy_bits": 3.0815074829892226,
+      "model_key": "train_plus_mono__bigram",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 2.196062354150618,
+        "cross_entropy_bits": 3.1682482678160393,
+        "perplexity": 8.98954606740774
+      }
+    },
+    {
+      "condition": "train_plus_mono",
+      "family": "trigram",
+      "order": 3,
+      "alpha": 0.05,
+      "weights": null,
+      "train_sentences": 2797,
+      "dev_perplexity": 11.711166293260085,
+      "dev_cross_entropy_bits": 3.549812853195832,
+      "model_key": "train_plus_mono__trigram",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 2.5833965748286984,
+        "cross_entropy_bits": 3.7270534271548974,
+        "perplexity": 13.242039439052206
+      }
+    },
+    {
+      "condition": "train_plus_mono",
+      "family": "interpolated",
+      "order": 3,
+      "alpha": 0.01,
+      "weights": [
+        0.1,
+        0.6,
+        0.3
+      ],
+      "train_sentences": 2797,
+      "dev_perplexity": 9.371621090544593,
+      "dev_cross_entropy_bits": 3.2282986249390886,
+      "model_key": "train_plus_mono__interpolated",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 2.294188041449254,
+        "cross_entropy_bits": 3.3098137102656024,
+        "perplexity": 9.916381052193241
+      }
+    },
+    {
+      "condition": "mono_transductive",
+      "family": "unigram",
+      "order": 1,
+      "alpha": 0.01,
+      "weights": null,
+      "train_sentences": 2405,
+      "dev_perplexity": 35.94136498461234,
+      "dev_cross_entropy_bits": 5.167573295586535,
+      "model_key": "mono_transductive__unigram",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 3.603835035234318,
+        "cross_entropy_bits": 5.199234933514453,
+        "perplexity": 36.73885944083937
+      }
+    },
+    {
+      "condition": "mono_transductive",
+      "family": "bigram",
+      "order": 2,
+      "alpha": 0.01,
+      "weights": null,
+      "train_sentences": 2405,
+      "dev_perplexity": 8.458298490595325,
+      "dev_cross_entropy_bits": 3.0803674735025774,
+      "model_key": "mono_transductive__bigram",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 2.2060142157262175,
+        "cross_entropy_bits": 3.18260576915877,
+        "perplexity": 9.079455426197265
+      }
+    },
+    {
+      "condition": "mono_transductive",
+      "family": "trigram",
+      "order": 3,
+      "alpha": 0.05,
+      "weights": null,
+      "train_sentences": 2405,
+      "dev_perplexity": 12.127894172711246,
+      "dev_cross_entropy_bits": 3.6002571646921515,
+      "model_key": "mono_transductive__trigram",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 2.615140982954469,
+        "cross_entropy_bits": 3.772850927333902,
+        "perplexity": 13.669143358270611
+      }
+    },
+    {
+      "condition": "mono_transductive",
+      "family": "interpolated",
+      "order": 3,
+      "alpha": 0.01,
+      "weights": [
+        0.1,
+        0.6,
+        0.3
+      ],
+      "train_sentences": 2405,
+      "dev_perplexity": 9.387448167935073,
+      "dev_cross_entropy_bits": 3.2307330369204412,
+      "model_key": "mono_transductive__interpolated",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 2.3023569561794264,
+        "cross_entropy_bits": 3.321598963036267,
+        "perplexity": 9.99771889206605
+      }
+    },
+    {
+      "condition": "mono_sample_420",
+      "family": "unigram",
+      "order": 1,
+      "alpha": 0.5,
+      "weights": null,
+      "train_sentences": 420,
+      "dev_perplexity": 36.691174871595905,
+      "dev_cross_entropy_bits": 5.197361196101991,
+      "model_key": "mono_sample_420__unigram",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 3.6159456781444796,
+        "cross_entropy_bits": 5.216706897982921,
+        "perplexity": 37.1864957591215
+      }
+    },
+    {
+      "condition": "mono_sample_420",
+      "family": "bigram",
+      "order": 2,
+      "alpha": 0.05,
+      "weights": null,
+      "train_sentences": 420,
+      "dev_perplexity": 10.88839776833341,
+      "dev_cross_entropy_bits": 3.444719771463508,
+      "model_key": "mono_sample_420__bigram",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 2.4280960381414407,
+        "cross_entropy_bits": 3.503002113028796,
+        "perplexity": 11.337275777080626
+      }
+    },
+    {
+      "condition": "mono_sample_420",
+      "family": "trigram",
+      "order": 3,
+      "alpha": 0.05,
+      "weights": null,
+      "train_sentences": 420,
+      "dev_perplexity": 20.369883759015,
+      "dev_cross_entropy_bits": 4.348365842458168,
+      "model_key": "mono_sample_420__trigram",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 3.102801926467862,
+        "cross_entropy_bits": 4.476396952175906,
+        "perplexity": 22.26023552585751
+      }
+    },
+    {
+      "condition": "mono_sample_420",
+      "family": "interpolated",
+      "order": 3,
+      "alpha": 0.01,
+      "weights": [
+        0.1,
+        0.6,
+        0.3
+      ],
+      "train_sentences": 420,
+      "dev_perplexity": 11.632353393728566,
+      "dev_cross_entropy_bits": 3.540071099349932,
+      "model_key": "mono_sample_420__interpolated",
+      "test": {
+        "sentences": 298,
+        "predicted_tokens": 1446,
+        "lexical_tokens": 1148,
+        "oov_tokens": 0,
+        "oov_rate": 0.0,
+        "cross_entropy_nats": 2.511630615331127,
+        "cross_entropy_bits": 3.623517033283113,
+        "perplexity": 12.325011035839193
+      }
+    }
+  ],
+  "primary_model": {
+    "condition": "mono_clean",
+    "family": "bigram",
+    "order": 2,
+    "alpha": 0.01,
+    "weights": null,
+    "train_sentences": 2377,
+    "dev_perplexity": 8.456748899149371,
+    "dev_cross_entropy_bits": 3.0801031422418688,
+    "model_key": "mono_clean__bigram",
+    "test": {
+      "sentences": 298,
+      "predicted_tokens": 1446,
+      "lexical_tokens": 1148,
+      "oov_tokens": 0,
+      "oov_rate": 0.0,
+      "cross_entropy_nats": 2.2064139829010867,
+      "cross_entropy_bits": 3.183182511279464,
+      "perplexity": 9.083085820050146
+    }
+  },
+  "external_diagnostics": {
+    "validation_source": {
+      "sentences": 120,
+      "predicted_tokens": 582,
+      "lexical_tokens": 462,
+      "oov_tokens": 0,
+      "oov_rate": 0.0,
+      "cross_entropy_nats": 2.1766940625135707,
+      "cross_entropy_bits": 3.14030572952078,
+      "perplexity": 8.817109211641705
+    },
+    "public_source": {
+      "sentences": 40,
+      "predicted_tokens": 197,
+      "lexical_tokens": 157,
+      "oov_tokens": 0,
+      "oov_rate": 0.0,
+      "cross_entropy_nats": 2.196028910890819,
+      "cross_entropy_bits": 3.1682000193909756,
+      "perplexity": 8.98924543271026
+    },
+    "phase5_source": {
+      "sentences": 40,
+      "predicted_tokens": 196,
+      "lexical_tokens": 156,
+      "oov_tokens": 0,
+      "oov_rate": 0.0,
+      "cross_entropy_nats": 2.354878007825837,
+      "cross_entropy_bits": 3.3973708237888167,
+      "perplexity": 10.536843370855534
+    },
+    "conversation_shift": {
+      "sentences": 18,
+      "predicted_tokens": 44,
+      "lexical_tokens": 26,
+      "oov_tokens": 25,
+      "oov_rate": 0.9615384615384616,
+      "cross_entropy_nats": 7.625687095095201,
+      "cross_entropy_bits": 11.001540955464812,
+      "perplexity": 2050.1886557538296
+    }
+  },
+  "fixed_bigram_ablation": [
+    {
+      "condition": "train_420",
+      "order": 2,
+      "alpha": 0.01,
+      "train_sentences": 420,
+      "dev_perplexity": 13.055827235725312,
+      "test_perplexity": 13.702903281978696
+    },
+    {
+      "condition": "mono_clean",
+      "order": 2,
+      "alpha": 0.01,
+      "train_sentences": 2377,
+      "dev_perplexity": 8.456748899149371,
+      "test_perplexity": 9.083085820050146
+    },
+    {
+      "condition": "train_plus_mono",
+      "order": 2,
+      "alpha": 0.01,
+      "train_sentences": 2797,
+      "dev_perplexity": 8.464984831776938,
+      "test_perplexity": 8.98954606740774
+    },
+    {
+      "condition": "mono_transductive",
+      "order": 2,
+      "alpha": 0.01,
+      "train_sentences": 2405,
+      "dev_perplexity": 8.458298490595325,
+      "test_perplexity": 9.079455426197265
+    },
+    {
+      "condition": "mono_sample_420",
+      "order": 2,
+      "alpha": 0.01,
+      "train_sentences": 420,
+      "dev_perplexity": 11.579875990814804,
+      "test_perplexity": 12.169509347146942
+    }
+  ],
+  "selection_policy": "Mejor familia y parámetros por perplejidad de dev en mono_clean. Test no selecciona. No se reajusta con dev antes del test.",
+  "data_sha256": {
+    "datos\\corpus_monolingual.csv": "7ef44d6934322e58b42b287487af2de67769fe3dae58fe95badc8622bf412ab5",
+    "datos\\evento_fase_5\\LEXICON_X_Comunicacion_Inicial_Noelia.csv": "0975b4780f37fab599ea504580c91bf034dd306dbfc2ffa5b803eaadff6e3ab2",
+    "datos\\evento_fase_5\\LEXICON_X_Fase5_Nuevos_Mensajes.csv": "e7eefabdab852601c0e5eab4c826be24e8e656d34d6d8f6868d5578ff1ac8a8c",
+    "datos\\evento_fase_5\\LEXICON_X_Pistas_Lexicas_Estudiantes.csv": "bc55d82ef635aadc445ddb32ccdf78aa253965bbf3a5191b515c6fe887ff52a2",
+    "datos\\test_public_unlabeled.csv": "afc1ff1888efe556a69029efe405d3ac450d1930787309df86be250ca4c4d79a",
+    "datos\\train_parallel.csv": "0d2d36b373eaf528c7049260d8985c28b5668fb9adfc5219f21507f48e038bad",
+    "datos\\validation_parallel.csv": "5a9fb1b459c1567b7897a70a000933ce781b1ade74605723fd568f6ca6bf17ca"
+  }
+}

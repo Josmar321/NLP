@@ -1,0 +1,41 @@
+id,subject,object,location,negative,root,tense,signature
+NX-0001,telu,suni,kuna,False,sema,futuro,S O L V
+NX-0002,kemi,suni,∅,False,vasi,futuro,S O V
+NX-0003,lina,kava,sova,False,sema,futuro,S O L V
+NX-0004,naku,suni,∅,False,vasi,presente,S O V
+NX-0005,penu,kava,∅,False,sema,presente,S O V
+NX-0006,raku,tavi,miri,False,vasi,presente,S O L V
+NX-0007,raku,pira,rilo,False,yelo,presente,S O L V
+NX-0008,penu,zura,pavo,False,kori,presente,S O L V
+NX-0009,mika,zura,pavo,False,nemi,presente,S O L V
+NX-0010,raku,feni,rilo,True,yelo,presente,S O L NEG V
+NX-0011,sari,tora,∅,False,sema,presente,S O V
+NX-0012,lina,dali,hala,False,taku,futuro,S O L V
+NX-0013,naku,tora,pavo,False,lomu,pasado,S O L V
+NX-0014,vonu,tora,sova,False,paki,presente,S O L V
+NX-0015,telu,tavi,sova,False,taku,presente,S O L V
+NX-0016,mika,rima,kuna,False,dema,presente,S O L V
+NX-0017,kemi,rima,∅,False,nemi,futuro,S O V
+NX-0018,vonu,dali,hala,True,yelo,presente,S O L NEG V
+NX-0019,vonu,beko,kuna,False,nemi,presente,S O L V
+NX-0020,yami,moru,∅,False,nemi,presente,S O V
+NX-0021,naku,nelo,pavo,True,taku,presente,S O L NEG V
+NX-0022,lina,moru,∅,False,taku,presente,S O V
+NX-0023,yami,rima,sova,False,sema,presente,S O L V
+NX-0024,lina,kava,pavo,False,vasi,presente,S O L V
+NX-0025,raku,tora,kuna,False,vasi,pasado,S O L V
+NX-0026,naku,kava,pavo,False,paki,pasado,S O L V
+NX-0027,naku,suni,pavo,False,vasi,presente,S O L V
+NX-0028,yami,feni,miri,True,lomu,presente,S O L NEG V
+NX-0029,lina,zura,∅,False,kori,presente,S O V
+NX-0030,kemi,tavi,∅,False,nemi,futuro,S O V
+NX-0031,vonu,feni,∅,False,nemi,presente,S O V
+NX-0032,lina,rima,hala,False,yelo,presente,S O L V
+NX-0033,raku,zura,sova,False,yelo,presente,S O L V
+NX-0034,mika,nelo,miri,True,taku,presente,S O L NEG V
+NX-0035,raku,zura,miri,True,lomu,presente,S O L NEG V
+NX-0036,yami,zura,miri,True,taku,futuro,S O L NEG V
+NX-0037,sari,nelo,kuna,False,vasi,presente,S O L V
+NX-0038,lina,beko,rilo,True,nemi,presente,S O L NEG V
+NX-0039,naku,nelo,∅,False,yelo,pasado,S O V
+NX-0040,telu,tavi,pavo,False,nemi,presente,S O L V
