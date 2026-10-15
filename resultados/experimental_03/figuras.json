@@ -1,0 +1,10 @@
+{
+  "matplotlib": "3.11.2",
+  "figures": [
+    "01_modelos_dev_test",
+    "02_suavizado_dev",
+    "03_corpus_controlado",
+    "04_evento_cambio_dominio",
+    "05_fase5_sorpresa"
+  ]
+}

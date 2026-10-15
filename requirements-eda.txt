@@ -1,0 +1,3 @@
+# pip selecciona una versión compatible con el Python del kernel activo.
+# La versión usada queda registrada en resultados/eda/metricas.json.
+matplotlib>=3.8,<4

@@ -1,0 +1,22 @@
+naviri,espanol,categoria,observacion,consistent_with_train,train_support
+naku,el niño,sujeto,Correspondencia léxica observada,True,38
+mika,la niña,sujeto,Correspondencia léxica observada,True,37
+telu,el maestro,sujeto,Correspondencia léxica observada,True,44
+kemi,la investigadora,sujeto,Correspondencia léxica observada,True,34
+vonu,el viajero,sujeto,Correspondencia léxica observada,True,44
+pira,el agua,objeto,Correspondencia léxica observada,True,32
+suni,el libro,objeto,Correspondencia léxica observada,True,35
+moru,el mapa,objeto,Correspondencia léxica observada,True,41
+dali,la fruta,objeto,Correspondencia léxica observada,True,42
+nelo,el mensaje,objeto,Correspondencia léxica observada,True,33
+zura,la llave,objeto,Correspondencia léxica observada,True,30
+sema,observa,verbo (presente),Correspondencia léxica observada,True,26
+lomu,busca,verbo (presente),Correspondencia léxica observada,True,26
+dema,lleva,verbo (presente),Correspondencia léxica observada,True,30
+nemi,recuerda,verbo (presente),Correspondencia léxica observada,True,18
+hala,en la casa,lugar,Correspondencia léxica observada,True,45
+miri,en el bosque,lugar,Correspondencia léxica observada,True,45
+pavo,en el laboratorio,lugar,Correspondencia léxica observada,True,55
+nu,no,negación,Se coloca antes del verbo,True,85
+-ta,pasado,sufijo verbal,Ejemplo: nemita = recordó,True,73
+-ri,futuro,sufijo verbal,Ejemplo: nemiri = recordará,True,87

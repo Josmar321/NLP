@@ -1,0 +1,59 @@
+category,source,targets,support,conflict
+subject,kemi,"{""la investigadora"": 34}",34,False
+subject,lina,"{""la artista"": 43}",43,False
+subject,mika,"{""la niña"": 37}",37,False
+subject,naku,"{""el niño"": 38}",38,False
+subject,penu,"{""el guardián"": 40}",40,False
+subject,raku,"{""el pescador"": 48}",48,False
+subject,sari,"{""la médica"": 42}",42,False
+subject,telu,"{""el maestro"": 44}",44,False
+subject,vonu,"{""el viajero"": 44}",44,False
+subject,yami,"{""la estudiante"": 50}",50,False
+object,beko,"{""el dibujo"": 40}",40,False
+object,dali,"{""la fruta"": 42}",42,False
+object,feni,"{""la piedra"": 27}",27,False
+object,kava,"{""la carta"": 36}",36,False
+object,moru,"{""el mapa"": 41}",41,False
+object,nelo,"{""el mensaje"": 33}",33,False
+object,pira,"{""el agua"": 32}",32,False
+object,rima,"{""la flor"": 29}",29,False
+object,suni,"{""el libro"": 35}",35,False
+object,tavi,"{""el alimento"": 34}",34,False
+object,tora,"{""la leche"": 41}",41,False
+object,zura,"{""la llave"": 30}",30,False
+location,hala,"{""la casa"": 45}",45,False
+location,kuna,"{""el mercado"": 58}",58,False
+location,miri,"{""el bosque"": 45}",45,False
+location,pavo,"{""el laboratorio"": 55}",55,False
+location,rilo,"{""el río"": 49}",49,False
+location,sova,"{""la escuela"": 44}",44,False
+verb,dema,"{""lleva"": 30}",30,False
+verb,demari,"{""llevará"": 5}",5,False
+verb,demata,"{""llevó"": 6}",6,False
+verb,faro,"{""examina"": 32}",32,False
+verb,farori,"{""examinará"": 10}",10,False
+verb,farota,"{""examinó"": 4}",4,False
+verb,kori,"{""guarda"": 34}",34,False
+verb,koriri,"{""guardará"": 13}",13,False
+verb,korita,"{""guardó"": 4}",4,False
+verb,lomu,"{""busca"": 26}",26,False
+verb,lomuri,"{""buscará"": 6}",6,False
+verb,lomuta,"{""buscó"": 9}",9,False
+verb,nemi,"{""recuerda"": 18}",18,False
+verb,nemiri,"{""recordará"": 12}",12,False
+verb,nemita,"{""recordó"": 4}",4,False
+verb,paki,"{""encuentra"": 24}",24,False
+verb,pakiri,"{""encontrará"": 8}",8,False
+verb,pakita,"{""encontró"": 6}",6,False
+verb,sema,"{""observa"": 26}",26,False
+verb,semari,"{""observará"": 5}",5,False
+verb,semata,"{""observó"": 9}",9,False
+verb,taku,"{""describe"": 26}",26,False
+verb,takuri,"{""describirá"": 9}",9,False
+verb,takuta,"{""describió"": 8}",8,False
+verb,vasi,"{""comparte"": 19}",19,False
+verb,vasiri,"{""compartirá"": 8}",8,False
+verb,vasita,"{""compartió"": 15}",15,False
+verb,yelo,"{""elige"": 25}",25,False
+verb,yelori,"{""elegirá"": 11}",11,False
+verb,yelota,"{""eligió"": 8}",8,False

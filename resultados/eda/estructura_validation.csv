@@ -1,0 +1,121 @@
+id,subject,object,location,negative,root,tense,signature
+NX-0001,telu,tavi,∅,False,nemi,presente,S O V
+NX-0002,vonu,suni,rilo,False,kori,presente,S O L V
+NX-0003,naku,kava,kuna,True,vasi,presente,S O L NEG V
+NX-0004,raku,dali,∅,False,kori,pasado,S O V
+NX-0005,raku,beko,kuna,True,kori,pasado,S O L NEG V
+NX-0006,raku,feni,miri,False,sema,presente,S O L V
+NX-0007,lina,rima,∅,False,kori,presente,S O V
+NX-0008,mika,nelo,pavo,False,faro,presente,S O L V
+NX-0009,telu,rima,∅,False,taku,presente,S O V
+NX-0010,vonu,pira,∅,False,vasi,presente,S O V
+NX-0011,telu,nelo,rilo,False,nemi,presente,S O L V
+NX-0012,yami,tavi,pavo,False,nemi,presente,S O L V
+NX-0013,sari,rima,sova,False,kori,presente,S O L V
+NX-0014,naku,zura,kuna,False,faro,presente,S O L V
+NX-0015,penu,pira,pavo,False,kori,futuro,S O L V
+NX-0016,sari,pira,∅,False,lomu,futuro,S O V
+NX-0017,naku,tavi,rilo,False,kori,presente,S O L V
+NX-0018,yami,suni,miri,True,vasi,futuro,S O L NEG V
+NX-0019,kemi,rima,hala,False,nemi,presente,S O L V
+NX-0020,vonu,kava,miri,False,nemi,presente,S O L V
+NX-0021,sari,beko,∅,False,vasi,futuro,S O V
+NX-0022,sari,kava,rilo,False,taku,presente,S O L V
+NX-0023,vonu,tora,sova,False,sema,presente,S O L V
+NX-0024,vonu,tora,kuna,False,yelo,presente,S O L V
+NX-0025,sari,feni,sova,False,paki,presente,S O L V
+NX-0026,vonu,rima,∅,True,paki,futuro,S O NEG V
+NX-0027,naku,tavi,kuna,False,kori,futuro,S O L V
+NX-0028,penu,tavi,kuna,False,vasi,presente,S O L V
+NX-0029,yami,moru,sova,False,taku,presente,S O L V
+NX-0030,raku,moru,miri,False,taku,presente,S O L V
+NX-0031,naku,suni,hala,False,taku,presente,S O L V
+NX-0032,kemi,rima,sova,False,sema,presente,S O L V
+NX-0033,raku,tavi,miri,False,yelo,pasado,S O L V
+NX-0034,telu,tora,pavo,False,dema,presente,S O L V
+NX-0035,yami,moru,rilo,False,yelo,presente,S O L V
+NX-0036,lina,beko,sova,False,vasi,presente,S O L V
+NX-0037,sari,feni,pavo,False,faro,presente,S O L V
+NX-0038,vonu,kava,∅,False,faro,presente,S O V
+NX-0039,raku,rima,rilo,False,yelo,presente,S O L V
+NX-0040,naku,feni,pavo,False,kori,presente,S O L V
+NX-0041,mika,kava,hala,False,paki,futuro,S O L V
+NX-0042,raku,pira,∅,False,yelo,presente,S O V
+NX-0043,lina,feni,sova,False,kori,presente,S O L V
+NX-0044,kemi,zura,∅,False,yelo,futuro,S O V
+NX-0045,lina,nelo,hala,True,nemi,pasado,S O L NEG V
+NX-0046,penu,zura,kuna,False,vasi,pasado,S O L V
+NX-0047,yami,dali,∅,False,nemi,pasado,S O V
+NX-0048,mika,zura,sova,False,faro,presente,S O L V
+NX-0049,mika,moru,∅,False,vasi,presente,S O V
+NX-0050,yami,kava,hala,False,yelo,presente,S O L V
+NX-0051,mika,nelo,sova,False,yelo,futuro,S O L V
+NX-0052,vonu,kava,kuna,False,taku,presente,S O L V
+NX-0053,raku,dali,pavo,False,yelo,presente,S O L V
+NX-0054,telu,moru,kuna,False,sema,presente,S O L V
+NX-0055,penu,feni,pavo,True,sema,presente,S O L NEG V
+NX-0056,raku,kava,∅,True,dema,presente,S O NEG V
+NX-0057,raku,pira,pavo,False,sema,presente,S O L V
+NX-0058,raku,moru,pavo,True,dema,presente,S O L NEG V
+NX-0059,naku,rima,∅,False,nemi,pasado,S O V
+NX-0060,telu,tora,hala,False,dema,presente,S O L V
+NX-0061,telu,kava,sova,False,yelo,presente,S O L V
+NX-0062,lina,tora,rilo,False,taku,presente,S O L V
+NX-0063,naku,tora,∅,True,paki,futuro,S O NEG V
+NX-0064,mika,zura,∅,False,vasi,presente,S O V
+NX-0065,yami,nelo,sova,False,dema,presente,S O L V
+NX-0066,naku,suni,sova,False,yelo,presente,S O L V
+NX-0067,telu,dali,hala,False,taku,futuro,S O L V
+NX-0068,telu,moru,∅,False,paki,futuro,S O V
+NX-0069,raku,pira,rilo,False,nemi,presente,S O L V
+NX-0070,naku,kava,miri,True,paki,presente,S O L NEG V
+NX-0071,kemi,zura,sova,False,dema,presente,S O L V
+NX-0072,telu,feni,∅,False,lomu,presente,S O V
+NX-0073,mika,nelo,rilo,False,nemi,futuro,S O L V
+NX-0074,kemi,suni,sova,False,nemi,pasado,S O L V
+NX-0075,yami,feni,sova,False,nemi,presente,S O L V
+NX-0076,raku,moru,rilo,False,nemi,presente,S O L V
+NX-0077,naku,tavi,∅,False,vasi,presente,S O V
+NX-0078,mika,zura,rilo,False,nemi,presente,S O L V
+NX-0079,naku,moru,miri,False,taku,presente,S O L V
+NX-0080,mika,suni,pavo,False,sema,pasado,S O L V
+NX-0081,raku,tora,∅,False,taku,pasado,S O V
+NX-0082,lina,tavi,pavo,False,lomu,pasado,S O L V
+NX-0083,raku,pira,miri,False,dema,presente,S O L V
+NX-0084,lina,zura,kuna,True,dema,presente,S O L NEG V
+NX-0085,mika,feni,sova,False,paki,presente,S O L V
+NX-0086,sari,zura,hala,False,dema,pasado,S O L V
+NX-0087,vonu,moru,miri,False,vasi,futuro,S O L V
+NX-0088,penu,tora,∅,False,vasi,futuro,S O V
+NX-0089,yami,rima,∅,False,taku,presente,S O V
+NX-0090,telu,rima,kuna,False,vasi,presente,S O L V
+NX-0091,telu,pira,miri,False,lomu,presente,S O L V
+NX-0092,sari,zura,∅,False,nemi,presente,S O V
+NX-0093,vonu,kava,pavo,True,faro,presente,S O L NEG V
+NX-0094,penu,feni,hala,True,taku,presente,S O L NEG V
+NX-0095,raku,zura,∅,True,taku,presente,S O NEG V
+NX-0096,kemi,dali,∅,False,vasi,presente,S O V
+NX-0097,lina,feni,miri,False,taku,presente,S O L V
+NX-0098,mika,feni,∅,False,vasi,presente,S O V
+NX-0099,naku,nelo,sova,False,lomu,futuro,S O L V
+NX-0100,yami,nelo,kuna,False,paki,presente,S O L V
+NX-0101,kemi,feni,∅,False,dema,futuro,S O V
+NX-0102,lina,zura,miri,False,nemi,presente,S O L V
+NX-0103,telu,beko,∅,False,yelo,presente,S O V
+NX-0104,telu,feni,rilo,False,paki,presente,S O L V
+NX-0105,penu,moru,pavo,False,vasi,presente,S O L V
+NX-0106,penu,suni,kuna,False,yelo,presente,S O L V
+NX-0107,sari,beko,sova,False,faro,futuro,S O L V
+NX-0108,naku,rima,∅,False,yelo,presente,S O V
+NX-0109,lina,pira,∅,True,vasi,presente,S O NEG V
+NX-0110,kemi,dali,∅,False,kori,futuro,S O V
+NX-0111,kemi,feni,∅,False,nemi,pasado,S O V
+NX-0112,yami,nelo,rilo,False,lomu,presente,S O L V
+NX-0113,telu,tora,sova,False,sema,futuro,S O L V
+NX-0114,sari,beko,∅,False,taku,pasado,S O V
+NX-0115,yami,zura,sova,False,yelo,presente,S O L V
+NX-0116,kemi,tora,pavo,False,paki,pasado,S O L V
+NX-0117,sari,tora,∅,False,lomu,pasado,S O V
+NX-0118,penu,tavi,pavo,True,dema,futuro,S O L NEG V
+NX-0119,naku,tora,hala,False,dema,presente,S O L V
+NX-0120,naku,zura,rilo,True,lomu,futuro,S O L NEG V

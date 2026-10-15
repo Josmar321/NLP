@@ -1,0 +1,316 @@
+{
+  "format_version": 1,
+  "fit_split": "train_parallel.csv",
+  "fit_rows": 420,
+  "grammar": "S O [L] [nu] V -> S [no] V O [en L]",
+  "maps": {
+    "subject": {
+      "vonu": {
+        "el viajero": 44
+      },
+      "penu": {
+        "el guardián": 40
+      },
+      "kemi": {
+        "la investigadora": 34
+      },
+      "raku": {
+        "el pescador": 48
+      },
+      "yami": {
+        "la estudiante": 50
+      },
+      "naku": {
+        "el niño": 38
+      },
+      "lina": {
+        "la artista": 43
+      },
+      "mika": {
+        "la niña": 37
+      },
+      "sari": {
+        "la médica": 42
+      },
+      "telu": {
+        "el maestro": 44
+      }
+    },
+    "object": {
+      "pira": {
+        "el agua": 32
+      },
+      "moru": {
+        "el mapa": 41
+      },
+      "dali": {
+        "la fruta": 42
+      },
+      "zura": {
+        "la llave": 30
+      },
+      "tavi": {
+        "el alimento": 34
+      },
+      "kava": {
+        "la carta": 36
+      },
+      "rima": {
+        "la flor": 29
+      },
+      "nelo": {
+        "el mensaje": 33
+      },
+      "beko": {
+        "el dibujo": 40
+      },
+      "tora": {
+        "la leche": 41
+      },
+      "suni": {
+        "el libro": 35
+      },
+      "feni": {
+        "la piedra": 27
+      }
+    },
+    "location": {
+      "hala": {
+        "la casa": 45
+      },
+      "kuna": {
+        "el mercado": 58
+      },
+      "miri": {
+        "el bosque": 45
+      },
+      "rilo": {
+        "el río": 49
+      },
+      "pavo": {
+        "el laboratorio": 55
+      },
+      "sova": {
+        "la escuela": 44
+      }
+    },
+    "verb": {
+      "yelo": {
+        "elige": 25
+      },
+      "dema": {
+        "lleva": 30
+      },
+      "lomu": {
+        "busca": 26
+      },
+      "lomuta": {
+        "buscó": 9
+      },
+      "kori": {
+        "guarda": 34
+      },
+      "sema": {
+        "observa": 26
+      },
+      "faro": {
+        "examina": 32
+      },
+      "yelota": {
+        "eligió": 8
+      },
+      "demari": {
+        "llevará": 5
+      },
+      "taku": {
+        "describe": 26
+      },
+      "vasi": {
+        "comparte": 19
+      },
+      "semata": {
+        "observó": 9
+      },
+      "takuta": {
+        "describió": 8
+      },
+      "paki": {
+        "encuentra": 24
+      },
+      "farota": {
+        "examinó": 4
+      },
+      "semari": {
+        "observará": 5
+      },
+      "nemita": {
+        "recordó": 4
+      },
+      "nemiri": {
+        "recordará": 12
+      },
+      "vasiri": {
+        "compartirá": 8
+      },
+      "pakiri": {
+        "encontrará": 8
+      },
+      "yelori": {
+        "elegirá": 11
+      },
+      "vasita": {
+        "compartió": 15
+      },
+      "farori": {
+        "examinará": 10
+      },
+      "takuri": {
+        "describirá": 9
+      },
+      "nemi": {
+        "recuerda": 18
+      },
+      "koriri": {
+        "guardará": 13
+      },
+      "lomuri": {
+        "buscará": 6
+      },
+      "pakita": {
+        "encontró": 6
+      },
+      "demata": {
+        "llevó": 6
+      },
+      "korita": {
+        "guardó": 4
+      }
+    }
+  },
+  "morphology": {
+    "dema": [
+      "dema",
+      "presente"
+    ],
+    "demari": [
+      "dema",
+      "futuro"
+    ],
+    "demata": [
+      "dema",
+      "pasado"
+    ],
+    "faro": [
+      "faro",
+      "presente"
+    ],
+    "farori": [
+      "faro",
+      "futuro"
+    ],
+    "farota": [
+      "faro",
+      "pasado"
+    ],
+    "kori": [
+      "kori",
+      "presente"
+    ],
+    "koriri": [
+      "kori",
+      "futuro"
+    ],
+    "korita": [
+      "kori",
+      "pasado"
+    ],
+    "lomu": [
+      "lomu",
+      "presente"
+    ],
+    "lomuri": [
+      "lomu",
+      "futuro"
+    ],
+    "lomuta": [
+      "lomu",
+      "pasado"
+    ],
+    "nemi": [
+      "nemi",
+      "presente"
+    ],
+    "nemiri": [
+      "nemi",
+      "futuro"
+    ],
+    "nemita": [
+      "nemi",
+      "pasado"
+    ],
+    "paki": [
+      "paki",
+      "presente"
+    ],
+    "pakiri": [
+      "paki",
+      "futuro"
+    ],
+    "pakita": [
+      "paki",
+      "pasado"
+    ],
+    "sema": [
+      "sema",
+      "presente"
+    ],
+    "semari": [
+      "sema",
+      "futuro"
+    ],
+    "semata": [
+      "sema",
+      "pasado"
+    ],
+    "taku": [
+      "taku",
+      "presente"
+    ],
+    "takuri": [
+      "taku",
+      "futuro"
+    ],
+    "takuta": [
+      "taku",
+      "pasado"
+    ],
+    "vasi": [
+      "vasi",
+      "presente"
+    ],
+    "vasiri": [
+      "vasi",
+      "futuro"
+    ],
+    "vasita": [
+      "vasi",
+      "pasado"
+    ],
+    "yelo": [
+      "yelo",
+      "presente"
+    ],
+    "yelori": [
+      "yelo",
+      "futuro"
+    ],
+    "yelota": [
+      "yelo",
+      "pasado"
+    ]
+  },
+  "evidence": {
+    "rejected_train_ids": [],
+    "negation_disagreement_ids": []
+  }
+}

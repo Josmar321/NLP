@@ -1,0 +1,299 @@
+id,naviri,nll,predicted_tokens,lexical_tokens,oov_tokens
+NX-1027,naku dali nu nemita.,11.596406388813952,5,4,0
+NX-0586,naku zura rilo nu nemi.,12.045343802893456,6,5,0
+NX-1207,yami dali rilo kori.,10.742226238986031,5,4,0
+NX-1845,telu zura faro.,9.180461906456182,4,3,0
+NX-1885,vonu beko sova paki.,9.803385339473587,5,4,0
+NX-1556,kemi feni taku.,9.278613120774343,4,3,0
+NX-0114,lina kava miri vasiri.,11.906968867825888,5,4,0
+NX-0171,sari moru rilo vasita.,11.036131686096619,5,4,0
+NX-1007,naku moru rilo paki.,11.221342470200286,5,4,0
+NX-2741,kemi dali pavo nu faro.,12.397321673388541,6,5,0
+NX-0342,raku tora sova nemi.,10.176315187660888,5,4,0
+NX-2182,vonu feni nu vasi.,10.488268874416855,5,4,0
+NX-1722,mika feni hala nemi.,10.02621861492049,5,4,0
+NX-1779,mika suni hala pakiri.,11.472508094787267,5,4,0
+NX-1393,mika suni nu paki.,11.043153883445102,5,4,0
+NX-1368,kemi kava faro.,14.478074637370172,4,3,0
+NX-0752,telu tavi sova faro.,9.622329420284732,5,4,0
+NX-0866,naku rima hala pakiri.,11.300248405496875,5,4,0
+NX-2581,sari tavi kuna farota.,11.29197372563401,5,4,0
+NX-0016,lina suni sova lomuta.,10.752457295174313,5,4,0
+NX-2448,mika feni hala pakita.,11.286912731657594,5,4,0
+NX-2878,lina tora miri yelori.,11.249230614976616,5,4,0
+NX-0215,lina dali taku.,8.597013792196663,4,3,0
+NX-0240,sari rima semata.,10.31674340469454,4,3,0
+NX-2064,lina tora sema.,10.225350967056333,4,3,0
+NX-1370,naku pira hala vasi.,9.775381087803556,5,4,0
+NX-1664,sari rima yelori.,9.627645988924955,4,3,0
+NX-1958,sari suni nu korita.,12.134286036242296,5,4,0
+NX-1446,naku dali miri pakita.,11.78208491360539,5,4,0
+NX-1431,raku beko sova nu nemi.,11.539493155986438,6,5,0
+NX-2563,lina beko nu yelo.,10.635777447698107,5,4,0
+NX-0949,raku nelo hala taku.,9.80372663811706,5,4,0
+NX-2430,penu feni sova semari.,12.521965434697702,5,4,0
+NX-0261,raku zura miri nemita.,11.320227796246211,5,4,0
+NX-0426,mika moru lomu.,8.893811772303385,4,3,0
+NX-2392,kemi tora vasiri.,9.26004250741534,4,3,0
+NX-2094,yami kava paki.,8.772335003202217,4,3,0
+NX-0220,naku suni rilo takuri.,11.853054949599983,5,4,0
+NX-2164,lina dali yelo.,14.59134690557582,4,3,0
+NX-0948,raku zura vasi.,8.917380609992637,4,3,0
+NX-2821,naku tavi rilo pakiri.,10.843041034268007,5,4,0
+NX-2842,penu nelo demata.,9.47846805000821,4,3,0
+NX-1125,vonu tavi faro.,9.28194000736507,4,3,0
+NX-1263,naku kava rilo dema.,9.698487198360125,5,4,0
+NX-0965,kemi zura hala demari.,10.497546986586126,5,4,0
+NX-1850,mika pira miri kori.,9.417155953330056,5,4,0
+NX-1035,yami kava semata.,9.87574751134847,4,3,0
+NX-2798,yami dali rilo lomu.,10.58768807938105,5,4,0
+NX-2924,sari beko semari.,10.208254282440492,4,3,0
+NX-1666,naku pira pakita.,9.333755208729436,4,3,0
+NX-2816,sari nelo rilo semari.,12.565952916279006,5,4,0
+NX-2100,sari feni demari.,9.283852454674062,4,3,0
+NX-2806,raku dali dema.,10.02434263324608,4,3,0
+NX-0346,lina tavi vasiri.,10.343827364123786,4,3,0
+NX-0742,raku moru faro.,9.451745950416635,4,3,0
+NX-2843,penu tora rilo pakita.,10.296904656472792,5,4,0
+NX-1516,kemi tavi hala yelo.,10.117716239639027,5,4,0
+NX-1710,lina suni taku.,10.187051811111111,4,3,0
+NX-2129,raku tavi sova paki.,9.496025113818645,5,4,0
+NX-1824,naku nelo hala lomuri.,11.129405785413159,5,4,0
+NX-0505,yami dali pavo nemi.,10.009747771338601,5,4,0
+NX-0172,penu tora yelo.,8.888090860423942,4,3,0
+NX-1669,vonu suni hala takuta.,11.644050979987872,5,4,0
+NX-2296,telu moru miri nemi.,9.645605571547513,5,4,0
+NX-0684,sari pira hala semari.,10.767912527483613,5,4,0
+NX-2844,mika pira hala dema.,9.526631218754023,5,4,0
+NX-0391,kemi kava rilo nemi.,9.475991910515038,5,4,0
+NX-0201,kemi moru rilo takuri.,11.85313354316806,5,4,0
+NX-1244,mika zura yelori.,14.98723890929516,4,3,0
+NX-1776,kemi beko sova yelo.,9.501748043275601,5,4,0
+NX-0412,vonu dali kuna lomu.,9.79925378370139,5,4,0
+NX-2241,naku tavi sova nu lomu.,10.872896690014084,6,5,0
+NX-1322,vonu dali pavo dema.,9.683667301544489,5,4,0
+NX-1808,mika suni rilo taku.,9.771964501618227,5,4,0
+NX-0649,penu tavi pavo nu dema.,11.307402570987152,6,5,0
+NX-0168,lina moru miri nu pakita.,13.136532791258617,6,5,0
+NX-0478,kemi suni rilo nu vasi.,11.461583413940994,6,5,0
+NX-1054,telu rima takuri.,14.811771603154764,4,3,0
+NX-2573,vonu beko hala dema.,10.250749405981068,5,4,0
+NX-2964,raku suni miri nu yelota.,12.752191682550558,6,5,0
+NX-1711,yami nelo rilo nemi.,10.19469345190344,5,4,0
+NX-2608,yami tavi sova dema.,9.810124128403535,5,4,0
+NX-0655,lina pira hala vasita.,10.766352721531932,5,4,0
+NX-2836,telu moru vasi.,8.847773381637513,4,3,0
+NX-0716,raku dali sova sema.,9.966015418556792,5,4,0
+NX-1935,telu feni kuna kori.,10.447776460364407,5,4,0
+NX-2332,kemi beko lomuta.,10.014395965916338,4,3,0
+NX-2138,vonu tavi sova yelo.,9.49668222454838,5,4,0
+NX-1426,lina pira kuna nemi.,10.33501038572659,5,4,0
+NX-0394,naku pira miri taku.,9.814361691912344,5,4,0
+NX-2705,kemi kava hala korita.,11.30288234009066,5,4,0
+NX-2456,mika tavi vasi.,8.954122242507918,4,3,0
+NX-0974,sari beko hala nu lomuta.,13.032564821255995,6,5,0
+NX-1918,sari beko dema.,9.107040721552883,4,3,0
+NX-0834,vonu suni pavo nu dema.,11.66496543427245,6,5,0
+NX-2764,mika tora faro.,9.248726475753271,4,3,0
+NX-0119,sari dali vasi.,9.885052457453138,4,3,0
+NX-2548,sari pira pavo lomu.,9.86608691028381,5,4,0
+NX-2845,kemi zura faro.,9.320375775111062,4,3,0
+NX-2181,mika moru nu taku.,10.214776044988081,5,4,0
+NX-2919,yami nelo demari.,9.71128589104724,4,3,0
+NX-1540,raku zura miri kori.,10.398836107859328,5,4,0
+NX-0817,telu beko pavo dema.,9.082072252414347,5,4,0
+NX-2318,naku moru pavo lomuri.,12.580117457012568,5,4,0
+NX-2411,lina rima hala nu faro.,11.356684900141616,6,5,0
+NX-2972,sari tavi miri nu dema.,11.265052138455236,6,5,0
+NX-0303,penu rima kuna taku.,10.094541912615188,5,4,0
+NX-0772,lina tavi hala nemiri.,12.27283416097531,5,4,0
+NX-1542,raku dali pavo sema.,10.127308239545643,5,4,0
+NX-1910,sari suni kuna faro.,9.248223816036463,5,4,0
+NX-1004,telu feni nu dema.,10.349756687886016,5,4,0
+NX-1219,raku tavi pavo pakiri.,11.039301343283604,5,4,0
+NX-0418,naku tavi faro.,9.326304720149407,4,3,0
+NX-1852,sari dali kuna nu faro.,10.919911881120527,6,5,0
+NX-1333,raku zura nu korita.,11.454106742585894,5,4,0
+NX-2792,mika nelo sova taku.,10.01250155493664,5,4,0
+NX-0916,lina suni miri nu vasi.,11.69135175796142,6,5,0
+NX-1247,sari nelo rilo lomu.,9.926752829428708,5,4,0
+NX-1277,lina beko nu pakiri.,11.955961199193744,5,4,0
+NX-1739,yami kava pavo yelo.,10.684040247727134,5,4,0
+NX-0709,telu zura nemita.,14.490373041151843,4,3,0
+NX-0601,mika tavi sova nemi.,10.369486298030498,5,4,0
+NX-0003,penu beko rilo pakiri.,10.889421841823353,5,4,0
+NX-0212,kemi beko sova taku.,9.43687947583976,5,4,0
+NX-2103,naku tavi kuna nemiri.,10.922466881395504,5,4,0
+NX-1598,sari moru sova vasi.,10.237158191675913,5,4,0
+NX-0489,naku beko miri vasi.,9.765103260274259,5,4,0
+NX-2284,mika zura nemita.,14.98645333915623,4,3,0
+NX-1382,yami feni nemi.,10.119727431872683,4,3,0
+NX-0302,vonu feni hala vasi.,10.402437253116384,5,4,0
+NX-1570,sari dali rilo yelori.,11.014214229556462,5,4,0
+NX-2950,penu zura sova koriri.,11.894127443168824,5,4,0
+NX-0973,penu tora hala faro.,9.350032071233915,5,4,0
+NX-2022,kemi rima yelo.,9.424639432546414,4,3,0
+NX-2953,mika nelo miri sema.,9.802572418343567,5,4,0
+NX-1331,telu pira paki.,10.11172243614329,4,3,0
+NX-1459,yami rima kuna lomu.,10.174567152152159,5,4,0
+NX-0635,raku zura miri nu faro.,12.060766551694808,6,5,0
+NX-0205,penu dali hala nemiri.,11.792372474538112,5,4,0
+NX-1601,sari zura sova kori.,11.094268609683658,5,4,0
+NX-0860,kemi moru nu sema.,10.295981094249813,5,4,0
+NX-0712,yami beko dema.,8.96050898251485,4,3,0
+NX-2628,penu beko hala nemi.,10.039732410750299,5,4,0
+NX-2763,raku kava nu paki.,10.22513282276879,5,4,0
+NX-2408,kemi beko hala nu sema.,11.195018793961475,6,5,0
+NX-1880,kemi feni pavo nemi.,10.01943643912707,5,4,0
+NX-0925,vonu nelo miri farori.,10.531893515816838,5,4,0
+NX-0438,lina beko hala semari.,10.995121996407697,5,4,0
+NX-1618,lina tavi sova nu takuri.,12.433273366395468,6,5,0
+NX-1430,sari moru nu takuta.,12.377311892649143,5,4,0
+NX-2984,yami dali sova faro.,9.87862885861204,5,4,0
+NX-1797,raku pira pavo yelota.,11.128259069441818,5,4,0
+NX-1552,sari rima hala lomuta.,10.723547833315806,5,4,0
+NX-0967,lina moru lomu.,8.894037055010712,4,3,0
+NX-2528,lina feni kuna yelo.,10.136422981994272,5,4,0
+NX-1641,sari suni faro.,9.441487066773119,4,3,0
+NX-2023,vonu dali sova nu takuta.,12.802097424661435,6,5,0
+NX-2032,raku tavi kori.,8.878439184807709,4,3,0
+NX-1181,yami tora pavo vasiri.,16.966252775453324,5,4,0
+NX-2042,raku zura hala pakita.,11.597702654713775,5,4,0
+NX-1725,mika rima vasi.,8.53534756848751,4,3,0
+NX-1760,lina pira nu yelota.,12.632590995136935,5,4,0
+NX-2890,mika dali yelo.,14.544623242187035,4,3,0
+NX-2436,telu tavi paki.,9.069098616603421,4,3,0
+NX-1532,mika tavi yelota.,14.956005746820159,4,3,0
+NX-2906,naku rima rilo demata.,10.717667914568372,5,4,0
+NX-2036,penu beko yelota.,10.106900828593817,4,3,0
+NX-1642,kemi nelo nu demata.,11.42225222028033,5,4,0
+NX-0315,lina dali pavo nemi.,9.673454639368348,5,4,0
+NX-1188,sari beko faro.,9.510690833868125,4,3,0
+NX-0914,mika kava hala vasita.,10.793109133475252,5,4,0
+NX-1094,vonu tavi miri taku.,9.810590615158258,5,4,0
+NX-1236,telu rima pavo yelota.,10.928451946472014,5,4,0
+NX-1902,telu pira sova lomu.,9.978262002773619,5,4,0
+NX-1949,sari pira vasiri.,10.233884819115607,4,3,0
+NX-0033,vonu feni kuna nemi.,10.1606516203804,5,4,0
+NX-2753,yami zura sova dema.,10.247570806908458,5,4,0
+NX-1909,kemi moru miri paki.,9.482970243660406,5,4,0
+NX-2531,lina pira miri dema.,10.312885957570861,5,4,0
+NX-1944,naku nelo rilo koriri.,17.18074300169809,5,4,0
+NX-1953,vonu nelo nu dema.,9.873472111039758,5,4,0
+NX-2145,mika tora rilo faro.,9.88780753573676,5,4,0
+NX-2431,yami zura hala korita.,11.546195945236208,5,4,0
+NX-1881,mika tavi sema.,9.645067583766421,4,3,0
+NX-0092,penu tavi sova sema.,9.683808080240395,5,4,0
+NX-0095,raku beko vasi.,9.682646127969821,4,3,0
+NX-0581,yami beko miri sema.,9.932420740428142,5,4,0
+NX-0901,naku nelo kuna semata.,10.963348621787452,5,4,0
+NX-2495,lina zura sova nu paki.,11.884661787677272,6,5,0
+NX-0619,penu dali paki.,8.709269604575983,4,3,0
+NX-2128,vonu feni pavo lomu.,9.770729365268794,5,4,0
+NX-1074,vonu beko faro.,9.621877405464577,4,3,0
+NX-2198,yami feni rilo nu vasita.,13.238289318535648,6,5,0
+NX-1507,lina beko nu nemi.,10.802728121008563,5,4,0
+NX-0879,raku tavi pavo faro.,9.584613255941353,5,4,0
+NX-0387,kemi rima rilo paki.,11.502032155509829,5,4,0
+NX-0994,telu kava sova sema.,10.238011951596068,5,4,0
+NX-2962,mika pira rilo yelo.,9.420805690498865,5,4,0
+NX-2424,kemi nelo lomu.,9.064305028685764,4,3,0
+NX-2404,vonu tora miri takuri.,11.276469462421908,5,4,0
+NX-0396,telu pira kuna sema.,10.000789116840169,5,4,0
+NX-0612,vonu tavi pavo nu yelo.,11.606534385815783,6,5,0
+NX-2914,sari kava miri pakita.,11.715953701999918,5,4,0
+NX-0002,sari feni hala takuri.,12.064503584192733,5,4,0
+NX-1171,naku rima nemi.,8.302255680238076,4,3,0
+NX-1546,mika kava miri nu sema.,11.634668711508514,6,5,0
+NX-0936,yami tora kuna taku.,9.888978413450898,5,4,0
+NX-2854,vonu beko sova nu taku.,11.104217543898553,6,5,0
+NX-1306,naku dali rilo nemi.,10.588247643720017,5,4,0
+NX-2291,penu feni hala demari.,10.664990106887538,5,4,0
+NX-0886,lina feni lomuta.,9.383316416970178,4,3,0
+NX-0689,yami beko hala nu nemi.,11.582138298840208,6,5,0
+NX-0041,naku nelo kuna paki.,9.732860648806334,5,4,0
+NX-0883,yami kava yelo.,9.464274882502767,4,3,0
+NX-0072,raku dali sova nemita.,10.981962788276865,5,4,0
+NX-2850,naku tora miri kori.,9.979512390540288,5,4,0
+NX-1984,vonu kava hala nu kori.,11.64375231365136,6,5,0
+NX-2382,sari kava nu takuta.,11.821426121756287,5,4,0
+NX-0466,yami moru hala nu sema.,11.047576704896976,6,5,0
+NX-0001,penu beko hala sema.,10.37598670554506,5,4,0
+NX-1085,raku moru pavo kori.,9.619082729730797,5,4,0
+NX-0027,vonu feni nu faro.,10.525612218439205,5,4,0
+NX-1484,lina tavi dema.,10.332960935733496,4,3,0
+NX-2957,vonu nelo sova nu yelo.,11.76818370648447,6,5,0
+NX-2030,sari feni rilo paki.,11.046357308813898,5,4,0
+NX-2232,naku pira nu koriri.,12.199255121804738,5,4,0
+NX-1529,kemi zura rilo dema.,9.92806073030433,5,4,0
+NX-0362,sari dali farota.,9.894048770486076,4,3,0
+NX-1112,raku zura kuna yelori.,10.652849727576182,5,4,0
+NX-0008,vonu feni pavo paki.,9.882075455018526,5,4,0
+NX-0021,kemi kava hala kori.,9.83154760794403,5,4,0
+NX-2297,telu kava sova faro.,9.86293080898941,5,4,0
+NX-2147,yami rima miri sema.,10.188540812454354,5,4,0
+NX-1226,kemi kava takuri.,9.86903955542647,4,3,0
+NX-0037,telu suni sova takuta.,11.168673013944879,5,4,0
+NX-0843,vonu kava rilo sema.,10.083668781541416,5,4,0
+NX-0236,raku dali kuna nemita.,10.271253251499688,5,4,0
+NX-0553,lina rima miri taku.,10.188123846461812,5,4,0
+NX-2858,mika suni yelori.,8.990798964080323,4,3,0
+NX-1550,sari nelo kuna faro.,9.430595285730348,5,4,0
+NX-0235,lina tora rilo farori.,11.099462521651091,5,4,0
+NX-1500,telu pira sova dema.,10.111859413807885,5,4,0
+NX-1126,naku pira sova lomuri.,11.278698603099405,5,4,0
+NX-0590,sari rima rilo paki.,11.294479107594436,5,4,0
+NX-0547,sari tavi miri semari.,10.702959623001844,5,4,0
+NX-0371,yami rima sema.,10.08609152811286,4,3,0
+NX-1577,sari nelo pavo pakita.,11.063833648705554,5,4,0
+NX-1798,yami beko kuna lomu.,9.896488931560423,5,4,0
+NX-0499,penu suni kori.,9.03794228596844,4,3,0
+NX-1621,raku moru sova nemi.,10.48686999492724,5,4,0
+NX-1145,kemi moru rilo vasiri.,10.252619909779206,5,4,0
+NX-1531,sari rima rilo nu koriri.,12.823442502858601,6,5,0
+NX-0198,naku tora rilo dema.,9.763194921500569,5,4,0
+NX-0050,naku tavi sova faro.,9.47591250679808,5,4,0
+NX-0403,kemi rima vasiri.,9.838828912829678,4,3,0
+NX-1579,raku kava sova sema.,10.142727424713772,5,4,0
+NX-0458,telu pira miri demata.,11.308475256476514,5,4,0
+NX-0891,mika tavi nu yelori.,11.644208942402756,5,4,0
+NX-1387,raku nelo sova koriri.,11.612649036765749,5,4,0
+NX-2903,vonu tavi kuna semari.,10.542486339862936,5,4,0
+NX-0307,yami nelo sova nu sema.,11.879881751440301,6,5,0
+NX-0830,kemi nelo takuta.,14.782076630961306,4,3,0
+NX-2352,mika tavi miri lomuta.,12.654996742313065,5,4,0
+NX-1746,sari tavi sova vasita.,11.301592682466222,5,4,0
+NX-1089,kemi pira nu paki.,11.640749875348318,5,4,0
+NX-1301,telu tora pavo sema.,10.078316111772704,5,4,0
+NX-1667,raku moru pavo yelo.,9.826709078038432,5,4,0
+NX-2591,naku beko pakita.,14.51075338101261,4,3,0
+NX-2413,raku tora farori.,14.694653845096063,4,3,0
+NX-2585,yami moru rilo nemi.,9.837012409824585,5,4,0
+NX-2082,lina tavi hala lomuta.,10.887611696759121,5,4,0
+NX-2732,yami pira rilo vasi.,9.485284312478388,5,4,0
+NX-1299,naku feni kuna takuta.,11.056392909947126,5,4,0
+NX-2915,vonu kava kuna koriri.,11.009870357492439,5,4,0
+NX-1851,penu moru demata.,14.478102165205875,4,3,0
+NX-2891,vonu zura pavo yelo.,9.841103857596481,5,4,0
+NX-0248,lina feni rilo lomu.,10.117861619502447,5,4,0
+NX-0976,kemi tora pavo nu nemi.,11.784997894920567,6,5,0
+NX-1118,sari rima rilo demari.,11.301281576185161,5,4,0
+NX-1790,sari suni rilo nu kori.,11.479332867381137,6,5,0
+NX-1833,penu beko pavo nemi.,9.496486787862821,5,4,0
+NX-1284,vonu feni sova vasita.,11.539859574656408,5,4,0
+NX-1805,vonu zura taku.,9.225341899339831,4,3,0
+NX-2255,vonu kava nu lomuta.,12.222441435187648,5,4,0
+NX-0628,sari tavi nemi.,9.06967961527797,4,3,0
+NX-1468,lina nelo kuna korita.,11.185784639431391,5,4,0
+NX-2177,raku moru semata.,14.763355679802995,4,3,0
+NX-1321,vonu dali demata.,10.197481369801581,4,3,0
+NX-1482,naku beko rilo yelo.,9.505322677468431,5,4,0
+NX-2618,lina moru nemiri.,9.995119903071384,4,3,0
+NX-1367,kemi tavi nu pakita.,11.893516001140226,5,4,0
+NX-2102,penu zura vasi.,8.681065319386466,4,3,0
+NX-2444,lina rima nu pakiri.,12.042974815002381,5,4,0
+NX-1993,kemi pira pavo farori.,11.294861345704627,5,4,0
+NX-0617,sari kava rilo farori.,10.937820458380408,5,4,0
+NX-2802,mika tavi rilo sema.,10.123790530379921,5,4,0
+NX-0722,raku feni kuna korita.,11.15369327901704,5,4,0
+NX-2256,penu moru pavo nemi.,9.213856669966747,5,4,0

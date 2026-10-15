@@ -1,0 +1,41 @@
+id,naviri,prediccion,subject,object,location,negative,root,tense,signature
+NX-0001,telu suni kuna semari.,el maestro observará el libro en el mercado.,telu,suni,kuna,False,sema,futuro,S O L V
+NX-0002,kemi suni vasiri.,la investigadora compartirá el libro.,kemi,suni,∅,False,vasi,futuro,S O V
+NX-0003,lina kava sova semari.,la artista observará la carta en la escuela.,lina,kava,sova,False,sema,futuro,S O L V
+NX-0004,naku suni vasi.,el niño comparte el libro.,naku,suni,∅,False,vasi,presente,S O V
+NX-0005,penu kava sema.,el guardián observa la carta.,penu,kava,∅,False,sema,presente,S O V
+NX-0006,raku tavi miri vasi.,el pescador comparte el alimento en el bosque.,raku,tavi,miri,False,vasi,presente,S O L V
+NX-0007,raku pira rilo yelo.,el pescador elige el agua en el río.,raku,pira,rilo,False,yelo,presente,S O L V
+NX-0008,penu zura pavo kori.,el guardián guarda la llave en el laboratorio.,penu,zura,pavo,False,kori,presente,S O L V
+NX-0009,mika zura pavo nemi.,la niña recuerda la llave en el laboratorio.,mika,zura,pavo,False,nemi,presente,S O L V
+NX-0010,raku feni rilo nu yelo.,el pescador no elige la piedra en el río.,raku,feni,rilo,True,yelo,presente,S O L NEG V
+NX-0011,sari tora sema.,la médica observa la leche.,sari,tora,∅,False,sema,presente,S O V
+NX-0012,lina dali hala takuri.,la artista describirá la fruta en la casa.,lina,dali,hala,False,taku,futuro,S O L V
+NX-0013,naku tora pavo lomuta.,el niño buscó la leche en el laboratorio.,naku,tora,pavo,False,lomu,pasado,S O L V
+NX-0014,vonu tora sova paki.,el viajero encuentra la leche en la escuela.,vonu,tora,sova,False,paki,presente,S O L V
+NX-0015,telu tavi sova taku.,el maestro describe el alimento en la escuela.,telu,tavi,sova,False,taku,presente,S O L V
+NX-0016,mika rima kuna dema.,la niña lleva la flor en el mercado.,mika,rima,kuna,False,dema,presente,S O L V
+NX-0017,kemi rima nemiri.,la investigadora recordará la flor.,kemi,rima,∅,False,nemi,futuro,S O V
+NX-0018,vonu dali hala nu yelo.,el viajero no elige la fruta en la casa.,vonu,dali,hala,True,yelo,presente,S O L NEG V
+NX-0019,vonu beko kuna nemi.,el viajero recuerda el dibujo en el mercado.,vonu,beko,kuna,False,nemi,presente,S O L V
+NX-0020,yami moru nemi.,la estudiante recuerda el mapa.,yami,moru,∅,False,nemi,presente,S O V
+NX-0021,naku nelo pavo nu taku.,el niño no describe el mensaje en el laboratorio.,naku,nelo,pavo,True,taku,presente,S O L NEG V
+NX-0022,lina moru taku.,la artista describe el mapa.,lina,moru,∅,False,taku,presente,S O V
+NX-0023,yami rima sova sema.,la estudiante observa la flor en la escuela.,yami,rima,sova,False,sema,presente,S O L V
+NX-0024,lina kava pavo vasi.,la artista comparte la carta en el laboratorio.,lina,kava,pavo,False,vasi,presente,S O L V
+NX-0025,raku tora kuna vasita.,el pescador compartió la leche en el mercado.,raku,tora,kuna,False,vasi,pasado,S O L V
+NX-0026,naku kava pavo pakita.,el niño encontró la carta en el laboratorio.,naku,kava,pavo,False,paki,pasado,S O L V
+NX-0027,naku suni pavo vasi.,el niño comparte el libro en el laboratorio.,naku,suni,pavo,False,vasi,presente,S O L V
+NX-0028,yami feni miri nu lomu.,la estudiante no busca la piedra en el bosque.,yami,feni,miri,True,lomu,presente,S O L NEG V
+NX-0029,lina zura kori.,la artista guarda la llave.,lina,zura,∅,False,kori,presente,S O V
+NX-0030,kemi tavi nemiri.,la investigadora recordará el alimento.,kemi,tavi,∅,False,nemi,futuro,S O V
+NX-0031,vonu feni nemi.,el viajero recuerda la piedra.,vonu,feni,∅,False,nemi,presente,S O V
+NX-0032,lina rima hala yelo.,la artista elige la flor en la casa.,lina,rima,hala,False,yelo,presente,S O L V
+NX-0033,raku zura sova yelo.,el pescador elige la llave en la escuela.,raku,zura,sova,False,yelo,presente,S O L V
+NX-0034,mika nelo miri nu taku.,la niña no describe el mensaje en el bosque.,mika,nelo,miri,True,taku,presente,S O L NEG V
+NX-0035,raku zura miri nu lomu.,el pescador no busca la llave en el bosque.,raku,zura,miri,True,lomu,presente,S O L NEG V
+NX-0036,yami zura miri nu takuri.,la estudiante no describirá la llave en el bosque.,yami,zura,miri,True,taku,futuro,S O L NEG V
+NX-0037,sari nelo kuna vasi.,la médica comparte el mensaje en el mercado.,sari,nelo,kuna,False,vasi,presente,S O L V
+NX-0038,lina beko rilo nu nemi.,la artista no recuerda el dibujo en el río.,lina,beko,rilo,True,nemi,presente,S O L NEG V
+NX-0039,naku nelo yelota.,el niño eligió el mensaje.,naku,nelo,∅,False,yelo,pasado,S O V
+NX-0040,telu tavi pavo nemi.,el maestro recuerda el alimento en el laboratorio.,telu,tavi,pavo,False,nemi,presente,S O L V

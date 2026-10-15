@@ -1,0 +1,41 @@
+id,naviri,prediccion,subject,object,location,negative,root,tense,signature
+F5-0001,mika pira kuna nu nemi.,la niña no recuerda el agua en el mercado.,mika,pira,kuna,True,nemi,presente,S O L NEG V
+F5-0002,kemi dali hala nemita.,la investigadora recordó la fruta en la casa.,kemi,dali,hala,False,nemi,pasado,S O L V
+F5-0003,telu feni nu vasiri.,el maestro no compartirá la piedra.,telu,feni,∅,True,vasi,futuro,S O NEG V
+F5-0004,telu moru taku.,el maestro describe el mapa.,telu,moru,∅,False,taku,presente,S O V
+F5-0005,yami suni pavo lomuta.,la estudiante buscó el libro en el laboratorio.,yami,suni,pavo,False,lomu,pasado,S O L V
+F5-0006,penu rima rilo nu semari.,el guardián no observará la flor en el río.,penu,rima,rilo,True,sema,futuro,S O L NEG V
+F5-0007,penu tavi sema.,el guardián observa el alimento.,penu,tavi,∅,False,sema,presente,S O V
+F5-0008,penu moru nu nemita.,el guardián no recordó el mapa.,penu,moru,∅,True,nemi,pasado,S O NEG V
+F5-0009,telu kava sova pakiri.,el maestro encontrará la carta en la escuela.,telu,kava,sova,False,paki,futuro,S O L V
+F5-0010,kemi pira sova vasi.,la investigadora comparte el agua en la escuela.,kemi,pira,sova,False,vasi,presente,S O L V
+F5-0011,raku tora nu pakita.,el pescador no encontró la leche.,raku,tora,∅,True,paki,pasado,S O NEG V
+F5-0012,vonu kava semari.,el viajero observará la carta.,vonu,kava,∅,False,sema,futuro,S O V
+F5-0013,penu tora pavo nu taku.,el guardián no describe la leche en el laboratorio.,penu,tora,pavo,True,taku,presente,S O L NEG V
+F5-0014,sari moru sova farota.,la médica examinó el mapa en la escuela.,sari,moru,sova,False,faro,pasado,S O L V
+F5-0015,lina tavi yelori.,la artista elegirá el alimento.,lina,tavi,∅,False,yelo,futuro,S O V
+F5-0016,mika rima nu lomu.,la niña no busca la flor.,mika,rima,∅,True,lomu,presente,S O NEG V
+F5-0017,yami pira kuna pakita.,la estudiante encontró el agua en el mercado.,yami,pira,kuna,False,paki,pasado,S O L V
+F5-0018,telu beko miri nu farori.,el maestro no examinará el dibujo en el bosque.,telu,beko,miri,True,faro,futuro,S O L NEG V
+F5-0019,telu suni vasi.,el maestro comparte el libro.,telu,suni,∅,False,vasi,presente,S O V
+F5-0020,sari kava farota.,la médica examinó la carta.,sari,kava,∅,False,faro,pasado,S O V
+F5-0021,vonu nelo pavo nu takuri.,el viajero no describirá el mensaje en el laboratorio.,vonu,nelo,pavo,True,taku,futuro,S O L NEG V
+F5-0022,kemi nelo hala taku.,la investigadora describe el mensaje en la casa.,kemi,nelo,hala,False,taku,presente,S O L V
+F5-0023,lina rima nu vasita.,la artista no compartió la flor.,lina,rima,∅,True,vasi,pasado,S O NEG V
+F5-0024,kemi rima semari.,la investigadora observará la flor.,kemi,rima,∅,False,sema,futuro,S O V
+F5-0025,naku nelo sova faro.,el niño examina el mensaje en la escuela.,naku,nelo,sova,False,faro,presente,S O L V
+F5-0026,penu kava rilo nu takuta.,el guardián no describió la carta en el río.,penu,kava,rilo,True,taku,pasado,S O L NEG V
+F5-0027,yami rima farori.,la estudiante examinará la flor.,yami,rima,∅,False,faro,futuro,S O V
+F5-0028,sari zura nu lomu.,la médica no busca la llave.,sari,zura,∅,True,lomu,presente,S O NEG V
+F5-0029,naku nelo kuna nemita.,el niño recordó el mensaje en el mercado.,naku,nelo,kuna,False,nemi,pasado,S O L V
+F5-0030,telu moru pavo demari.,el maestro llevará el mapa en el laboratorio.,telu,moru,pavo,False,dema,futuro,S O L V
+F5-0031,kemi feni nu sema.,la investigadora no observa la piedra.,kemi,feni,∅,True,sema,presente,S O NEG V
+F5-0032,naku kava takuta.,el niño describió la carta.,naku,kava,∅,False,taku,pasado,S O V
+F5-0033,penu pira miri nu semari.,el guardián no observará el agua en el bosque.,penu,pira,miri,True,sema,futuro,S O L NEG V
+F5-0034,sari dali kuna nemi.,la médica recuerda la fruta en el mercado.,sari,dali,kuna,False,nemi,presente,S O L V
+F5-0035,naku rima yelota.,el niño eligió la flor.,naku,rima,∅,False,yelo,pasado,S O V
+F5-0036,telu tora nu farori.,el maestro no examinará la leche.,telu,tora,∅,True,faro,futuro,S O NEG V
+F5-0037,raku kava kuna taku.,el pescador describe la carta en el mercado.,raku,kava,kuna,False,taku,presente,S O L V
+F5-0038,yami dali kuna nu pakita.,la estudiante no encontró la fruta en el mercado.,yami,dali,kuna,True,paki,pasado,S O L NEG V
+F5-0039,yami suni semari.,la estudiante observará el libro.,yami,suni,∅,False,sema,futuro,S O V
+F5-0040,naku pira dema.,el niño lleva el agua.,naku,pira,∅,False,dema,presente,S O V

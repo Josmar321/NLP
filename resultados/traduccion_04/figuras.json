@@ -1,0 +1,8 @@
+{
+  "matplotlib": "3.11.2",
+  "figures": [
+    "01_comparacion_metricas",
+    "02_fenomenos_composicion",
+    "03_errores_baseline"
+  ]
+}

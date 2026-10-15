@@ -1,0 +1,1420 @@
+{
+  "seed": 20261014,
+  "python": "3.14.3",
+  "fit_split": "train",
+  "audit": {
+    "python": "3.14.3",
+    "policy": "NFC, minúsculas, espacios; tokens superficiales; sin stopwords ni stemming",
+    "vocabulary_fit_split": "train",
+    "splits": {
+      "train": {
+        "rows": 420,
+        "unique_sources_normalized": 420,
+        "vocabulary_size": 59,
+        "oov_against_train": [],
+        "lengths": {
+          "3": 95,
+          "4": 269,
+          "5": 56
+        },
+        "token_frequencies": {
+          "nu": 85,
+          "kuna": 58,
+          "pavo": 55,
+          "yami": 50,
+          "rilo": 49,
+          "raku": 48,
+          "hala": 45,
+          "miri": 45,
+          "vonu": 44,
+          "sova": 44,
+          "telu": 44,
+          "lina": 43,
+          "dali": 42,
+          "sari": 42,
+          "moru": 41,
+          "tora": 41,
+          "penu": 40,
+          "beko": 40,
+          "naku": 38,
+          "mika": 37,
+          "kava": 36,
+          "suni": 35,
+          "kemi": 34,
+          "kori": 34,
+          "tavi": 34,
+          "nelo": 33,
+          "pira": 32,
+          "faro": 32,
+          "dema": 30,
+          "zura": 30,
+          "rima": 29,
+          "feni": 27,
+          "lomu": 26,
+          "sema": 26,
+          "taku": 26,
+          "yelo": 25,
+          "paki": 24,
+          "vasi": 19,
+          "nemi": 18,
+          "vasita": 15,
+          "koriri": 13,
+          "nemiri": 12,
+          "yelori": 11,
+          "farori": 10,
+          "lomuta": 9,
+          "semata": 9,
+          "takuri": 9,
+          "yelota": 8,
+          "takuta": 8,
+          "vasiri": 8,
+          "pakiri": 8,
+          "lomuri": 6,
+          "pakita": 6,
+          "demata": 6,
+          "demari": 5,
+          "semari": 5,
+          "farota": 4,
+          "nemita": 4,
+          "korita": 4
+        }
+      },
+      "validation": {
+        "rows": 120,
+        "unique_sources_normalized": 120,
+        "vocabulary_size": 58,
+        "oov_against_train": [],
+        "lengths": {
+          "3": 30,
+          "4": 78,
+          "5": 12
+        },
+        "token_frequencies": {
+          "sova": 20,
+          "nu": 17,
+          "naku": 16,
+          "raku": 16,
+          "pavo": 16,
+          "telu": 15,
+          "feni": 15,
+          "rilo": 14,
+          "zura": 14,
+          "kuna": 13,
+          "vasi": 12,
+          "miri": 12,
+          "taku": 12,
+          "yami": 12,
+          "tora": 12,
+          "yelo": 12,
+          "nemi": 11,
+          "kava": 11,
+          "rima": 11,
+          "mika": 11,
+          "sari": 11,
+          "moru": 11,
+          "vonu": 10,
+          "lina": 10,
+          "kemi": 10,
+          "hala": 10,
+          "tavi": 9,
+          "nelo": 9,
+          "pira": 9,
+          "penu": 9,
+          "dema": 9,
+          "suni": 7,
+          "kori": 6,
+          "dali": 6,
+          "beko": 6,
+          "sema": 6,
+          "faro": 6,
+          "paki": 5,
+          "nemita": 5,
+          "vasiri": 4,
+          "pakiri": 4,
+          "koriri": 3,
+          "lomuri": 3,
+          "lomu": 3,
+          "korita": 2,
+          "yelori": 2,
+          "takuta": 2,
+          "lomuta": 2,
+          "demari": 2,
+          "yelota": 1,
+          "vasita": 1,
+          "takuri": 1,
+          "nemiri": 1,
+          "semata": 1,
+          "demata": 1,
+          "farori": 1,
+          "semari": 1,
+          "pakita": 1
+        }
+      },
+      "monolingual": {
+        "rows": 3000,
+        "unique_sources_normalized": 3000,
+        "vocabulary_size": 59,
+        "oov_against_train": [],
+        "lengths": {
+          "3": 736,
+          "4": 1865,
+          "5": 399
+        },
+        "token_frequencies": {
+          "nu": 574,
+          "rilo": 375,
+          "kuna": 354,
+          "sova": 353,
+          "hala": 341,
+          "pavo": 335,
+          "miri": 331,
+          "mika": 319,
+          "sari": 310,
+          "raku": 309,
+          "naku": 300,
+          "penu": 299,
+          "telu": 297,
+          "lina": 296,
+          "vonu": 295,
+          "yami": 291,
+          "kemi": 284,
+          "tavi": 268,
+          "beko": 267,
+          "tora": 260,
+          "feni": 253,
+          "rima": 251,
+          "nelo": 249,
+          "pira": 246,
+          "kava": 244,
+          "zura": 244,
+          "dali": 241,
+          "moru": 239,
+          "suni": 238,
+          "faro": 202,
+          "lomu": 200,
+          "dema": 191,
+          "nemi": 181,
+          "paki": 181,
+          "vasi": 181,
+          "taku": 180,
+          "sema": 174,
+          "yelo": 173,
+          "kori": 167,
+          "takuri": 73,
+          "lomuta": 72,
+          "nemita": 68,
+          "demari": 67,
+          "yelori": 67,
+          "vasita": 64,
+          "semari": 61,
+          "yelota": 61,
+          "korita": 60,
+          "pakita": 59,
+          "nemiri": 57,
+          "farori": 56,
+          "pakiri": 55,
+          "semata": 54,
+          "koriri": 54,
+          "demata": 53,
+          "takuta": 52,
+          "vasiri": 50,
+          "farota": 49,
+          "lomuri": 38
+        }
+      },
+      "public": {
+        "rows": 40,
+        "unique_sources_normalized": 40,
+        "vocabulary_size": 46,
+        "oov_against_train": [],
+        "lengths": {
+          "3": 11,
+          "4": 21,
+          "5": 8
+        },
+        "token_frequencies": {
+          "pavo": 8,
+          "nu": 8,
+          "lina": 7,
+          "naku": 6,
+          "raku": 6,
+          "zura": 6,
+          "nemi": 6,
+          "kuna": 5,
+          "sova": 5,
+          "vasi": 5,
+          "miri": 5,
+          "yelo": 5,
+          "suni": 4,
+          "kava": 4,
+          "tavi": 4,
+          "tora": 4,
+          "vonu": 4,
+          "taku": 4,
+          "rima": 4,
+          "yami": 4,
+          "nelo": 4,
+          "telu": 3,
+          "kemi": 3,
+          "sema": 3,
+          "rilo": 3,
+          "mika": 3,
+          "feni": 3,
+          "hala": 3,
+          "semari": 2,
+          "penu": 2,
+          "kori": 2,
+          "sari": 2,
+          "dali": 2,
+          "takuri": 2,
+          "nemiri": 2,
+          "beko": 2,
+          "moru": 2,
+          "lomu": 2,
+          "vasiri": 1,
+          "pira": 1,
+          "lomuta": 1,
+          "paki": 1,
+          "dema": 1,
+          "vasita": 1,
+          "pakita": 1,
+          "yelota": 1
+        }
+      }
+    },
+    "source_overlaps": {
+      "train__validation": 0,
+      "train__monolingual": 0,
+      "train__public": 0,
+      "validation__monolingual": 0,
+      "validation__public": 0,
+      "monolingual__public": 28
+    }
+  },
+  "training_evidence": {
+    "rejected_train_ids": [],
+    "negation_disagreement_ids": []
+  },
+  "lexicon": [
+    {
+      "category": "subject",
+      "source": "kemi",
+      "targets": {
+        "la investigadora": 34
+      },
+      "support": 34,
+      "conflict": false
+    },
+    {
+      "category": "subject",
+      "source": "lina",
+      "targets": {
+        "la artista": 43
+      },
+      "support": 43,
+      "conflict": false
+    },
+    {
+      "category": "subject",
+      "source": "mika",
+      "targets": {
+        "la niña": 37
+      },
+      "support": 37,
+      "conflict": false
+    },
+    {
+      "category": "subject",
+      "source": "naku",
+      "targets": {
+        "el niño": 38
+      },
+      "support": 38,
+      "conflict": false
+    },
+    {
+      "category": "subject",
+      "source": "penu",
+      "targets": {
+        "el guardián": 40
+      },
+      "support": 40,
+      "conflict": false
+    },
+    {
+      "category": "subject",
+      "source": "raku",
+      "targets": {
+        "el pescador": 48
+      },
+      "support": 48,
+      "conflict": false
+    },
+    {
+      "category": "subject",
+      "source": "sari",
+      "targets": {
+        "la médica": 42
+      },
+      "support": 42,
+      "conflict": false
+    },
+    {
+      "category": "subject",
+      "source": "telu",
+      "targets": {
+        "el maestro": 44
+      },
+      "support": 44,
+      "conflict": false
+    },
+    {
+      "category": "subject",
+      "source": "vonu",
+      "targets": {
+        "el viajero": 44
+      },
+      "support": 44,
+      "conflict": false
+    },
+    {
+      "category": "subject",
+      "source": "yami",
+      "targets": {
+        "la estudiante": 50
+      },
+      "support": 50,
+      "conflict": false
+    },
+    {
+      "category": "object",
+      "source": "beko",
+      "targets": {
+        "el dibujo": 40
+      },
+      "support": 40,
+      "conflict": false
+    },
+    {
+      "category": "object",
+      "source": "dali",
+      "targets": {
+        "la fruta": 42
+      },
+      "support": 42,
+      "conflict": false
+    },
+    {
+      "category": "object",
+      "source": "feni",
+      "targets": {
+        "la piedra": 27
+      },
+      "support": 27,
+      "conflict": false
+    },
+    {
+      "category": "object",
+      "source": "kava",
+      "targets": {
+        "la carta": 36
+      },
+      "support": 36,
+      "conflict": false
+    },
+    {
+      "category": "object",
+      "source": "moru",
+      "targets": {
+        "el mapa": 41
+      },
+      "support": 41,
+      "conflict": false
+    },
+    {
+      "category": "object",
+      "source": "nelo",
+      "targets": {
+        "el mensaje": 33
+      },
+      "support": 33,
+      "conflict": false
+    },
+    {
+      "category": "object",
+      "source": "pira",
+      "targets": {
+        "el agua": 32
+      },
+      "support": 32,
+      "conflict": false
+    },
+    {
+      "category": "object",
+      "source": "rima",
+      "targets": {
+        "la flor": 29
+      },
+      "support": 29,
+      "conflict": false
+    },
+    {
+      "category": "object",
+      "source": "suni",
+      "targets": {
+        "el libro": 35
+      },
+      "support": 35,
+      "conflict": false
+    },
+    {
+      "category": "object",
+      "source": "tavi",
+      "targets": {
+        "el alimento": 34
+      },
+      "support": 34,
+      "conflict": false
+    },
+    {
+      "category": "object",
+      "source": "tora",
+      "targets": {
+        "la leche": 41
+      },
+      "support": 41,
+      "conflict": false
+    },
+    {
+      "category": "object",
+      "source": "zura",
+      "targets": {
+        "la llave": 30
+      },
+      "support": 30,
+      "conflict": false
+    },
+    {
+      "category": "location",
+      "source": "hala",
+      "targets": {
+        "la casa": 45
+      },
+      "support": 45,
+      "conflict": false
+    },
+    {
+      "category": "location",
+      "source": "kuna",
+      "targets": {
+        "el mercado": 58
+      },
+      "support": 58,
+      "conflict": false
+    },
+    {
+      "category": "location",
+      "source": "miri",
+      "targets": {
+        "el bosque": 45
+      },
+      "support": 45,
+      "conflict": false
+    },
+    {
+      "category": "location",
+      "source": "pavo",
+      "targets": {
+        "el laboratorio": 55
+      },
+      "support": 55,
+      "conflict": false
+    },
+    {
+      "category": "location",
+      "source": "rilo",
+      "targets": {
+        "el río": 49
+      },
+      "support": 49,
+      "conflict": false
+    },
+    {
+      "category": "location",
+      "source": "sova",
+      "targets": {
+        "la escuela": 44
+      },
+      "support": 44,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "dema",
+      "targets": {
+        "lleva": 30
+      },
+      "support": 30,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "demari",
+      "targets": {
+        "llevará": 5
+      },
+      "support": 5,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "demata",
+      "targets": {
+        "llevó": 6
+      },
+      "support": 6,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "faro",
+      "targets": {
+        "examina": 32
+      },
+      "support": 32,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "farori",
+      "targets": {
+        "examinará": 10
+      },
+      "support": 10,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "farota",
+      "targets": {
+        "examinó": 4
+      },
+      "support": 4,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "kori",
+      "targets": {
+        "guarda": 34
+      },
+      "support": 34,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "koriri",
+      "targets": {
+        "guardará": 13
+      },
+      "support": 13,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "korita",
+      "targets": {
+        "guardó": 4
+      },
+      "support": 4,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "lomu",
+      "targets": {
+        "busca": 26
+      },
+      "support": 26,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "lomuri",
+      "targets": {
+        "buscará": 6
+      },
+      "support": 6,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "lomuta",
+      "targets": {
+        "buscó": 9
+      },
+      "support": 9,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "nemi",
+      "targets": {
+        "recuerda": 18
+      },
+      "support": 18,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "nemiri",
+      "targets": {
+        "recordará": 12
+      },
+      "support": 12,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "nemita",
+      "targets": {
+        "recordó": 4
+      },
+      "support": 4,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "paki",
+      "targets": {
+        "encuentra": 24
+      },
+      "support": 24,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "pakiri",
+      "targets": {
+        "encontrará": 8
+      },
+      "support": 8,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "pakita",
+      "targets": {
+        "encontró": 6
+      },
+      "support": 6,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "sema",
+      "targets": {
+        "observa": 26
+      },
+      "support": 26,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "semari",
+      "targets": {
+        "observará": 5
+      },
+      "support": 5,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "semata",
+      "targets": {
+        "observó": 9
+      },
+      "support": 9,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "taku",
+      "targets": {
+        "describe": 26
+      },
+      "support": 26,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "takuri",
+      "targets": {
+        "describirá": 9
+      },
+      "support": 9,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "takuta",
+      "targets": {
+        "describió": 8
+      },
+      "support": 8,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "vasi",
+      "targets": {
+        "comparte": 19
+      },
+      "support": 19,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "vasiri",
+      "targets": {
+        "compartirá": 8
+      },
+      "support": 8,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "vasita",
+      "targets": {
+        "compartió": 15
+      },
+      "support": 15,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "yelo",
+      "targets": {
+        "elige": 25
+      },
+      "support": 25,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "yelori",
+      "targets": {
+        "elegirá": 11
+      },
+      "support": 11,
+      "conflict": false
+    },
+    {
+      "category": "verb",
+      "source": "yelota",
+      "targets": {
+        "eligió": 8
+      },
+      "support": 8,
+      "conflict": false
+    }
+  ],
+  "morphology": {
+    "dema": [
+      "dema",
+      "presente"
+    ],
+    "demari": [
+      "dema",
+      "futuro"
+    ],
+    "demata": [
+      "dema",
+      "pasado"
+    ],
+    "faro": [
+      "faro",
+      "presente"
+    ],
+    "farori": [
+      "faro",
+      "futuro"
+    ],
+    "farota": [
+      "faro",
+      "pasado"
+    ],
+    "kori": [
+      "kori",
+      "presente"
+    ],
+    "koriri": [
+      "kori",
+      "futuro"
+    ],
+    "korita": [
+      "kori",
+      "pasado"
+    ],
+    "lomu": [
+      "lomu",
+      "presente"
+    ],
+    "lomuri": [
+      "lomu",
+      "futuro"
+    ],
+    "lomuta": [
+      "lomu",
+      "pasado"
+    ],
+    "nemi": [
+      "nemi",
+      "presente"
+    ],
+    "nemiri": [
+      "nemi",
+      "futuro"
+    ],
+    "nemita": [
+      "nemi",
+      "pasado"
+    ],
+    "paki": [
+      "paki",
+      "presente"
+    ],
+    "pakiri": [
+      "paki",
+      "futuro"
+    ],
+    "pakita": [
+      "paki",
+      "pasado"
+    ],
+    "sema": [
+      "sema",
+      "presente"
+    ],
+    "semari": [
+      "sema",
+      "futuro"
+    ],
+    "semata": [
+      "sema",
+      "pasado"
+    ],
+    "taku": [
+      "taku",
+      "presente"
+    ],
+    "takuri": [
+      "taku",
+      "futuro"
+    ],
+    "takuta": [
+      "taku",
+      "pasado"
+    ],
+    "vasi": [
+      "vasi",
+      "presente"
+    ],
+    "vasiri": [
+      "vasi",
+      "futuro"
+    ],
+    "vasita": [
+      "vasi",
+      "pasado"
+    ],
+    "yelo": [
+      "yelo",
+      "presente"
+    ],
+    "yelori": [
+      "yelo",
+      "futuro"
+    ],
+    "yelota": [
+      "yelo",
+      "pasado"
+    ]
+  },
+  "conflicting_source_labels": {
+    "train": 0,
+    "validation": 0
+  },
+  "file_sha256": {
+    "train": "0d2d36b373eaf528c7049260d8985c28b5668fb9adfc5219f21507f48e038bad",
+    "validation": "5a9fb1b459c1567b7897a70a000933ce781b1ade74605723fd568f6ca6bf17ca",
+    "monolingual": "7ef44d6934322e58b42b287487af2de67769fe3dae58fe95badc8622bf412ab5",
+    "public": "afc1ff1888efe556a69029efe405d3ac450d1930787309df86be250ca4c4d79a"
+  },
+  "splits": {
+    "train": {
+      "rows": 420,
+      "tokens": 1641,
+      "mean_length": 3.907142857142857,
+      "vocabulary": 59,
+      "hapax": 0,
+      "js_bits_vs_train": 0.0,
+      "parsed": 420,
+      "unparsed_ids": [],
+      "signatures": {
+        "S O L V": 240,
+        "S O L NEG V": 56,
+        "S O V": 95,
+        "S O NEG V": 29
+      },
+      "phenomena": {
+        "negación": 85,
+        "pasado": 73,
+        "futuro": 87,
+        "locativo": 296
+      },
+      "novel_pairs": {
+        "subject__object": {
+          "unseen_rows": 0,
+          "parsed_rows": 420,
+          "unique_train_pairs": 106
+        },
+        "subject__root": {
+          "unseen_rows": 0,
+          "parsed_rows": 420,
+          "unique_train_pairs": 93
+        },
+        "object__root": {
+          "unseen_rows": 0,
+          "parsed_rows": 420,
+          "unique_train_pairs": 119
+        },
+        "location__root": {
+          "unseen_rows": 0,
+          "parsed_rows": 420,
+          "unique_train_pairs": 69
+        },
+        "root__tense": {
+          "unseen_rows": 0,
+          "parsed_rows": 420,
+          "unique_train_pairs": 30
+        }
+      },
+      "novel_combinations": {
+        "subject__object__root": {
+          "unseen_rows": 0,
+          "parsed_rows": 420
+        },
+        "object__location__root": {
+          "unseen_rows": 0,
+          "parsed_rows": 420
+        },
+        "root__tense__negative": {
+          "unseen_rows": 0,
+          "parsed_rows": 420
+        },
+        "subject__object__location__negative__root__tense": {
+          "unseen_rows": 0,
+          "parsed_rows": 420
+        }
+      },
+      "spanish": {
+        "tokens": 3073,
+        "vocabulary": 62,
+        "oov_against_train": []
+      }
+    },
+    "validation": {
+      "rows": 120,
+      "tokens": 462,
+      "mean_length": 3.85,
+      "vocabulary": 58,
+      "hapax": 9,
+      "js_bits_vs_train": 0.030128949541392645,
+      "parsed": 120,
+      "unparsed_ids": [],
+      "signatures": {
+        "S O V": 30,
+        "S O L V": 73,
+        "S O L NEG V": 12,
+        "S O NEG V": 5
+      },
+      "phenomena": {
+        "negación": 17,
+        "pasado": 16,
+        "futuro": 22,
+        "locativo": 85
+      },
+      "novel_pairs": {
+        "subject__object": {
+          "unseen_rows": 4,
+          "parsed_rows": 120,
+          "unique_train_pairs": 106
+        },
+        "subject__root": {
+          "unseen_rows": 0,
+          "parsed_rows": 120,
+          "unique_train_pairs": 93
+        },
+        "object__root": {
+          "unseen_rows": 2,
+          "parsed_rows": 120,
+          "unique_train_pairs": 119
+        },
+        "location__root": {
+          "unseen_rows": 1,
+          "parsed_rows": 120,
+          "unique_train_pairs": 69
+        },
+        "root__tense": {
+          "unseen_rows": 0,
+          "parsed_rows": 120,
+          "unique_train_pairs": 30
+        }
+      },
+      "novel_combinations": {
+        "subject__object__root": {
+          "unseen_rows": 87,
+          "parsed_rows": 120
+        },
+        "object__location__root": {
+          "unseen_rows": 64,
+          "parsed_rows": 120
+        },
+        "root__tense__negative": {
+          "unseen_rows": 1,
+          "parsed_rows": 120
+        },
+        "subject__object__location__negative__root__tense": {
+          "unseen_rows": 120,
+          "parsed_rows": 120
+        }
+      },
+      "spanish": {
+        "tokens": 872,
+        "vocabulary": 61,
+        "oov_against_train": []
+      }
+    },
+    "monolingual": {
+      "rows": 3000,
+      "tokens": 11663,
+      "mean_length": 3.8876666666666666,
+      "vocabulary": 59,
+      "hapax": 0,
+      "js_bits_vs_train": 0.005739102179603387,
+      "parsed": 3000,
+      "unparsed_ids": [],
+      "signatures": {
+        "S O L V": 1690,
+        "S O L NEG V": 399,
+        "S O V": 736,
+        "S O NEG V": 175
+      },
+      "phenomena": {
+        "negación": 574,
+        "pasado": 592,
+        "futuro": 578,
+        "locativo": 2089
+      },
+      "novel_pairs": {
+        "subject__object": {
+          "unseen_rows": 387,
+          "parsed_rows": 3000,
+          "unique_train_pairs": 106
+        },
+        "subject__root": {
+          "unseen_rows": 226,
+          "parsed_rows": 3000,
+          "unique_train_pairs": 93
+        },
+        "object__root": {
+          "unseen_rows": 24,
+          "parsed_rows": 3000,
+          "unique_train_pairs": 119
+        },
+        "location__root": {
+          "unseen_rows": 40,
+          "parsed_rows": 3000,
+          "unique_train_pairs": 69
+        },
+        "root__tense": {
+          "unseen_rows": 0,
+          "parsed_rows": 3000,
+          "unique_train_pairs": 30
+        }
+      },
+      "novel_combinations": {
+        "subject__object__root": {
+          "unseen_rows": 2290,
+          "parsed_rows": 3000
+        },
+        "object__location__root": {
+          "unseen_rows": 1637,
+          "parsed_rows": 3000
+        },
+        "root__tense__negative": {
+          "unseen_rows": 33,
+          "parsed_rows": 3000
+        },
+        "subject__object__location__negative__root__tense": {
+          "unseen_rows": 3000,
+          "parsed_rows": 3000
+        }
+      }
+    },
+    "public": {
+      "rows": 40,
+      "tokens": 157,
+      "mean_length": 3.925,
+      "vocabulary": 46,
+      "hapax": 8,
+      "js_bits_vs_train": 0.07865039155066228,
+      "parsed": 40,
+      "unparsed_ids": [],
+      "signatures": {
+        "S O L V": 21,
+        "S O V": 11,
+        "S O L NEG V": 8
+      },
+      "phenomena": {
+        "negación": 8,
+        "pasado": 4,
+        "futuro": 7,
+        "locativo": 29
+      },
+      "novel_pairs": {
+        "subject__object": {
+          "unseen_rows": 0,
+          "parsed_rows": 40,
+          "unique_train_pairs": 106
+        },
+        "subject__root": {
+          "unseen_rows": 0,
+          "parsed_rows": 40,
+          "unique_train_pairs": 93
+        },
+        "object__root": {
+          "unseen_rows": 2,
+          "parsed_rows": 40,
+          "unique_train_pairs": 119
+        },
+        "location__root": {
+          "unseen_rows": 1,
+          "parsed_rows": 40,
+          "unique_train_pairs": 69
+        },
+        "root__tense": {
+          "unseen_rows": 0,
+          "parsed_rows": 40,
+          "unique_train_pairs": 30
+        }
+      },
+      "novel_combinations": {
+        "subject__object__root": {
+          "unseen_rows": 34,
+          "parsed_rows": 40
+        },
+        "object__location__root": {
+          "unseen_rows": 20,
+          "parsed_rows": 40
+        },
+        "root__tense__negative": {
+          "unseen_rows": 0,
+          "parsed_rows": 40
+        },
+        "subject__object__location__negative__root__tense": {
+          "unseen_rows": 40,
+          "parsed_rows": 40
+        }
+      }
+    }
+  },
+  "ngram_coverage": {
+    "2": {
+      "train": {
+        "unique": 450,
+        "total_occurrences": 2061,
+        "unseen_occurrence_rate_vs_train": 0.0,
+        "unseen_occurrence_rate_vs_monolingual": 0.005337214944201844,
+        "unseen_occurrence_rate_vs_monolingual_without_public": 0.005337214944201844
+      },
+      "validation": {
+        "unique": 274,
+        "total_occurrences": 582,
+        "unseen_occurrence_rate_vs_train": 0.06872852233676977,
+        "unseen_occurrence_rate_vs_monolingual": 0.001718213058419244,
+        "unseen_occurrence_rate_vs_monolingual_without_public": 0.001718213058419244
+      },
+      "monolingual": {
+        "unique": 764,
+        "total_occurrences": 14663,
+        "unseen_occurrence_rate_vs_train": 0.09997954033963036,
+        "unseen_occurrence_rate_vs_monolingual": 0.0,
+        "unseen_occurrence_rate_vs_monolingual_without_public": 0.00013639773579758577
+      },
+      "public": {
+        "unique": 126,
+        "total_occurrences": 197,
+        "unseen_occurrence_rate_vs_train": 0.06091370558375635,
+        "unseen_occurrence_rate_vs_monolingual": 0.005076142131979695,
+        "unseen_occurrence_rate_vs_monolingual_without_public": 0.015228426395939087
+      }
+    },
+    "3": {
+      "train": {
+        "unique": 1031,
+        "total_occurrences": 2061,
+        "unseen_occurrence_rate_vs_train": 0.0,
+        "unseen_occurrence_rate_vs_monolingual": 0.11984473556525958,
+        "unseen_occurrence_rate_vs_monolingual_without_public": 0.12081513828238719
+      },
+      "validation": {
+        "unique": 402,
+        "total_occurrences": 582,
+        "unseen_occurrence_rate_vs_train": 0.3556701030927835,
+        "unseen_occurrence_rate_vs_monolingual": 0.10824742268041238,
+        "unseen_occurrence_rate_vs_monolingual_without_public": 0.10996563573883161
+      },
+      "monolingual": {
+        "unique": 3595,
+        "total_occurrences": 14663,
+        "unseen_occurrence_rate_vs_train": 0.39589442815249265,
+        "unseen_occurrence_rate_vs_monolingual": 0.0,
+        "unseen_occurrence_rate_vs_monolingual_without_public": 0.0013639773579758577
+      },
+      "public": {
+        "unique": 155,
+        "total_occurrences": 197,
+        "unseen_occurrence_rate_vs_train": 0.350253807106599,
+        "unseen_occurrence_rate_vs_monolingual": 0.04060913705583756,
+        "unseen_occurrence_rate_vs_monolingual_without_public": 0.14213197969543148
+      }
+    }
+  },
+  "monolingual_without_public": {
+    "rows": 2972,
+    "removed": 28
+  },
+  "vocabulary_growth": {
+    "train": [
+      {
+        "sentences": 1,
+        "mean": 3.8,
+        "min": 3,
+        "max": 5
+      },
+      {
+        "sentences": 10,
+        "mean": 26.7,
+        "min": 22,
+        "max": 31
+      },
+      {
+        "sentences": 25,
+        "mean": 42.2,
+        "min": 38,
+        "max": 46
+      },
+      {
+        "sentences": 50,
+        "mean": 51.4,
+        "min": 48,
+        "max": 56
+      },
+      {
+        "sentences": 100,
+        "mean": 56.05,
+        "min": 52,
+        "max": 59
+      },
+      {
+        "sentences": 200,
+        "mean": 58.65,
+        "min": 57,
+        "max": 59
+      },
+      {
+        "sentences": 420,
+        "mean": 59.0,
+        "min": 59,
+        "max": 59
+      }
+    ],
+    "monolingual": [
+      {
+        "sentences": 1,
+        "mean": 3.85,
+        "min": 3,
+        "max": 5
+      },
+      {
+        "sentences": 10,
+        "mean": 26.6,
+        "min": 23,
+        "max": 32
+      },
+      {
+        "sentences": 25,
+        "mean": 42.6,
+        "min": 38,
+        "max": 46
+      },
+      {
+        "sentences": 50,
+        "mean": 50.8,
+        "min": 48,
+        "max": 55
+      },
+      {
+        "sentences": 100,
+        "mean": 56.05,
+        "min": 54,
+        "max": 59
+      },
+      {
+        "sentences": 200,
+        "mean": 58.65,
+        "min": 57,
+        "max": 59
+      },
+      {
+        "sentences": 500,
+        "mean": 59.0,
+        "min": 59,
+        "max": 59
+      },
+      {
+        "sentences": 1000,
+        "mean": 59.0,
+        "min": 59,
+        "max": 59
+      },
+      {
+        "sentences": 2000,
+        "mean": 59.0,
+        "min": 59,
+        "max": 59
+      },
+      {
+        "sentences": 3000,
+        "mean": 59.0,
+        "min": 59,
+        "max": 59
+      }
+    ]
+  },
+  "matplotlib": "3.11.2",
+  "figures": [
+    "01_tamano_corpus",
+    "02_longitudes",
+    "03_frecuencias",
+    "04_posiciones",
+    "05_fenomenos",
+    "06_cruces",
+    "07_cobertura_ngramas",
+    "08_composicion_morfologia",
+    "09_novedad_plantillas",
+    "10_aporte_monolingue"
+  ]
+}
