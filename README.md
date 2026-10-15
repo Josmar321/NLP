@@ -1,5 +1,8 @@
 # LEXICON-X · Eráviri → español
 
+Guion completo de exposición de las cuatro etapas, con gráficas, notas orales,
+preguntas de defensa y recorrido de cinco minutos: [PRESENTACION.MD](PRESENTACION.MD).
+
 Etapas implementadas: preprocesamiento, EDA, modelos estadísticos de lenguaje
 y traducción composicional Eráviri–español. Se incluyen evaluación, tres
 ablaciones y predicciones separadas del público y de fase 5.
